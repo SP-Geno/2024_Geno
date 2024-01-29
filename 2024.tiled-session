@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "conference.tmj",
+    "activeFile": "tordurchgang.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -121,10 +121,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 0,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 73.5,
-                "y": 477.5
+                "x": 56.5,
+                "y": 222.5
             }
         },
         "castle.tmj#Castle2": {
@@ -265,10 +265,10 @@
                 2
             ],
             "scale": 0.6502520161290322,
-            "selectedLayer": 0,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 248.3652430044183,
-                "y": 543.6353771025504
+                "x": 863.5113557088599,
+                "y": 334.4856987830401
             }
         },
         "map.tmj#WA_Decoration": {
@@ -311,10 +311,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 94.5,
-                "y": 34.5
+                "x": 95.5,
+                "y": 189.5
             }
         },
         "tordurchgang.tmj#Castle2": {
@@ -332,15 +332,17 @@
     "map.width": 4,
     "openFiles": [
         "map.tmj",
-        "castle.tmj",
-        "conference.tmj"
+        "conference.tmj",
+        "tordurchgang.tmj",
+        "castle.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "castle.tmj",
         "map.tmj",
         "conference.tmj",
+        "castle.tmj",
+        "tordurchgang.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj",
         "castle.tmj.tmx",
         "60x40 Test Map.tmx",
@@ -349,6 +351,7 @@
         "WA_Decoration.tsx"
     ],
     "resizeMap.removeObjects": false,
+    "textEdit.monospace": true,
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
     "tileset.lastUsedFormat": "tsx"

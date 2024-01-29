@@ -171,6 +171,28 @@
                  "width":95,
                  "x":48,
                  "y":0
+                }, 
+                {
+                 "height":252,
+                 "id":3,
+                 "name":"backgroundmusic",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.6
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"file",
+                         "value":"https:\/\/soundcloud.com\/atmospheric-music-portal\/ron-gelinas-ready-copyright-free-music?in=atmospheric-music-portal\/sets\/royalty-free-chill-soul-rnb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":122,
+                 "x":35,
+                 "y":64
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -179,7 +201,7 @@
          "y":0
         }],
  "nextlayerid":9,
- "nextobjectid":3,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
