@@ -108,6 +108,53 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "castle.tmj": {
+            "expandedGroupLayers": [
+                8
+            ],
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 459,
+                "y": 342.5
+            }
+        },
+        "castle.tmj#Castle2": {
+            "scaleInDock": 1
+        },
+        "castle.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "castle.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "castle.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "castle.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "castle.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "castle.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "castle.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "castle.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "castle.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "castle.tmj#tileset_town_multi_v002": {
+            "scaleInDock": 1
+        },
         "castle.tmj.tmx": {
             "expandedGroupLayers": [
                 6,
@@ -211,10 +258,10 @@
                 2
             ],
             "scale": 0.6502520161290322,
-            "selectedLayer": 4,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 453.6702581195257,
-                "y": 113.03309820944116
+                "x": -236.83125339121,
+                "y": 140.71467328114096
             }
         },
         "map.tmj#WA_Decoration": {
