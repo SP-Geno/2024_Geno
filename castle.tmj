@@ -336,13 +336,36 @@
                 {
                  "height":34,
                  "id":13,
-                 "name":"zumTordurchgang",
+                 "name":"zumtordurchgang",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"tordurchgang.tmj#from-castle"
+                        }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":68,
                  "x":449,
                  "y":330
+                }, 
+                {
+                 "height":26,
+                 "id":14,
+                 "name":"from-tordurchgang",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":63,
+                 "x":447,
+                 "y":177
                 }],
          "opacity":1,
          "properties":[
@@ -357,7 +380,7 @@
          "y":0
         }],
  "nextlayerid":16,
- "nextobjectid":14,
+ "nextobjectid":15,
  "orientation":"orthogonal",
  "properties":[
         {
