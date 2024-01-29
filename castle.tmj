@@ -5572,14 +5572,39 @@
         },
         {
           "id": 13,
-          "name": "zumTordurchgang",
+          "name": "zumtordurchgang",
           "visible": true,
           "x": 449,
           "y": 330,
           "height": 34,
+          "properties": [
+            {
+              "name": "exitUrl",
+              "type": "string",
+              "value": "tordurchgang.tmj#from-castle"
+            }
+          ],
           "rotation": 0,
           "type": "area",
           "width": 68
+        },
+        {
+          "id": 14,
+          "name": "from-tordurchgang",
+          "visible": true,
+          "x": 447,
+          "y": 177,
+          "height": 26,
+          "properties": [
+            {
+              "name": "start",
+              "type": "bool",
+              "value": true
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 63
         }
       ],
       "opacity": 1,
@@ -5603,7 +5628,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "castle-chunk-1-d8e83ac5.png",
+      "image": "castle-chunk-1-8c917752.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -5662,7 +5687,7 @@
   "height": 20,
   "infinite": false,
   "nextlayerid": 16,
-  "nextobjectid": 14,
+  "nextobjectid": 15,
   "orientation": "orthogonal",
   "properties": [
     {
