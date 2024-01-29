@@ -116,14 +116,15 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 12,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 459,
-                "y": 342.5
+                "x": 698,
+                "y": 100.5
             }
         },
         "castle.tmj#Castle2": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "castle.tmj#WA_Decoration": {
             "scaleInDock": 1
@@ -144,7 +145,8 @@
             "scaleInDock": 1
         },
         "castle.tmj#WA_Special_Zones": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "castle.tmj#WA_Tables": {
             "scaleInDock": 1
@@ -213,10 +215,10 @@
                 61
             ],
             "scale": 0.8399088541666666,
-            "selectedLayer": 14,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 404.8058290055035,
-                "y": 45.83830710797611
+                "x": 403.6152236260756,
+                "y": 44.64770172854816
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -258,10 +260,10 @@
                 2
             ],
             "scale": 0.6502520161290322,
-            "selectedLayer": 12,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": -236.83125339121,
-                "y": 140.71467328114096
+                "x": 378.31485931323164,
+                "y": 528.2567242849392
             }
         },
         "map.tmj#WA_Decoration": {
@@ -287,7 +289,8 @@
             "scaleInDock": 1
         },
         "map.tmj#WA_Special_Zones": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.tmj#WA_Tables": {
             "scaleInDock": 1
@@ -306,8 +309,8 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj",
         "conference.tmj",
+        "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj",
         "castle.tmj.tmx",
         "map.tmj",
         "60x40 Test Map.tmx",

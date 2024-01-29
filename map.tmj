@@ -61,7 +61,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
@@ -605,10 +605,28 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":2,
                  "properties":[
                         {
                          "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"exit",
                          "type":"bool",
                          "value":true
                         }]
