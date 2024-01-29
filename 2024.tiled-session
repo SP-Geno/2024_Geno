@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "map.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -110,16 +110,17 @@
         },
         "castle.tmj": {
             "expandedGroupLayers": [
-                8
+                8,
+                6
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 310,
-                "y": 100.5
+                "x": 480,
+                "y": 319.5
             }
         },
         "castle.tmj#Castle2": {
@@ -260,10 +261,10 @@
                 2
             ],
             "scale": 0.6502520161290322,
-            "selectedLayer": 0,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 378.31485931323164,
-                "y": 528.2567242849392
+                "x": 13.840787535849927,
+                "y": 543.6353771025504
             }
         },
         "map.tmj#WA_Decoration": {
@@ -301,18 +302,21 @@
     },
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets",
     "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets",
-    "map.height": 40,
+    "map.height": 4,
     "map.lastUsedFormat": "json",
-    "map.width": 60,
+    "map.width": 12,
     "openFiles": [
+        "castle.tmj",
+        "map.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "castle.tmj",
+        "map.tmj",
         "conference.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj",
         "castle.tmj.tmx",
-        "map.tmj",
         "60x40 Test Map.tmx",
         "WA_Exterior.tsx",
         "WA_Special_Zones.tsx",
