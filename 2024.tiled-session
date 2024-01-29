@@ -114,16 +114,17 @@
         "castle.tmj": {
             "expandedGroupLayers": [
                 8,
+                16,
                 6
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 482.5,
-                "y": 346.5
+                "x": 73.5,
+                "y": 477.5
             }
         },
         "castle.tmj#Castle2": {
@@ -221,7 +222,7 @@
             "scale": 0.8399088541666666,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 652.4517479265174,
+                "x": 836.400279048136,
                 "y": 47.02891248740406
             }
         },
@@ -264,9 +265,9 @@
                 2
             ],
             "scale": 0.6502520161290322,
-            "selectedLayer": 12,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 7.6893264088055275,
+                "x": 248.3652430044183,
                 "y": 543.6353771025504
             }
         },
