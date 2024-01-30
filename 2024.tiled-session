@@ -258,11 +258,14 @@
             "scaleInDock": 1
         },
         "innenhof.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 304.5,
-                "y": 755.5
+                "x": 318.5,
+                "y": 756.5
             }
         },
         "map.tmj": {
