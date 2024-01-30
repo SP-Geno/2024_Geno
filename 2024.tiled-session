@@ -121,10 +121,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 11,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 479.5,
-                "y": 320.5
+                "x": 481.5,
+                "y": 9.5
             }
         },
         "castle.tmj#Castle2": {
@@ -257,6 +257,14 @@
         "conference.tmj#WA_User_Interface": {
             "scaleInDock": 1
         },
+        "innenhof.tmj": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 304.5,
+                "y": 755.5
+            }
+        },
         "map.tmj": {
             "expandedGroupLayers": [
                 55
@@ -313,8 +321,8 @@
             "scale": 1,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 311.5,
-                "y": 192.5
+                "x": 94.5,
+                "y": 92.5
             }
         },
         "tordurchgang.tmj#Castle2": {
@@ -327,9 +335,9 @@
     },
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Stadt",
     "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets",
-    "map.height": 12,
+    "map.height": 32,
     "map.lastUsedFormat": "json",
-    "map.width": 4,
+    "map.width": 40,
     "openFiles": [
         "map.tmj",
         "conference.tmj",
