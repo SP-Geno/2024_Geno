@@ -197,8 +197,8 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 325.5,
-                "y": 356.5
+                "x": 480,
+                "y": 320.5
             }
         },
         "castle.tmj#Castle2": {
@@ -286,8 +286,8 @@
         },
         "conference.tmj": {
             "expandedGroupLayers": [
-                55,
-                51
+                51,
+                55
             ],
             "expandedObjectLayers": [
                 2,
@@ -296,8 +296,8 @@
             "scale": 0.8399088541666666,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 342.299046585536,
-                "y": 45.83830710797611
+                "x": 341.10844120610807,
+                "y": 44.64770172854816
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -332,12 +332,19 @@
             "scaleInDock": 1
         },
         "gameroom.tmj": {
+            "expandedGroupLayers": [
+                10,
+                5
+            ],
             "scale": 1.5,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 69,
-                "y": 264.3333333333333
+                "x": 68.33333333333337,
+                "y": 263
             }
+        },
+        "gameroom.tmj#32x32_map_tile v3.1": {
+            "scaleInDock": 1
         },
         "gameroom.tmj#Castle2": {
             "scaleInDock": 1
@@ -361,7 +368,8 @@
             "scaleInDock": 1
         },
         "gameroom.tmj#WA_Special_Zones": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "gameroom.tmj#WA_Tables": {
             "scaleInDock": 1
@@ -370,15 +378,33 @@
             "scaleInDock": 1
         },
         "innenhof.tmj": {
+            "expandedGroupLayers": [
+                6
+            ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 318.5,
-                "y": 755.5
+                "x": 643.5,
+                "y": 1022.5
             }
+        },
+        "innenhof.tmj#32x32_map_tile v3.1": {
+            "scaleInDock": 1
+        },
+        "innenhof.tmj#32x32_map_tile v3.1 [MARGINLESS]": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenhof.tmj#WA_Special_Zones": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenhof.tmj#ship 32x32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.tmj": {
             "expandedGroupLayers": [
@@ -390,8 +416,8 @@
             "scale": 0.6502520161290322,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 402.1517711805287,
-                "y": 332.947833501279
+                "x": 495.19262072707545,
+                "y": 336.0235640648012
             }
         },
         "map.tmj#WA_Decoration": {
@@ -436,8 +462,8 @@
             "scale": 1,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 94.5,
-                "y": 92.5
+                "x": 96,
+                "y": 192.5
             }
         },
         "tordurchgang.tmj#Castle2": {
