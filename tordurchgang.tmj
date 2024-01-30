@@ -451,8 +451,8 @@
           "name": "from-castle",
           "visible": true,
           "x": 56,
-          "y": 338,
-          "height": 45,
+          "y": 256,
+          "height": 37,
           "properties": [
             {
               "name": "start",
@@ -481,29 +481,6 @@
           "rotation": 0,
           "type": "area",
           "width": 95
-        },
-        {
-          "id": 3,
-          "name": "backgroundmusic",
-          "visible": true,
-          "x": 35,
-          "y": 64,
-          "height": 252,
-          "properties": [
-            {
-              "name": "audioVolume",
-              "type": "float",
-              "value": 0.6
-            },
-            {
-              "name": "playAudio",
-              "type": "file",
-              "value": "https://soundcloud.com/atmospheric-music-portal/ron-gelinas-ready-copyright-free-music?in=atmospheric-music-portal/sets/royalty-free-chill-soul-rnb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
-            }
-          ],
-          "rotation": 0,
-          "type": "area",
-          "width": 122
         }
       ],
       "opacity": 1,
@@ -520,7 +497,7 @@
     {
       "columns": 5,
       "firstgid": 1,
-      "image": "tordurchgang-chunk-1-312c5645.png",
+      "image": "tordurchgang-chunk-1-321fece6.png",
       "imageheight": 160,
       "imagewidth": 160,
       "margin": 0,
@@ -559,7 +536,7 @@
   "height": 12,
   "infinite": false,
   "nextlayerid": 9,
-  "nextobjectid": 9,
+  "nextobjectid": 12,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
