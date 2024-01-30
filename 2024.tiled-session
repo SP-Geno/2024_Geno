@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "tordurchgang.tmj",
+    "activeFile": "conference.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -60,6 +60,82 @@
         "60x40 Test Map.tmx#tileset_town_multi_v002": {
             "scaleInDock": 1
         },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj": {
+            "scale": 1.6229166666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384.1848523748395,
+                "y": 379.8716302952503
+            }
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj": {
+            "scale": 0.8034179687499999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 371.53762003160335,
+                "y": 512.1867023216239
+            }
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
         "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj": {
             "scale": 1.1360416666666666,
             "selectedLayer": 5,
@@ -113,9 +189,7 @@
         },
         "castle.tmj": {
             "expandedGroupLayers": [
-                8,
-                6,
-                16
+                8
             ],
             "expandedObjectLayers": [
                 2
@@ -123,8 +197,8 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 481.5,
-                "y": 9.5
+                "x": 325.5,
+                "y": 356.5
             }
         },
         "castle.tmj#Castle2": {
@@ -220,10 +294,10 @@
                 61
             ],
             "scale": 0.8399088541666666,
-            "selectedLayer": 12,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 383.3749321758004,
-                "y": 224.42911402216887
+                "x": 342.299046585536,
+                "y": 45.83830710797611
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -303,7 +377,7 @@
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 318.5,
-                "y": 756.5
+                "y": 755.5
             }
         },
         "map.tmj": {
@@ -316,8 +390,8 @@
             "scale": 0.6502520161290322,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 495.19262072707545,
-                "y": 336.0235640648012
+                "x": 402.1517711805287,
+                "y": 332.947833501279
             }
         },
         "map.tmj#WA_Decoration": {
@@ -382,22 +456,26 @@
     "openFiles": [
         "map.tmj",
         "conference.tmj",
-        "tordurchgang.tmj",
-        "castle.tmj"
-    ],
-    "project": "2024.tiled-project",
-    "property.type": "string",
-    "recentFiles": [
-        "map.tmj",
-        "conference.tmj",
         "castle.tmj",
         "tordurchgang.tmj",
+        "innenhof.tmj",
+        "gameroom.tmj"
+    ],
+    "project": "2024.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "map.tmj",
+        "gameroom.tmj",
+        "innenhof.tmj",
+        "tordurchgang.tmj",
+        "castle.tmj",
+        "conference.tmj",
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj",
         "castle.tmj.tmx",
         "60x40 Test Map.tmx",
-        "WA_Exterior.tsx",
-        "WA_Special_Zones.tsx",
-        "WA_Decoration.tsx"
+        "WA_Exterior.tsx"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
