@@ -11,6 +11,13 @@
       "width": 12,
       "compression": "zlib",
       "encoding": "base64",
+      "properties": [
+        {
+          "name": "start",
+          "type": "bool",
+          "value": true
+        }
+      ],
       "x": 0,
       "y": 0
     },
