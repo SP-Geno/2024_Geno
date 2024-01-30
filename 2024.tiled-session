@@ -114,8 +114,8 @@
         "castle.tmj": {
             "expandedGroupLayers": [
                 8,
-                16,
-                6
+                6,
+                16
             ],
             "expandedObjectLayers": [
                 2
@@ -123,8 +123,8 @@
             "scale": 1,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 56.5,
-                "y": 222.5
+                "x": 479.5,
+                "y": 320.5
             }
         },
         "castle.tmj#Castle2": {
@@ -212,18 +212,18 @@
         },
         "conference.tmj": {
             "expandedGroupLayers": [
-                51,
-                55
+                55,
+                51
             ],
             "expandedObjectLayers": [
-                61,
-                2
+                2,
+                61
             ],
             "scale": 0.8399088541666666,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 836.400279048136,
-                "y": 47.02891248740406
+                "x": 383.3749321758004,
+                "y": 224.42911402216887
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -267,8 +267,8 @@
             "scale": 0.6502520161290322,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 863.5113557088599,
-                "y": 334.4856987830401
+                "x": 495.19262072707545,
+                "y": 336.0235640648012
             }
         },
         "map.tmj#WA_Decoration": {
@@ -313,8 +313,8 @@
             "scale": 1,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 95.5,
-                "y": 189.5
+                "x": 311.5,
+                "y": 192.5
             }
         },
         "tordurchgang.tmj#Castle2": {
