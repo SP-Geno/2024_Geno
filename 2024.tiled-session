@@ -257,6 +257,44 @@
         "conference.tmj#WA_User_Interface": {
             "scaleInDock": 1
         },
+        "gameroom.tmj": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 69,
+                "y": 264.3333333333333
+            }
+        },
+        "gameroom.tmj#Castle2": {
+            "scaleInDock": 1
+        },
+        "gameroom.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "gameroom.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "gameroom.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "gameroom.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "gameroom.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "gameroom.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "gameroom.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "gameroom.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "gameroom.tmj#tileset_town_multi_v002": {
+            "scaleInDock": 1
+        },
         "innenhof.tmj": {
             "expandedObjectLayers": [
                 2
@@ -348,7 +386,7 @@
         "castle.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "map.tmj",
         "conference.tmj",

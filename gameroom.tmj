@@ -133,6 +133,17 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":16,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "id":10,
          "layers":[
                 {
@@ -184,7 +195,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":16,
+ "nextlayerid":17,
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -220,7 +231,7 @@
         {
          "columns":25,
          "firstgid":1013,
-         "image":"..\/2024_Geno\/tilesets\/WA_Exterior.png",
+         "image":"tilesets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -285,7 +296,7 @@
         {
          "columns":8,
          "firstgid":2581,
-         "image":"..\/2024_Geno\/tilesets\/Stadt\/tileset_town_multi_v002.png",
+         "image":"tilesets\/Stadt\/tileset_town_multi_v002.png",
          "imageheight":2240,
          "imagewidth":256,
          "margin":0,
@@ -298,7 +309,7 @@
         {
          "columns":16,
          "firstgid":3141,
-         "image":"..\/2024_Geno\/tilesets\/Stadt\/Castle2.png",
+         "image":"tilesets\/Stadt\/Castle2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -311,7 +322,7 @@
         {
          "columns":12,
          "firstgid":3397,
-         "image":"..\/2024_Geno\/tilesets\/WA_Decoration.png",
+         "image":"tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
