@@ -1,0 +1,205 @@
+{
+  "layers": [
+    {
+      "data": "eJxjYBgFgxH8YKStemIBExKmFRClonoAP7wCIw==",
+      "height": 15,
+      "id": 1,
+      "name": "start",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 12,
+      "compression": "zlib",
+      "encoding": "base64",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "data": "eJxjYBgFowA3YEXCQwEAAAzkABA=",
+      "height": 15,
+      "id": 14,
+      "name": "entryMap",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 12,
+      "compression": "zlib",
+      "encoding": "base64",
+      "properties": [
+        {
+          "name": "startLayer",
+          "type": "bool",
+          "value": true
+        }
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "data": "eJxjYBj6gG2gHTAKBg0AAA8YAAc=",
+      "height": 15,
+      "id": 13,
+      "name": "ExitToMap",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 12,
+      "compression": "zlib",
+      "encoding": "base64",
+      "properties": [
+        {
+          "name": "exitUrl",
+          "type": "string",
+          "value": "map.tmj"
+        }
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "data": "eJxjZmBgYB7imBD4wQihidVHyA50MZD5lKpnxqMeXR1IPyGMzRxCAKZegIWwWpAaasYfOXGNTR4ABxANKw==",
+      "height": 15,
+      "id": 2,
+      "name": "collides",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 12,
+      "compression": "zlib",
+      "encoding": "base64",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "Floor",
+      "opacity": 1,
+      "type": "group",
+      "layers": [
+        {
+          "data": "eJybwcbAMIMEPIFxFI9i+mFcaRBX+gQA7PRnIA==",
+          "height": 15,
+          "id": 3,
+          "name": "floor",
+          "opacity": 1,
+          "type": "tilelayer",
+          "visible": true,
+          "width": 12,
+          "compression": "zlib",
+          "encoding": "base64",
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "visible": true,
+      "id": 6,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "Walls",
+      "opacity": 1,
+      "type": "group",
+      "layers": [
+        {
+          "data": "eJxjYCANePMwMPgAsS8UE2JHA/FcoL55QDwfiBcA8UIG7GJxZKonBOqheLCqr2cgDtNDfTYQp6HhdCxiIJwHxNVAXIaGy7GIgXAdEHcDcRsabsciBsJ9OMJyOp4wBgDfSD3b",
+          "height": 15,
+          "id": 4,
+          "name": "walls",
+          "opacity": 1,
+          "type": "tilelayer",
+          "visible": true,
+          "width": 12,
+          "compression": "zlib",
+          "encoding": "base64",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "data": "eJxjYKAfiOQkX68nO2nqY0lUPwqGBwAAXn8BFw==",
+          "height": 15,
+          "id": 11,
+          "name": "walls2",
+          "opacity": 1,
+          "type": "tilelayer",
+          "visible": true,
+          "width": 12,
+          "compression": "zlib",
+          "encoding": "base64",
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "visible": true,
+      "id": 5,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "furniture",
+      "opacity": 1,
+      "type": "group",
+      "layers": [
+        {
+          "data": "eJxjYBgawIUTt1wzOwNDCzvxZvUC1fYBcQYOPBWIpyGZNx3I3sUBYe8E0vxALMgBEQOpB4ktQFK/Gk29JBBLo6nfgqR+K5C9DcpfCZRTBmJVDoR79gLxPhz+w+WHkQoAkGIX8g==",
+          "height": 15,
+          "id": 7,
+          "name": "furtniture",
+          "opacity": 1,
+          "type": "tilelayer",
+          "visible": true,
+          "width": 12,
+          "compression": "zlib",
+          "encoding": "base64",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "data": "eJxjYBgF5ABXzqFp9nAHAN9WAJ0=",
+          "height": 15,
+          "id": 12,
+          "name": "furtniture2",
+          "opacity": 1,
+          "type": "tilelayer",
+          "visible": true,
+          "width": 12,
+          "compression": "zlib",
+          "encoding": "base64",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "data": "eJxjYBh5wI2TNDXKaOpVOLGLkaseG4ghwo2jABMAALEGAmg=",
+          "height": 15,
+          "id": 9,
+          "name": "furniture 3",
+          "opacity": 1,
+          "type": "tilelayer",
+          "visible": true,
+          "width": 12,
+          "compression": "zlib",
+          "encoding": "base64",
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "visible": true,
+      "id": 10,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "tiledversion": "1.10.2",
+  "tilesets": [],
+  "type": "map",
+  "compressionlevel": -1,
+  "height": 15,
+  "infinite": false,
+  "nextlayerid": 16,
+  "nextobjectid": 2,
+  "orientation": "orthogonal",
+  "renderorder": "right-down",
+  "tileheight": 32,
+  "tilewidth": 32,
+  "version": "1.10",
+  "width": 12
+}
