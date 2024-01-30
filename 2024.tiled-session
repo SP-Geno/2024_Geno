@@ -259,7 +259,7 @@
         },
         "gameroom.tmj": {
             "scale": 1.5,
-            "selectedLayer": 0,
+            "selectedLayer": 9,
             "viewCenter": {
                 "x": 69,
                 "y": 264.3333333333333
