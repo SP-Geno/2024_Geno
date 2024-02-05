@@ -15,22 +15,7 @@
                  "name":"start",
                  "type":"bool",
                  "value":true
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":12,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "compression":"zlib",
-         "data":"eJxjYBgFowA3YEXCQwEAAAzkABA=",
-         "encoding":"base64",
-         "height":15,
-         "id":14,
-         "name":"entryMap",
-         "opacity":1,
-         "properties":[
+                }, 
                 {
                  "name":"startLayer",
                  "type":"bool",
@@ -81,7 +66,7 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJybwcbAMIMEPIFxFI9i+mFcaRBX+gQA7PRnIA==",
+                 "data":"eJwrZWRgKB1heAKJatDVT8AhRq56arl5FDMwAAAhSVQi",
                  "encoding":"base64",
                  "height":15,
                  "id":3,
@@ -105,7 +90,7 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJxjYCANePMwMPgAsS8UE2JHA\/FcoL55QDwfiBcA8UIG7GJxZKonBOqheLCqr2cgDtNDfTYQp6HhdCxiIJwHxNVAXIaGy7GIgXAdEHcDcRsabsciBsJ9OMJyOp4wBgDfSD3b",
+                 "data":"eJxrYWBgaCGAW4G4DYjbgfgzEH+B0oQwSN1GHgaGMwzEYZBactQTAvVQPFjV1zMQh+mlfjBhbACfHADvC12\/",
                  "encoding":"base64",
                  "height":15,
                  "id":4,
@@ -119,7 +104,7 @@
                 }, 
                 {
                  "compression":"zlib",
-                 "data":"eJxjYKAfiOQkX68nO2nqY0lUPwqGBwAAXn8BFw==",
+                 "data":"eJxjYCANnMGBidWDyxxs6gmZQcjOUTDyAADELQ8l",
                  "encoding":"base64",
                  "height":15,
                  "id":11,
@@ -154,7 +139,7 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJxjYBgawIUTt1wzOwNDCzvxZvUC1fYBcQYOPBWIpyGZNx3I3sUBYe8E0vxALMgBEQOpB4ktQFK\/Gk29JBBLo6nfgqR+K5C9DcpfCZRTBmJVDoR79gLxPhz+w+WHkQoAkGIX8g==",
+                 "data":"eJxjYBgaIBGPXDM7A0MLO\/Hqe4Fq+4A4AweeCsTTkMybDmTv4oCwdwJpfiAW5ICIgdSDxBYgqV+Npl4SiKXR1G9BUr8VyN4G5a8EyikDsSoHwj17gXgfmv9gAJcfRioAAHqSGGc=",
                  "encoding":"base64",
                  "height":15,
                  "id":7,
@@ -367,19 +352,6 @@
          "name":"32x32_map_tile v3.1",
          "spacing":0,
          "tilecount":667,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":6,
-         "firstgid":4160,
-         "image":"tilesets\/WA_Special_Zones.png",
-         "imageheight":64,
-         "imagewidth":192,
-         "margin":0,
-         "name":"WA_Special_Zones",
-         "spacing":0,
-         "tilecount":12,
          "tileheight":32,
          "tilewidth":32
         }],

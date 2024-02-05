@@ -290,14 +290,14 @@
                 55
             ],
             "expandedObjectLayers": [
-                2,
-                61
+                61,
+                2
             ],
             "scale": 0.8399088541666666,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 341.10844120610807,
-                "y": 44.64770172854816
+                "x": 383.3749321758004,
+                "y": 224.42911402216887
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -387,8 +387,8 @@
             "scale": 1,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 643.5,
-                "y": 770.5
+                "x": 696.5,
+                "y": 559.5
             }
         },
         "innenhof.tmj#32x32_map_tile v3.1": {
