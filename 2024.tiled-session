@@ -333,14 +333,15 @@
         },
         "gameroom.tmj": {
             "expandedGroupLayers": [
-                10,
-                5
+                5,
+                6,
+                10
             ],
             "scale": 1.5,
-            "selectedLayer": 9,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 68.33333333333337,
-                "y": 263
+                "y": 262.3333333333333
             }
         },
         "gameroom.tmj#32x32_map_tile v3.1": {
@@ -387,8 +388,8 @@
             "scale": 1,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 696.5,
-                "y": 559.5
+                "x": 695.5,
+                "y": 810.5
             }
         },
         "innenhof.tmj#32x32_map_tile v3.1": {
@@ -476,26 +477,21 @@
     },
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Stadt",
     "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets",
-    "map.height": 32,
+    "map.height": 24,
     "map.lastUsedFormat": "json",
-    "map.width": 40,
+    "map.width": 30,
     "openFiles": [
-        "map.tmj",
-        "conference.tmj",
-        "castle.tmj",
-        "tordurchgang.tmj",
-        "innenhof.tmj",
         "gameroom.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "gameroom.tmj",
+        "innenhof.tmj",
         "map.tmj",
         "conference.tmj",
         "castle.tmj",
         "tordurchgang.tmj",
-        "innenhof.tmj",
-        "gameroom.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj",
