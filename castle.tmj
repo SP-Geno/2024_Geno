@@ -5600,7 +5600,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "innenhof.tmj#from-castle"
+              "value": "seezugang.tmj#from-castle"
             }
           ],
           "rotation": 0,
@@ -5624,6 +5624,17 @@
           "rotation": 0,
           "type": "area",
           "width": 157
+        },
+        {
+          "id": 17,
+          "name": "",
+          "visible": true,
+          "x": 604,
+          "y": 497,
+          "height": 126,
+          "rotation": 0,
+          "type": "",
+          "width": 213
         }
       ],
       "opacity": 1,
@@ -5647,7 +5658,7 @@
     {
       "columns": 14,
       "firstgid": 1,
-      "image": "castle-chunk-1-296c3d90.png",
+      "image": "castle-chunk-1-33dd10d3.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -5726,7 +5737,7 @@
   "height": 20,
   "infinite": false,
   "nextlayerid": 17,
-  "nextobjectid": 17,
+  "nextobjectid": 18,
   "orientation": "orthogonal",
   "properties": [
     {
