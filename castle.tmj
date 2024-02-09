@@ -358,7 +358,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"innenhof.tmj#from-castle"
+                         "value":"seezugang.tmj#from-castle"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -383,6 +383,17 @@
                  "width":157,
                  "x":196,
                  "y":436
+                }, 
+                {
+                 "height":126,
+                 "id":17,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":213,
+                 "x":604,
+                 "y":497
                 }],
          "opacity":1,
          "properties":[
@@ -397,7 +408,7 @@
          "y":0
         }],
  "nextlayerid":17,
- "nextobjectid":17,
+ "nextobjectid":18,
  "orientation":"orthogonal",
  "properties":[
         {

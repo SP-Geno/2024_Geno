@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "gameroom.tmj",
+    "activeFile": "castle.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -197,8 +197,8 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 480,
-                "y": 320.5
+                "x": 345.5,
+                "y": 315.5
             }
         },
         "castle.tmj#Castle2": {
@@ -333,15 +333,15 @@
         },
         "gameroom.tmj": {
             "expandedGroupLayers": [
-                5,
                 6,
+                5,
                 10
             ],
             "scale": 1.5,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 68.33333333333337,
-                "y": 262.3333333333333
+                "x": 192,
+                "y": 239.66666666666666
             }
         },
         "gameroom.tmj#32x32_map_tile v3.1": {
@@ -453,6 +453,33 @@
         "map.tmj#WA_User_Interface": {
             "scaleInDock": 1
         },
+        "seezugang.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 52.5,
+                "y": 857.5
+            }
+        },
+        "seezugang.tmj#32x32_map_tile v3.1": {
+            "scaleInDock": 1
+        },
+        "seezugang.tmj#32x32_map_tile v3.1 [MARGINLESS]": {
+            "scaleInDock": 1
+        },
+        "seezugang.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "seezugang.tmj#WA_Special_Zones": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "seezugang.tmj#ship 32x32": {
+            "scaleInDock": 1
+        },
         "tordurchgang.tmj": {
             "expandedGroupLayers": [
                 5
@@ -463,8 +490,8 @@
             "scale": 1,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 96,
-                "y": 192.5
+                "x": 95.5,
+                "y": 191.5
             }
         },
         "tordurchgang.tmj#Castle2": {
@@ -481,23 +508,24 @@
     "map.lastUsedFormat": "json",
     "map.width": 30,
     "openFiles": [
-        "gameroom.tmj"
+        "gameroom.tmj",
+        "castle.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "gameroom.tmj",
+        "castle.tmj",
+        "seezugang.tmj",
+        "tordurchgang.tmj",
         "innenhof.tmj",
         "map.tmj",
         "conference.tmj",
-        "castle.tmj",
-        "tordurchgang.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj",
         "castle.tmj.tmx",
-        "60x40 Test Map.tmx",
-        "WA_Exterior.tsx"
+        "60x40 Test Map.tmx"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
