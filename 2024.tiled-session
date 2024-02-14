@@ -106,10 +106,10 @@
                 2
             ],
             "scale": 0.8034179687499999,
-            "selectedLayer": 14,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 462.399416555245,
-                "y": 115.13309833475148
+                "y": 742.452898991127
             }
         },
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Decoration": {
@@ -463,16 +463,17 @@
         "office_tryout.tmj": {
             "expandedGroupLayers": [
                 7,
+                14,
                 9
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 1,
-            "selectedLayer": 11,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": -279.5,
-                "y": 650.5
+                "x": 597.5,
+                "y": 775.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
