@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "castle.tmj",
+    "activeFile": "office_tryout.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -111,8 +111,8 @@
             "scale": 0.8034179687499999,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 529.6122523398566,
-                "y": 44.18621611766133
+                "x": 864.4317491187554,
+                "y": 630.4315060167742
             }
         },
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Decoration": {
@@ -466,10 +466,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
+                9,
                 7,
                 17,
-                14,
-                9
+                14
             ],
             "expandedObjectLayers": [
                 2
@@ -477,8 +477,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 957.5,
-                "y": 56.5
+                "x": 481.5,
+                "y": 586.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -564,12 +564,14 @@
     "map.lastUsedFormat": "json",
     "map.width": 40,
     "openFiles": [
-        "gameroom.tmj",
-        "castle.tmj"
+        "office_tryout.tmj",
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
+        "office_tryout.tmj",
         "innenhof.tmj",
         "castle.tmj",
         "gameroom.tmj",
@@ -578,10 +580,8 @@
         "map.tmj",
         "conference.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
-        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj",
-        "castle.tmj.tmx",
-        "60x40 Test Map.tmx"
+        "castle.tmj.tmx"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
