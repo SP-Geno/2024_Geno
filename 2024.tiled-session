@@ -478,7 +478,7 @@
             "selectedLayer": 13,
             "viewCenter": {
                 "x": 481.5,
-                "y": 586.5
+                "y": 585.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -564,15 +564,14 @@
     "map.lastUsedFormat": "json",
     "map.width": 40,
     "openFiles": [
-        "office_tryout.tmj",
-        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj"
+        "office_tryout.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "office_tryout.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
         "castle.tmj",
-        "office_tryout.tmj",
         "innenhof.tmj",
         "gameroom.tmj",
         "seezugang.tmj",
