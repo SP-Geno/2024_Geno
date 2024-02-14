@@ -2745,10 +2745,10 @@
         0,
         0,
         0,
-        0,
-        0,
+        3,
         3,
         3,
+        3,
         0,
         0,
         0,
@@ -2811,7 +2811,6 @@
         3,
         3,
         3,
-        0,
         0,
         0,
         0,
@@ -2826,9 +2825,10 @@
         0,
         0,
         0,
-        0,
+        3,
         3,
         3,
+        3,
         0,
         0,
         0,
@@ -2850,8 +2850,6 @@
         0,
         3,
         3,
-        0,
-        0,
         0,
         0,
         0,
@@ -2869,6 +2867,8 @@
         0,
         3,
         3,
+        3,
+        3,
         0,
         0,
         0,
@@ -2939,8 +2939,6 @@
         3,
         3,
         3,
-        0,
-        0,
         0,
         0,
         0,
@@ -2949,6 +2947,8 @@
         0,
         3,
         3,
+        3,
+        3,
         0,
         0,
         0,
@@ -2975,7 +2975,6 @@
         3,
         3,
         3,
-        0,
         0,
         0,
         0,
@@ -2986,9 +2985,10 @@
         0,
         0,
         0,
-        0,
+        3,
         3,
         3,
+        3,
         0,
         0,
         0,
@@ -3055,7 +3055,6 @@
         0,
         0,
         3,
-        0,
         0,
         0,
         0,
@@ -3066,7 +3065,8 @@
         0,
         0,
         0,
-        0,
+        3,
+        3,
         3,
         3,
         0,
@@ -3285,8 +3285,8 @@
         0,
         0,
         0,
-        0,
-        0,
+        3,
+        3,
         3,
         3,
         3,
@@ -11688,7 +11688,7 @@
     {
       "columns": 12,
       "firstgid": 1,
-      "image": "office_tryout-chunk-1-f77a234b.png",
+      "image": "office_tryout-chunk-1-c18e3e0f.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -11698,7 +11698,68 @@
       "tilecount": 124,
       "tileheight": 32,
       "tilewidth": 32,
-      "tiles": []
+      "tiles": [
+        {
+          "id": 0,
+          "properties": [
+            {
+              "name": "start",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 0,
+          "properties": [
+            {
+              "name": "start",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "properties": [
+            {
+              "name": "exit",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "properties": [
+            {
+              "name": "exit",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        }
+      ]
     }
   ],
   "type": "map",
@@ -11706,7 +11767,7 @@
   "height": 32,
   "infinite": false,
   "nextlayerid": 14,
-  "nextobjectid": 3,
+  "nextobjectid": 4,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
