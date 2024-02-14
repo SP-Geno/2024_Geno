@@ -102,14 +102,17 @@
             "scaleInDock": 1
         },
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj": {
+            "expandedGroupLayers": [
+                51
+            ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 0.8034179687499999,
-            "selectedLayer": 2,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 462.399416555245,
-                "y": 742.452898991127
+                "x": 529.6122523398566,
+                "y": 44.18621611766133
             }
         },
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Decoration": {
@@ -122,7 +125,8 @@
             "scaleInDock": 1
         },
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Miscellaneous": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj#WA_Other_Furniture": {
             "scaleInDock": 1
@@ -204,8 +208,8 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 344.5,
-                "y": 314.5
+                "x": 709.5,
+                "y": 306.5
             }
         },
         "castle.tmj#Castle2": {
@@ -345,7 +349,7 @@
                 10
             ],
             "scale": 1.5,
-            "selectedLayer": 6,
+            "selectedLayer": 12,
             "viewCenter": {
                 "x": 191.66666666666669,
                 "y": 239
@@ -395,8 +399,8 @@
             "scale": 1,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 695.5,
-                "y": 810.5
+                "x": 694.5,
+                "y": 809.5
             }
         },
         "innenhof.tmj#32x32_map_tile v3.1": {
@@ -463,6 +467,7 @@
         "office_tryout.tmj": {
             "expandedGroupLayers": [
                 7,
+                17,
                 14,
                 9
             ],
@@ -470,10 +475,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 4,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 597.5,
-                "y": 775.5
+                "x": 957.5,
+                "y": 56.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -565,11 +570,11 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "gameroom.tmj",
+        "innenhof.tmj",
         "castle.tmj",
+        "gameroom.tmj",
         "seezugang.tmj",
         "tordurchgang.tmj",
-        "innenhof.tmj",
         "map.tmj",
         "conference.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
