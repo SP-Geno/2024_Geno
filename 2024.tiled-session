@@ -536,10 +536,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                7,
                 9,
                 14,
-                17
+                17,
+                7
             ],
             "expandedObjectLayers": [
                 2
@@ -547,8 +547,8 @@
             "scale": 1,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 476.5,
-                "y": 449.5
+                "x": 640,
+                "y": 511.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
