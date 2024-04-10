@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "office_tryout.tmj",
+    "activeFile": "TestmapMesse.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -254,6 +254,50 @@
             "scaleInDock": 1
         },
         "Testmap 360° Messe.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj": {
+            "expandedGroupLayers": [
+                9
+            ],
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2256.060606060606,
+                "y": 692.4242424242424
+            }
+        },
+        "TestmapMesse.tmj#360° Logo 32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#360° Logo 64x64": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#WA_User_Interface": {
             "scaleInDock": 1
         },
         "WA_Decoration.tsx": {
@@ -634,12 +678,14 @@
     "map.lastUsedFormat": "json",
     "map.width": 92,
     "openFiles": [
-        "office_tryout.tmj"
+        "office_tryout.tmj",
+        "TestmapMesse.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "office_tryout.tmj",
+        "TestmapMesse.tmj",
         "Testmap 360° Messe.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
         "castle.tmj",
@@ -649,8 +695,7 @@
         "tordurchgang.tmj",
         "map.tmj",
         "conference.tmj",
-        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
-        "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj"
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
