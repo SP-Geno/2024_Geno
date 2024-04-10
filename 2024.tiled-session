@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Testmap 360° Messe.tmj",
+    "activeFile": "office_tryout.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -218,8 +218,8 @@
             "scale": 1,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 2130.5,
-                "y": 544.5
+                "x": 1648.5,
+                "y": 542.5
             }
         },
         "Testmap 360° Messe.tmj#360° Logo 32x32": {
@@ -547,8 +547,8 @@
             "scale": 1,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 640,
-                "y": 511.5
+                "x": 638.5,
+                "y": 509.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -634,8 +634,7 @@
     "map.lastUsedFormat": "json",
     "map.width": 92,
     "openFiles": [
-        "office_tryout.tmj",
-        "Testmap 360° Messe.tmj"
+        "office_tryout.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
