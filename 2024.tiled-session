@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "TestmapMesse.tmj",
+    "activeFile": "castle.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -91,8 +91,8 @@
             "scale": 1.6229166666666666,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 384.1848523748395,
-                "y": 379.8716302952503
+                "x": 383.5686777920411,
+                "y": 301.61745827984595
             }
         },
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Decoration": {
@@ -258,13 +258,14 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
-                9
+                9,
+                8
             ],
-            "scale": 0.33,
-            "selectedLayer": 4,
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 2256.060606060606,
-                "y": 692.4242424242424
+                "x": 622,
+                "y": 684.6666666666666
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -292,7 +293,8 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#WA_Special_Zones": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "TestmapMesse.tmj#WA_Tables": {
             "scaleInDock": 1
@@ -320,10 +322,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 12,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 708.5,
-                "y": 305.5
+                "x": 481.5,
+                "y": 355.5
             }
         },
         "castle.tmj#Castle2": {
@@ -580,10 +582,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                9,
                 14,
-                17,
-                7
+                9,
+                7,
+                17
             ],
             "expandedObjectLayers": [
                 2
@@ -591,8 +593,8 @@
             "scale": 1,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 638.5,
-                "y": 509.5
+                "x": 640,
+                "y": 511.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -679,23 +681,24 @@
     "map.width": 92,
     "openFiles": [
         "office_tryout.tmj",
-        "TestmapMesse.tmj"
+        "TestmapMesse.tmj",
+        "castle.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "office_tryout.tmj",
         "TestmapMesse.tmj",
+        "castle.tmj",
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "Testmap 360° Messe.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
-        "castle.tmj",
         "innenhof.tmj",
         "gameroom.tmj",
         "seezugang.tmj",
         "tordurchgang.tmj",
         "map.tmj",
-        "conference.tmj",
-        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj"
+        "conference.tmj"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
