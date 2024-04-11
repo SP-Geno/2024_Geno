@@ -262,10 +262,10 @@
                 8
             ],
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 622,
-                "y": 684.6666666666666
+                "y": 515.3333333333333
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -313,6 +313,71 @@
         "WA_Special_Zones.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Webinar.json": {
+            "scale": 0.2434375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1908.08729139923,
+                "y": 1123.4916559691915
+            }
+        },
+        "Webinar.json#12_Kitchen_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#13_Conference_Hall_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#14_Basement_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#18_Jail_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#19_Hospital_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#1_Generic_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#23_Room_Builder_32x32_edited": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#24_Office_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#24_User_Interface_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#2_LivingRoom_32x32_edited": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#4_Bedroom_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#8_Gym_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#9_Fishing_32x32": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#GuttyKreumNatureTiles": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#LimeZu_24_User_Interface_32x32_edited": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#carpets": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#posters": {
+            "scaleInDock": 1
+        },
+        "Webinar.json#special-zones": {
+            "scaleInDock": 1
         },
         "castle.tmj": {
             "expandedGroupLayers": [
@@ -687,6 +752,7 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Webinar.json",
         "office_tryout.tmj",
         "TestmapMesse.tmj",
         "castle.tmj",
@@ -697,8 +763,7 @@
         "gameroom.tmj",
         "seezugang.tmj",
         "tordurchgang.tmj",
-        "map.tmj",
-        "conference.tmj"
+        "map.tmj"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
