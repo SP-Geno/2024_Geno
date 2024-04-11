@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "castle.tmj",
+    "activeFile": "TestmapMesse.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -258,15 +258,15 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
+                11,
                 9,
-                8,
-                11
+                8
             ],
             "scale": 0.75,
-            "selectedLayer": 8,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 180.66666666666663,
-                "y": 1047.3333333333333
+                "x": 572.6666666666665,
+                "y": 1154
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -303,6 +303,12 @@
         "TestmapMesse.tmj#WA_User_Interface": {
             "scaleInDock": 1
         },
+        "TestmapMesse.tmj#genoakademie logo 128x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#genoakademie logo 256x64": {
+            "scaleInDock": 1
+        },
         "WA_Decoration.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -320,10 +326,10 @@
                 91
             ],
             "scale": 0.2434375,
-            "selectedLayer": 46,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1673.9409499358148,
-                "y": 1185.109114249037
+                "x": 1669.8331193838253,
+                "y": 1439.7946084724006
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -660,10 +666,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 10,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 639.5,
-                "y": 578.5
+                "x": 638.5,
+                "y": 577.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -744,22 +750,22 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Stadt",
-    "last.imagePath": "C:/Users/GenoAkademie/Downloads",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
     "openFiles": [
         "office_tryout.tmj",
         "TestmapMesse.tmj",
-        "castle.tmj"
+        "Webinar.json"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "castle.tmj",
-        "Webinar.json",
         "office_tryout.tmj",
+        "Webinar.json",
         "TestmapMesse.tmj",
+        "castle.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "Testmap 360° Messe.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
