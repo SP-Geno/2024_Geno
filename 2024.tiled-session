@@ -259,20 +259,26 @@
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
                 11,
-                9,
-                8
+                8,
+                9
             ],
             "scale": 0.75,
-            "selectedLayer": 6,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 572.6666666666665,
-                "y": 1154
+                "x": 2844.6666666666665,
+                "y": 1559.3333333333335
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#360° Logo 64x64": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#Deutschland 288x384": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#Deutschland 288x384 pinned": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#WA_Decoration": {
@@ -326,10 +332,10 @@
                 91
             ],
             "scale": 0.2434375,
-            "selectedLayer": 6,
+            "selectedLayer": 45,
             "viewCenter": {
-                "x": 1669.8331193838253,
-                "y": 1439.7946084724006
+                "x": 1279.589216944801,
+                "y": 733.2477535301667
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -668,8 +674,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 638.5,
-                "y": 577.5
+                "x": 639.5,
+                "y": 511
             }
         },
         "office_tryout.tmj#WA_Decoration": {
