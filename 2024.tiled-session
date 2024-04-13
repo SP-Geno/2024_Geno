@@ -258,15 +258,15 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
+                9,
                 11,
-                8,
-                9
+                8
             ],
             "scale": 0.75,
-            "selectedLayer": 4,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 2844.6666666666665,
-                "y": 1559.3333333333335
+                "x": 1679.333333333333,
+                "y": 1135.3333333333335
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -281,6 +281,9 @@
         "TestmapMesse.tmj#Deutschland 288x384 pinned": {
             "scaleInDock": 1
         },
+        "TestmapMesse.tmj#Deutschland pins 288x384": {
+            "scaleInDock": 1
+        },
         "TestmapMesse.tmj#WA_Decoration": {
             "scaleInDock": 0.75
         },
@@ -288,7 +291,8 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#WA_Miscellaneous": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "TestmapMesse.tmj#WA_Other_Furniture": {
             "scaleInDock": 1
@@ -315,6 +319,12 @@
         "TestmapMesse.tmj#genoakademie logo 256x64": {
             "scaleInDock": 1
         },
+        "TestmapMesse.tmj#walls_Room_Builder_3d_walls_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#walls_Room_Builder_Walls_32x32": {
+            "scaleInDock": 1
+        },
         "WA_Decoration.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -329,13 +339,14 @@
         },
         "Webinar.json": {
             "expandedObjectLayers": [
-                91
+                91,
+                2
             ],
-            "scale": 0.2434375,
-            "selectedLayer": 45,
+            "scale": 1,
+            "selectedLayer": 37,
             "viewCenter": {
-                "x": 1279.589216944801,
-                "y": 733.2477535301667
+                "x": 1733.5,
+                "y": 197.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -663,10 +674,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                14,
                 9,
-                7,
-                17
+                14,
+                17,
+                7
             ],
             "expandedObjectLayers": [
                 2
@@ -756,7 +767,7 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Stadt",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Wände",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
