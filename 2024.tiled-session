@@ -263,10 +263,10 @@
                 9
             ],
             "scale": 0.75,
-            "selectedLayer": 10,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 2664,
-                "y": 1210
+                "x": 592.6666666666666,
+                "y": 776.6666666666667
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -288,6 +288,9 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#Interface_UI_thinking_emotes_animation_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#Roomname_Führung": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#WA_Decoration": {
@@ -317,6 +320,9 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#carpet_360° Grad Teppich(384 x 384 px)": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#floor_Room_Builder_Floor_Paths_32x32": {
@@ -358,6 +364,24 @@
         "TestmapMesse.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
             "scaleInDock": 1
         },
+        "TestmapMesse.tmj#roomname_Account Management": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#roomname_Pflichtunterweisung": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#roomname_Private Banking": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#roomname_Seiteneinsteiger": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#roomname_Skill Based Learning": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#roomname_Wertermittlungspass": {
+            "scaleInDock": 1
+        },
         "TestmapMesse.tmj#walls_Room_Builder_3d_walls_32x32": {
             "scaleInDock": 1
         },
@@ -384,8 +408,8 @@
             "scale": 1,
             "selectedLayer": 35,
             "viewCenter": {
-                "x": 1258,
-                "y": 1208.5
+                "x": 1252.5,
+                "y": 1747.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -806,7 +830,7 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Böden",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
