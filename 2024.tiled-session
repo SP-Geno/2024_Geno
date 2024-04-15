@@ -258,15 +258,15 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
-                9,
                 11,
-                8
+                8,
+                9
             ],
             "scale": 0.75,
-            "selectedLayer": 6,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 1679.333333333333,
-                "y": 1135.3333333333335
+                "x": 2262.6666666666665,
+                "y": 924.6666666666667
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -282,6 +282,12 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#Deutschland pins 288x384": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#Interface_UI_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#Interface_UI_thinking_emotes_animation_32x32": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#WA_Decoration": {
@@ -313,10 +319,43 @@
         "TestmapMesse.tmj#WA_User_Interface": {
             "scaleInDock": 1
         },
+        "TestmapMesse.tmj#floor_Room_Builder_Floor_Paths_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#floor_Room_Builder_Floors_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#furniture_14_Basement_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#furtniture_1_Generic_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#furtniture_2_LivingRoom_32x32": {
+            "scaleInDock": 1
+        },
         "TestmapMesse.tmj#genoakademie logo 128x32": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#genoakademie logo 256x64": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#möbel_12_Kitchen_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#möbel_14_Basement_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#möbel_1_Generic_Shadowless32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#walls_Room_Builder_3d_walls_32x32": {
@@ -343,10 +382,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 37,
+            "selectedLayer": 35,
             "viewCenter": {
-                "x": 1733.5,
-                "y": 197.5
+                "x": 1259,
+                "y": 1063.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -365,46 +404,46 @@
             "scaleInDock": 1
         },
         "Webinar.json#1_Generic_32x32": {
-            "scaleInDock": 0.25
+            "scaleInDock": 0.5
         },
         "Webinar.json#23_Room_Builder_32x32_edited": {
             "scaleInDock": 1
         },
         "Webinar.json#24_Office_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Webinar.json#24_User_Interface_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Webinar.json#2_LivingRoom_32x32_edited": {
             "scaleInDock": 1
         },
         "Webinar.json#4_Bedroom_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Webinar.json#8_Gym_32x32": {
             "scaleInDock": 1
         },
         "Webinar.json#9_Fishing_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Webinar.json#GuttyKreumNatureTiles": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Webinar.json#LimeZu_24_User_Interface_32x32_edited": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Webinar.json#WA_User_Interface": {
             "scaleInDock": 1
         },
         "Webinar.json#carpets": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Webinar.json#posters": {
             "scaleInDock": 1
         },
         "Webinar.json#special-zones": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "castle.tmj": {
             "expandedGroupLayers": [
@@ -674,9 +713,9 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                9,
-                14,
                 17,
+                14,
+                9,
                 7
             ],
             "expandedObjectLayers": [
@@ -766,8 +805,8 @@
             "scaleInEditor": 1
         }
     },
-    "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Stadt",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Wände",
+    "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Böden",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Office",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
