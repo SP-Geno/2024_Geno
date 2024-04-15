@@ -263,10 +263,10 @@
                 9
             ],
             "scale": 0.75,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 592.6666666666666,
-                "y": 776.6666666666667
+                "x": 592,
+                "y": 1781.9999999999998
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -323,6 +323,9 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#carpet_360° Grad Teppich(384 x 384 px)": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#carpets": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#floor_Room_Builder_Floor_Paths_32x32": {
@@ -401,15 +404,18 @@
             "scaleInEditor": 1
         },
         "Webinar.json": {
+            "expandedGroupLayers": [
+                89
+            ],
             "expandedObjectLayers": [
                 91,
                 2
             ],
             "scale": 1,
-            "selectedLayer": 35,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 1252.5,
-                "y": 1747.5
+                "x": 1641,
+                "y": 988.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
