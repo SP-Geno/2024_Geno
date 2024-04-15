@@ -414,8 +414,8 @@
             "scale": 1,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 1641,
-                "y": 988.5
+                "x": 1640,
+                "y": 987.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -437,7 +437,7 @@
             "scaleInDock": 0.5
         },
         "Webinar.json#23_Room_Builder_32x32_edited": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Webinar.json#24_Office_32x32": {
             "scaleInDock": 0.5
