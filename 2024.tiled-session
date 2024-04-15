@@ -265,8 +265,8 @@
             "scale": 0.75,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 2262.6666666666665,
-                "y": 924.6666666666667
+                "x": 2664,
+                "y": 1210
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -384,8 +384,8 @@
             "scale": 1,
             "selectedLayer": 35,
             "viewCenter": {
-                "x": 1259,
-                "y": 1063.5
+                "x": 1258,
+                "y": 1208.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -806,7 +806,7 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Böden",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Office",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
