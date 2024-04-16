@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "TestmapMesse.tmj",
+    "activeFile": "Webinar.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -267,10 +267,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 12,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 800,
-                "y": 746
+                "x": 1898.6666666666665,
+                "y": 1319.3333333333333
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -428,8 +428,8 @@
             "scale": 1,
             "selectedLayer": 33,
             "viewCenter": {
-                "x": 745,
-                "y": 1047.5
+                "x": 619,
+                "y": 992.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -862,17 +862,16 @@
     "openFiles": [
         "office_tryout.tmj",
         "TestmapMesse.tmj",
-        "Webinar.json",
-        "castle.tmj"
+        "Webinar.json"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "office_tryout.tmj",
+        "TestmapMesse.tmj",
+        "Webinar.json",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
         "castle.tmj",
-        "office_tryout.tmj",
-        "Webinar.json",
-        "TestmapMesse.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "Testmap 360° Messe.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
