@@ -1258,41 +1258,7 @@
          "draworder":"topdown",
          "id":7,
          "name":"floorLayer",
-         "objects":[
-                {
-                 "height":72,
-                 "id":3,
-                 "name":"zumOffice",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"office_tryout.tmj#from-testmapmesse"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":73.3333333333333,
-                 "x":89.3333333333333,
-                 "y":889.333333333333
-                }, 
-                {
-                 "height":93.3333333333334,
-                 "id":4,
-                 "name":"vonOffice",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":120,
-                 "x":470.666666666667,
-                 "y":866.666666666667
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,

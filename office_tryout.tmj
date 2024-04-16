@@ -479,23 +479,6 @@
                  "y":45
                 }, 
                 {
-                 "height":57,
-                 "id":4,
-                 "name":"toTestmapMesse",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"https:\/\/sp-geno.github.io\/2024_Geno\/TestmapMesse.tmjj#from-office_tryout"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":79,
-                 "x":1199,
-                 "y":453
-                }, 
-                {
                  "height":32,
                  "id":2,
                  "name":"clock",
@@ -544,23 +527,6 @@
                  "width":127,
                  "x":31,
                  "y":600
-                }, 
-                {
-                 "height":70,
-                 "id":10,
-                 "name":"vonTestmapMesse",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":76,
-                 "x":698,
-                 "y":937
                 }],
          "opacity":1,
          "type":"objectgroup",

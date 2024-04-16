@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "office_tryout.tmj",
+    "activeFile": "TestmapMesse.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -258,9 +258,9 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
-                11,
+                8,
                 9,
-                8
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -268,8 +268,8 @@
             "scale": 0.75,
             "selectedLayer": 16,
             "viewCenter": {
-                "x": 2704,
-                "y": 1328
+                "x": 528.6666666666666,
+                "y": 911.3333333333333
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -408,13 +408,13 @@
         },
         "Webinar.json": {
             "expandedObjectLayers": [
-                2,
-                91
+                91,
+                2
             ],
             "scale": 1,
             "selectedLayer": 46,
             "viewCenter": {
-                "x": 2362.5,
+                "x": 2519,
                 "y": 1129.5
             }
         },
@@ -485,7 +485,7 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 480,
+                "x": 479.5,
                 "y": 319.5
             }
         },
@@ -744,9 +744,9 @@
         "office_tryout.tmj": {
             "expandedGroupLayers": [
                 9,
-                14,
+                7,
                 17,
-                7
+                14
             ],
             "expandedObjectLayers": [
                 2
@@ -754,8 +754,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 639.5,
-                "y": 511
+                "x": 1237.5,
+                "y": 480.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -849,10 +849,10 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "office_tryout.tmj",
         "castle.tmj",
         "Webinar.json",
         "TestmapMesse.tmj",
-        "office_tryout.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "Testmap 360° Messe.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
