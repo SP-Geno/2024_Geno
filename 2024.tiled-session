@@ -10,7 +10,8 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "#Castle2": {
             "scaleInDock": 1
@@ -268,8 +269,8 @@
             "scale": 0.75,
             "selectedLayer": 16,
             "viewCenter": {
-                "x": 528.6666666666666,
-                "y": 911.3333333333333
+                "x": 526,
+                "y": 908.6666666666667
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -326,7 +327,8 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#carpet_360° Grad Teppich(384 x 384 px)": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "TestmapMesse.tmj#carpets": {
             "scaleInDock": 1
@@ -414,8 +416,8 @@
             "scale": 1,
             "selectedLayer": 46,
             "viewCenter": {
-                "x": 2519,
-                "y": 1129.5
+                "x": 2617,
+                "y": 1113
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -434,7 +436,8 @@
             "scaleInDock": 1
         },
         "Webinar.json#1_Generic_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
         },
         "Webinar.json#23_Room_Builder_32x32_edited": {
             "scaleInDock": 0.5
@@ -485,8 +488,8 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 479.5,
-                "y": 319.5
+                "x": 478.5,
+                "y": 318.5
             }
         },
         "castle.tmj#Castle2": {
@@ -813,6 +816,10 @@
         "seezugang.tmj#ship 32x32": {
             "scaleInDock": 1
         },
+        "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "tordurchgang.tmj": {
             "expandedGroupLayers": [
                 5
@@ -835,8 +842,8 @@
             "scaleInEditor": 1
         }
     },
-    "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Böden",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior",
+    "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
@@ -849,8 +856,9 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "office_tryout.tmj",
+        "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
         "castle.tmj",
+        "office_tryout.tmj",
         "Webinar.json",
         "TestmapMesse.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
@@ -859,8 +867,7 @@
         "innenhof.tmj",
         "gameroom.tmj",
         "seezugang.tmj",
-        "tordurchgang.tmj",
-        "map.tmj"
+        "tordurchgang.tmj"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
