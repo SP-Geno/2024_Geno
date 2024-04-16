@@ -267,10 +267,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 16,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 526,
-                "y": 908.6666666666667
+                "x": 2560,
+                "y": 906
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -375,6 +375,9 @@
         "TestmapMesse.tmj#roomname_Account Management": {
             "scaleInDock": 1
         },
+        "TestmapMesse.tmj#roomname_New Leadership": {
+            "scaleInDock": 1
+        },
         "TestmapMesse.tmj#roomname_Pflichtunterweisung": {
             "scaleInDock": 1
         },
@@ -414,10 +417,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 46,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 2617,
-                "y": 1113
+                "x": 1921,
+                "y": 943.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
