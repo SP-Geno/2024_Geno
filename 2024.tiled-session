@@ -267,10 +267,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 13,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 810.6666666666665,
-                "y": 756.6666666666667
+                "x": 809.3333333333334,
+                "y": 1907.3333333333333
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -419,7 +419,7 @@
             "scale": 1,
             "selectedLayer": 33,
             "viewCenter": {
-                "x": 2161,
+                "x": 2473,
                 "y": 942.5
             }
         },
