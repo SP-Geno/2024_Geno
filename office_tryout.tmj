@@ -486,7 +486,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"testmapmesse.tmj#from-office_tryout"
+                         "value":"https:\/\/sp-geno.github.io\/2024_Geno\/TestmapMesse.tmjj#from-office_tryout"
                         }],
                  "rotation":0,
                  "type":"area",
