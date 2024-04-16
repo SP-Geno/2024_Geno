@@ -12988,7 +12988,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "testmapmesse.tmj#from-office_tryout"
+              "value": "https://sp-geno.github.io/2024_Geno/TestmapMesse.tmjj#from-office_tryout"
             }
           ],
           "rotation": 0,
@@ -14384,7 +14384,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "office_tryout-chunk-1-b9c14fd5.png",
+      "image": "office_tryout-chunk-1-84c1c2be.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
