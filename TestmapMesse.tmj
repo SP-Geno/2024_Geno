@@ -182555,44 +182555,7 @@
     },
     {
       "name": "floorLayer",
-      "objects": [
-        {
-          "id": 3,
-          "name": "zumOffice",
-          "visible": true,
-          "x": 89.3333333333333,
-          "y": 889.333333333333,
-          "height": 72,
-          "properties": [
-            {
-              "name": "exitUrl",
-              "type": "string",
-              "value": "office_tryout.tmj#from-testmapmesse"
-            }
-          ],
-          "rotation": 0,
-          "type": "area",
-          "width": 73.3333333333333
-        },
-        {
-          "id": 4,
-          "name": "vonOffice",
-          "visible": true,
-          "x": 470.666666666667,
-          "y": 866.666666666667,
-          "height": 93.3333333333334,
-          "properties": [
-            {
-              "name": "start",
-              "type": "bool",
-              "value": true
-            }
-          ],
-          "rotation": 0,
-          "type": "",
-          "width": 120
-        }
-      ],
+      "objects": [],
       "opacity": 1,
       "type": "objectgroup",
       "visible": true,
@@ -182607,7 +182570,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "TestmapMesse-chunk-1-b021836b.png",
+      "image": "TestmapMesse-chunk-1-2442b643.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -182643,7 +182606,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "TestmapMesse-chunk-2-b021836b.png",
+      "image": "TestmapMesse-chunk-2-2442b643.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -182658,7 +182621,7 @@
     {
       "columns": 13,
       "firstgid": 513,
-      "image": "TestmapMesse-chunk-3-b021836b.png",
+      "image": "TestmapMesse-chunk-3-2442b643.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,

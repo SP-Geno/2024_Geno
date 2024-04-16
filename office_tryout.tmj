@@ -12978,24 +12978,6 @@
           "width": 43
         },
         {
-          "id": 4,
-          "name": "toTestmapMesse",
-          "visible": true,
-          "x": 1199,
-          "y": 453,
-          "height": 57,
-          "properties": [
-            {
-              "name": "exitUrl",
-              "type": "string",
-              "value": "https://sp-geno.github.io/2024_Geno/TestmapMesse.tmjj#from-office_tryout"
-            }
-          ],
-          "rotation": 0,
-          "type": "area",
-          "width": 79
-        },
-        {
           "id": 2,
           "name": "clock",
           "visible": true,
@@ -13046,24 +13028,6 @@
           "rotation": 0,
           "type": "area",
           "width": 127
-        },
-        {
-          "id": 10,
-          "name": "vonTestmapMesse",
-          "visible": true,
-          "x": 698,
-          "y": 937,
-          "height": 70,
-          "properties": [
-            {
-              "name": "start",
-              "type": "bool",
-              "value": true
-            }
-          ],
-          "rotation": 0,
-          "type": "area",
-          "width": 76
         }
       ],
       "opacity": 1,
@@ -14384,7 +14348,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "office_tryout-chunk-1-84c1c2be.png",
+      "image": "office_tryout-chunk-1-ccb073aa.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
