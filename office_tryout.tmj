@@ -12979,13 +12979,20 @@
         },
         {
           "id": 4,
-          "name": "to room x",
+          "name": "toTestmapMesse",
           "visible": true,
           "x": 1199,
           "y": 453,
           "height": 57,
+          "properties": [
+            {
+              "name": "exitUrl",
+              "type": "string",
+              "value": "testmapmesse.tmj#from-office_tryout"
+            }
+          ],
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 79
         },
         {
@@ -13039,6 +13046,24 @@
           "rotation": 0,
           "type": "area",
           "width": 127
+        },
+        {
+          "id": 10,
+          "name": "vonTestmapMesse",
+          "visible": true,
+          "x": 698,
+          "y": 937,
+          "height": 70,
+          "properties": [
+            {
+              "name": "start",
+              "type": "bool",
+              "value": true
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 76
         }
       ],
       "opacity": 1,
@@ -14359,7 +14384,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "office_tryout-chunk-1-408ce800.png",
+      "image": "office_tryout-chunk-1-b9c14fd5.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -14438,7 +14463,7 @@
   "height": 32,
   "infinite": false,
   "nextlayerid": 19,
-  "nextobjectid": 10,
+  "nextobjectid": 11,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
