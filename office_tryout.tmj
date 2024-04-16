@@ -481,9 +481,15 @@
                 {
                  "height":57,
                  "id":4,
-                 "name":"to room x",
+                 "name":"toTestmapMesse",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"testmapmesse.tmj#from-office_tryout"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":79,
                  "x":1199,
@@ -538,6 +544,23 @@
                  "width":127,
                  "x":31,
                  "y":600
+                }, 
+                {
+                 "height":70,
+                 "id":10,
+                 "name":"vonTestmapMesse",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":76,
+                 "x":698,
+                 "y":937
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -599,7 +622,7 @@
          "y":0
         }],
  "nextlayerid":19,
- "nextobjectid":10,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
