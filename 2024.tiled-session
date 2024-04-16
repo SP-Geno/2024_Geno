@@ -267,10 +267,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 11,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 804,
-                "y": 1901.9999999999998
+                "x": 800,
+                "y": 746
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -331,7 +331,7 @@
             "scaleInEditor": 1
         },
         "TestmapMesse.tmj#carpets": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#custom_360° DigitalMesse (384 x 384 px)": {
             "scaleInDock": 1
@@ -361,9 +361,12 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#möbel_14_Basement_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#möbel_18_Jail_Shadowless_32x32": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#möbel_19_Hospital_Shadowless_32x32": {
@@ -425,8 +428,8 @@
             "scale": 1,
             "selectedLayer": 33,
             "viewCenter": {
-                "x": 1139,
-                "y": 1048.5
+                "x": 745,
+                "y": 1047.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
