@@ -267,10 +267,10 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 7,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2854,
-                "y": 157.5
+                "x": 3417,
+                "y": 373.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -331,7 +331,7 @@
             "scaleInEditor": 1
         },
         "TestmapMesse.tmj#carpets": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "TestmapMesse.tmj#custom_360° DigitalMesse (384 x 384 px)": {
             "scaleInDock": 1
@@ -349,7 +349,7 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#floor_Room_Builder_Floors_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "TestmapMesse.tmj#furniture_14_Basement_32x32": {
             "scaleInDock": 1
@@ -415,10 +415,10 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#walls_Room_Builder_3d_walls_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "TestmapMesse.tmj#walls_Room_Builder_Walls_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "WA_Decoration.tsx": {
             "scaleInDock": 1,
@@ -781,8 +781,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 639.5,
-                "y": 511.5
+                "x": 1235,
+                "y": 583.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
