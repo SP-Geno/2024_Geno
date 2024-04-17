@@ -263,14 +263,11 @@
                 8,
                 9
             ],
-            "expandedObjectLayers": [
-                7
-            ],
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 3417,
-                "y": 373.5
+                "x": 1942,
+                "y": 1485.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -331,15 +328,21 @@
             "scaleInEditor": 1
         },
         "TestmapMesse.tmj#carpets": {
-            "scaleInDock": 0.5
+            "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_360° DigitalMesse (384 x 384 px)": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#custom_Doppelpfeil": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Trennungszeichen": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Trennungszeichen quer": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#custom_Wörter (192 x 640 px)": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_pfeile mittig": {
@@ -370,7 +373,7 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#möbel_14_Basement_Shadowless_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 1
         },
         "TestmapMesse.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
             "scaleInDock": 1
@@ -415,10 +418,13 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#walls_Room_Builder_3d_walls_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 1
         },
         "TestmapMesse.tmj#walls_Room_Builder_Walls_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#walls_Room_Builder_borders_32x32": {
+            "scaleInDock": 1
         },
         "WA_Decoration.tsx": {
             "scaleInDock": 1,
@@ -441,7 +447,7 @@
             "selectedLayer": 33,
             "viewCenter": {
                 "x": 1591,
-                "y": 569.5
+                "y": 568.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
