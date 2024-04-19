@@ -330,10 +330,10 @@
                 9
             ],
             "scale": 1,
-            "selectedLayer": 4,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 886.5,
-                "y": 733.5
+                "x": 1764.5,
+                "y": 836.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -412,6 +412,13 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Wörter (192 x 640 px)": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#custom_footstep": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TestmapMesse.tmj#custom_geno logo": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_pfeile mittig": {
@@ -518,8 +525,8 @@
             "scale": 1,
             "selectedLayer": 47,
             "viewCenter": {
-                "x": 1904,
-                "y": 1119.5
+                "x": 2775.5,
+                "y": 1158.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
