@@ -71076,7 +71076,7 @@
               "value": "speaker"
             },
             {
-              "name": "jitsiRoomLabel",
+              "name": "meetingRoomLabel",
               "type": "string",
               "value": "Private Banking"
             }
@@ -227439,7 +227439,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "TestmapMesse-chunk-1-b3b2c30e.png",
+      "image": "TestmapMesse-chunk-1-2e04d74c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -227475,7 +227475,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "TestmapMesse-chunk-2-b3b2c30e.png",
+      "image": "TestmapMesse-chunk-2-2e04d74c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -227490,7 +227490,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "TestmapMesse-chunk-3-b3b2c30e.png",
+      "image": "TestmapMesse-chunk-3-2e04d74c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
