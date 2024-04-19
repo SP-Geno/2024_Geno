@@ -225,10 +225,10 @@
                 14
             ],
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 6385.5,
-                "y": 3615.5
+                "x": 3939.5,
+                "y": 1933.5
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -245,6 +245,9 @@
         },
         "Messehalle.tmj#22_Museum_Shadowless_32x32": {
             "scaleInDock": 0.75
+        },
+        "Messehalle.tmj#26_Condominium_Shadowless_32x32": {
+            "scaleInDock": 1
         },
         "Messehalle.tmj#WA_Special_Zones": {
             "scaleInDock": 1,
@@ -263,6 +266,15 @@
             "scaleInDock": 0.5
         },
         "Messehalle.tmj#outdoor_GuttyKreumNatureTiles": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#walls_Room_Builder_3d_walls_32x32": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#walls_Room_Builder_Walls_32x32": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#walls_Room_Builder_borders_32x32": {
             "scaleInDock": 1
         },
         "Testmap 360° Messe.tmj": {
@@ -320,8 +332,8 @@
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 732.5,
-                "y": 2120.5
+                "x": 886.5,
+                "y": 733.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -935,7 +947,7 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Möbel l Interior",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
