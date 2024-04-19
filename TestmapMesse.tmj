@@ -502,7 +502,7 @@
                          "value":"speaker"
                         }, 
                         {
-                         "name":"jitsiRoomLabel",
+                         "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Private Banking"
                         }],
