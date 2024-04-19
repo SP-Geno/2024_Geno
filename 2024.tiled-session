@@ -227,8 +227,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 3939.5,
-                "y": 1933.5
+                "x": 3781,
+                "y": 2813.5
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -327,13 +327,14 @@
             "expandedGroupLayers": [
                 11,
                 8,
-                9
+                9,
+                20
             ],
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1764.5,
-                "y": 836.5
+                "x": 2038,
+                "y": 553.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -523,10 +524,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 47,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 2775.5,
-                "y": 1158.5
+                "x": 1139,
+                "y": 1534.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -965,7 +966,7 @@
         "Webinar.json"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "office_tryout.tmj",
         "TestmapMesse.tmj",
