@@ -333,8 +333,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 2038,
-                "y": 553.5
+                "x": 2037,
+                "y": 552.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -524,10 +524,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 29,
+            "selectedLayer": 21,
             "viewCenter": {
                 "x": 1139,
-                "y": 1534.5
+                "y": 1030.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
