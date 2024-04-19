@@ -331,10 +331,10 @@
                 20
             ],
             "scale": 1,
-            "selectedLayer": 4,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 2036,
-                "y": 1433.5
+                "x": 4489,
+                "y": 926.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -406,10 +406,16 @@
         "TestmapMesse.tmj#custom_Lautstärke": {
             "scaleInDock": 1
         },
+        "TestmapMesse.tmj#custom_Region": {
+            "scaleInDock": 1
+        },
         "TestmapMesse.tmj#custom_Trennungszeichen": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Trennungszeichen quer": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#custom_Trennungszeichen quer 64": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Wörter (192 x 640 px)": {
@@ -526,8 +532,8 @@
             "scale": 1,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 1138,
-                "y": 1029.5
+                "x": 2606,
+                "y": 1406.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -867,10 +873,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 13,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 639.5,
-                "y": 511.5
+                "x": 1150,
+                "y": 649.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
