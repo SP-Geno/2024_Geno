@@ -330,11 +330,11 @@
                 8,
                 9
             ],
-            "scale": 0.33,
-            "selectedLayer": 18,
+            "scale": 1,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1672.7272727272727,
-                "y": 1298.4848484848487
+                "x": 2210,
+                "y": -4.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -368,7 +368,7 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#WA_Miscellaneous": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "TestmapMesse.tmj#WA_Other_Furniture": {
@@ -395,7 +395,7 @@
             "scaleInEditor": 1
         },
         "TestmapMesse.tmj#carpets": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#custom_360° DigitalMesse (384 x 384 px)": {
             "scaleInDock": 1
@@ -404,16 +404,16 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Lautstärke": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#custom_Region": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Trennungszeichen": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#custom_Trennungszeichen quer": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#custom_Trennungszeichen quer 64": {
             "scaleInDock": 1
@@ -432,10 +432,10 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#floor_Room_Builder_Floor_Paths_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#floor_Room_Builder_Floors_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#furniture_14_Basement_32x32": {
             "scaleInDock": 1
@@ -453,13 +453,13 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#möbel_12_Kitchen_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#möbel_14_Basement_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#möbel_18_Jail_Shadowless_32x32": {
             "scaleInDock": 1
@@ -468,16 +468,16 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#möbel_1_Generic_Shadowless32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#möbel_8_Gym_Shadowless_32x32": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "TestmapMesse.tmj#roomname_Account Management": {
             "scaleInDock": 1
