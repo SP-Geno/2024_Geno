@@ -227,8 +227,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 3781,
-                "y": 2813.5
+                "x": 3780,
+                "y": 2812.5
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -326,15 +326,15 @@
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
                 11,
+                20,
                 8,
-                9,
-                20
+                9
             ],
             "scale": 1,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 4489,
-                "y": 926.5
+                "x": 2704,
+                "y": 1343.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -526,14 +526,14 @@
                 89
             ],
             "expandedObjectLayers": [
-                91,
-                2
+                2,
+                91
             ],
             "scale": 1,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 2606,
-                "y": 1406.5
+                "x": 1904,
+                "y": 1119.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -864,10 +864,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                9,
-                7,
                 14,
-                17
+                17,
+                7,
+                9
             ],
             "expandedObjectLayers": [
                 2
@@ -875,8 +875,8 @@
             "scale": 1,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 1150,
-                "y": 649.5
+                "x": 639.5,
+                "y": 511.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
