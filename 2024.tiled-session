@@ -221,14 +221,14 @@
         },
         "Messehalle.tmj": {
             "expandedGroupLayers": [
-                10,
-                14
+                14,
+                10
             ],
             "scale": 0.5,
-            "selectedLayer": 2,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 4408,
-                "y": 2425
+                "x": 8000,
+                "y": 7999
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -258,6 +258,11 @@
         },
         "Messehalle.tmj#boden_Room_Builder_Floors_32x32": {
             "scaleInDock": 1
+        },
+        "Messehalle.tmj#gif_animated_elevator_door_entrance_1_32x32": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Messehalle.tmj#office_Modern_Office_Shadowless_32x32": {
             "scaleInDock": 1
@@ -325,16 +330,16 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
-                11,
-                20,
                 8,
-                9
+                9,
+                11,
+                20
             ],
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 2210,
-                "y": -4.5
+                "x": 2832,
+                "y": 1343.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -532,8 +537,8 @@
             "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 2604,
-                "y": 1530.5
+                "x": 1904,
+                "y": 1119.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -864,9 +869,9 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                14,
-                17,
                 7,
+                17,
+                14,
                 9
             ],
             "expandedObjectLayers": [
@@ -960,8 +965,9 @@
             "scaleInEditor": 1
         }
     },
-    "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
+    "frame.defaultDuration": 100,
+    "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/gif",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/gif",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
