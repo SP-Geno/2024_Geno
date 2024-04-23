@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Messehalle.tmj",
+    "activeFile": "TestmapMesse.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
         "tilesets",
+        "tilesets/Custom",
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -224,16 +224,18 @@
         "Messehalle.tmj": {
             "expandedGroupLayers": [
                 10,
-                14
+                26,
+                14,
+                28
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 1,
-            "selectedLayer": 14,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 4320,
-                "y": 1869.5
+                "x": 6388,
+                "y": 1868.5
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -252,6 +254,12 @@
             "scaleInDock": 0.75
         },
         "Messehalle.tmj#26_Condominium_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#4_Bedroom_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#5_Classroom_and_library_Shadowless_32x32": {
             "scaleInDock": 1
         },
         "Messehalle.tmj#WA_Special_Zones": {
@@ -346,8 +354,8 @@
             "scale": 1,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 3307,
-                "y": 886.5
+                "x": 3306,
+                "y": 885.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -987,6 +995,7 @@
     "map.width": 92,
     "openFiles": [
         "Webinar.json",
+        "office_tryout.tmj",
         "TestmapMesse.tmj",
         "Messehalle.tmj"
     ],
@@ -994,9 +1003,9 @@
     "property.type": "string",
     "recentFiles": [
         "Webinar.json",
-        "TestmapMesse.tmj",
-        "Messehalle.tmj",
         "office_tryout.tmj",
+        "Messehalle.tmj",
+        "TestmapMesse.tmj",
         "castle.tmj",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
