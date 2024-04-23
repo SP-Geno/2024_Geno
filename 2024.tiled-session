@@ -225,10 +225,10 @@
                 14
             ],
             "scale": 0.75,
-            "selectedLayer": 13,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 4045.333333333333,
-                "y": 3407.333333333333
+                "x": 4541.333333333333,
+                "y": 1931.3333333333333
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -241,7 +241,7 @@
             "scaleInDock": 1
         },
         "Messehalle.tmj#1_Generic_Shadowless32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 1
         },
         "Messehalle.tmj#22_Museum_Shadowless_32x32": {
             "scaleInDock": 0.75
@@ -340,10 +340,10 @@
                 20
             ],
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1496,
-                "y": 1145.5
+                "x": 797,
+                "y": 1144.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -542,10 +542,10 @@
                 91
             ],
             "scale": 1,
-            "selectedLayer": 5,
+            "selectedLayer": 45,
             "viewCenter": {
-                "x": 139,
-                "y": 982.5
+                "x": 626,
+                "y": 979.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
