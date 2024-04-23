@@ -3,8 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "TestmapMesse.tmj",
+    "activeFile": "Messehalle.tmj",
     "expandedProjectPaths": [
+        "tilesets/Custom",
+        "tilesets",
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -224,11 +226,11 @@
                 10,
                 14
             ],
-            "scale": 0.75,
-            "selectedLayer": 18,
+            "scale": 1,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 4541.333333333333,
-                "y": 1931.3333333333333
+                "x": 4357,
+                "y": 1931.5
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -334,16 +336,15 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
-                8,
-                9,
                 11,
-                20
+                9,
+                8
             ],
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 32,
             "viewCenter": {
-                "x": 797,
-                "y": 1144.5
+                "x": 1129,
+                "y": 1013.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -423,6 +424,9 @@
         },
         "TestmapMesse.tmj#custom_Trennungszeichen": {
             "scaleInDock": 0.75
+        },
+        "TestmapMesse.tmj#custom_Trennungszeichen (128 x 128 px)": {
+            "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Trennungszeichen quer": {
             "scaleInDock": 0.75
@@ -538,14 +542,14 @@
                 89
             ],
             "expandedObjectLayers": [
-                2,
-                91
+                91,
+                2
             ],
             "scale": 1,
-            "selectedLayer": 45,
+            "selectedLayer": 46,
             "viewCenter": {
-                "x": 626,
-                "y": 979.5
+                "x": 134,
+                "y": 849.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -887,8 +891,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 639.5,
-                "y": 511.5
+                "x": 533.5,
+                "y": 286.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -979,18 +983,17 @@
     "map.lastUsedFormat": "json",
     "map.width": 92,
     "openFiles": [
-        "office_tryout.tmj",
+        "Webinar.json",
         "TestmapMesse.tmj",
-        "Messehalle.tmj",
-        "Webinar.json"
+        "Messehalle.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "office_tryout.tmj",
         "Webinar.json",
-        "Messehalle.tmj",
         "TestmapMesse.tmj",
+        "Messehalle.tmj",
+        "office_tryout.tmj",
         "castle.tmj",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
