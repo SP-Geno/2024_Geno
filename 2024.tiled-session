@@ -227,10 +227,10 @@
                 14
             ],
             "scale": 1,
-            "selectedLayer": 17,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 4357,
-                "y": 1931.5
+                "x": 4320,
+                "y": 1839.5
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -546,10 +546,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 46,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 134,
-                "y": 849.5
+                "x": 51,
+                "y": 1070.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
