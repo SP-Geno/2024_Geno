@@ -226,11 +226,14 @@
                 10,
                 14
             ],
+            "expandedObjectLayers": [
+                2
+            ],
             "scale": 1,
             "selectedLayer": 14,
             "viewCenter": {
                 "x": 4320,
-                "y": 1839.5
+                "y": 1869.5
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -341,10 +344,10 @@
                 8
             ],
             "scale": 1,
-            "selectedLayer": 32,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 1129,
-                "y": 1013.5
+                "x": 3307,
+                "y": 886.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -880,10 +883,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                9,
-                14,
                 17,
-                7
+                7,
+                9,
+                14
             ],
             "expandedObjectLayers": [
                 2
@@ -891,8 +894,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 533.5,
-                "y": 286.5
+                "x": 362,
+                "y": 361.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -978,7 +981,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/gif",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Möbel l Interior",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
@@ -988,7 +991,7 @@
         "Messehalle.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Webinar.json",
         "TestmapMesse.tmj",
