@@ -988,7 +988,7 @@
         "Messehalle.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "Webinar.json",
         "TestmapMesse.tmj",
