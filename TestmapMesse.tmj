@@ -3295,7 +3295,7 @@
          "margin":0,
          "name":"roomname_Pflichtunterweisung",
          "spacing":0,
-         "tilecount":10,
+         "tilecount":0,
          "tileheight":32,
          "tilewidth":32
         }, 

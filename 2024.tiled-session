@@ -223,10 +223,10 @@
         },
         "Messehalle.tmj": {
             "expandedGroupLayers": [
-                14,
-                28,
                 26,
-                10
+                10,
+                14,
+                28
             ],
             "expandedObjectLayers": [
                 2
@@ -234,8 +234,8 @@
             "scale": 2,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 3952,
-                "y": 1805.75
+                "x": 3951,
+                "y": 1804.75
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -348,14 +348,14 @@
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
                 11,
-                9,
-                8
+                8,
+                9
             ],
             "scale": 1,
             "selectedLayer": 30,
             "viewCenter": {
-                "x": 5209,
-                "y": 1443.5
+                "x": 5204,
+                "y": 1438.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -522,7 +522,8 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#roomname_Pflichtunterweisung": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "TestmapMesse.tmj#roomname_Private Banking": {
             "scaleInDock": 1
@@ -568,8 +569,8 @@
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 49,
-                "y": 1068.5
+                "x": 1903.5,
+                "y": 1119.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -900,10 +901,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                7,
                 17,
-                14,
-                9
+                7,
+                9,
+                14
             ],
             "expandedObjectLayers": [
                 2
@@ -911,8 +912,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 94,
-                "y": 666.5
+                "x": 93,
+                "y": 665.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
