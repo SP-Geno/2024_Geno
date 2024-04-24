@@ -5,9 +5,9 @@
     },
     "activeFile": "TestmapMesse.tmj",
     "expandedProjectPaths": [
-        "tilesets",
         "tilesets/Custom",
-        "."
+        ".",
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -223,19 +223,19 @@
         },
         "Messehalle.tmj": {
             "expandedGroupLayers": [
-                10,
-                26,
                 14,
-                28
+                28,
+                26,
+                10
             ],
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 1,
-            "selectedLayer": 3,
+            "scale": 2,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 6388,
-                "y": 1868.5
+                "x": 3952,
+                "y": 1805.75
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -352,10 +352,10 @@
                 8
             ],
             "scale": 1,
-            "selectedLayer": 17,
+            "selectedLayer": 30,
             "viewCenter": {
-                "x": 3306,
-                "y": 885.5
+                "x": 5209,
+                "y": 1443.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -377,6 +377,15 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#Interface_UI_thinking_emotes_animation_32x32": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#Künstliche Intelligenz": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#New Leadership": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#Pflichtunterweisung": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#Roomname_Führung": {
@@ -553,14 +562,14 @@
                 89
             ],
             "expandedObjectLayers": [
-                91,
-                2
+                2,
+                91
             ],
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 51,
-                "y": 1070.5
+                "x": 49,
+                "y": 1068.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -891,10 +900,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                17,
                 7,
-                9,
-                14
+                17,
+                14,
+                9
             ],
             "expandedObjectLayers": [
                 2
@@ -902,8 +911,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 362,
-                "y": 361.5
+                "x": 94,
+                "y": 666.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -989,7 +998,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/gif",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Möbel l Interior",
+    "last.imagePath": "C:/Users/GenoAkademie/Downloads",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
@@ -1000,7 +1009,7 @@
         "Messehalle.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "Webinar.json",
         "office_tryout.tmj",
