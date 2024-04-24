@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Messehalle.tmj",
+    "activeFile": "TestmapMesse.tmj",
     "expandedProjectPaths": [
         ".",
-        "tilesets/Custom",
-        "tilesets"
+        "tilesets",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -365,7 +365,7 @@
             "scale": 0.12,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 1866.666666666667,
+                "x": 1858.333333333334,
                 "y": 2104.166666666667
             }
         },
@@ -1029,8 +1029,8 @@
     "recentFiles": [
         "Webinar.json",
         "office_tryout.tmj",
-        "TestmapMesse.tmj",
         "Messehalle.tmj",
+        "TestmapMesse.tmj",
         "map.tmj",
         "castle.tmj",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
