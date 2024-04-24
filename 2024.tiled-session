@@ -232,10 +232,10 @@
                 2
             ],
             "scale": 2,
-            "selectedLayer": 21,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 3949,
-                "y": 1802.75
+                "x": 3948.5,
+                "y": 1836.75
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -352,10 +352,10 @@
                 9
             ],
             "scale": 1,
-            "selectedLayer": 30,
+            "selectedLayer": 24,
             "viewCenter": {
-                "x": 5200,
-                "y": 1434.5
+                "x": 2999,
+                "y": 1077.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -1000,7 +1000,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/gif",
-    "last.imagePath": "C:/Users/GenoAkademie/Downloads",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
