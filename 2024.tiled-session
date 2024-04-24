@@ -347,6 +347,7 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
+                20,
                 11,
                 8,
                 9
@@ -354,14 +355,17 @@
             "scale": 1,
             "selectedLayer": 24,
             "viewCenter": {
-                "x": 2999,
-                "y": 1077.5
+                "x": 1021,
+                "y": 1833.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#360° Logo 64x64": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#Account Management": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#Deutschland 288x384": {
@@ -1011,7 +1015,7 @@
         "Messehalle.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Webinar.json",
         "office_tryout.tmj",
