@@ -3558,19 +3558,6 @@
          "tilecount":4,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":4,
-         "firstgid":16662,
-         "image":"..\/..\/..\/Downloads\/New Leadership.png",
-         "imageheight":38,
-         "imagewidth":152,
-         "margin":0,
-         "name":"New Leadership",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
