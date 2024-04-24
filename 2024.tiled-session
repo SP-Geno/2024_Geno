@@ -231,11 +231,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 0.75,
-            "selectedLayer": 2,
+            "scale": 1,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1740,
-                "y": 3880.6666666666665
+                "x": 1972,
+                "y": 3674.5
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -365,8 +365,8 @@
             "scale": 0.12,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 2825,
-                "y": 1345.8333333333335
+                "x": 1866.666666666667,
+                "y": 2104.166666666667
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
