@@ -234,8 +234,8 @@
             "scale": 2,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 3951,
-                "y": 1804.75
+                "x": 3949,
+                "y": 1802.75
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -354,8 +354,8 @@
             "scale": 1,
             "selectedLayer": 30,
             "viewCenter": {
-                "x": 5204,
-                "y": 1438.5
+                "x": 5200,
+                "y": 1434.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -386,7 +386,8 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#Pflichtunterweisung": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "TestmapMesse.tmj#Roomname_Führung": {
             "scaleInDock": 1
