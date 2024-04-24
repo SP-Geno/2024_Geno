@@ -225,17 +225,17 @@
             "expandedGroupLayers": [
                 26,
                 10,
-                14,
-                28
+                28,
+                14
             ],
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 0.5,
-            "selectedLayer": 16,
+            "scale": 1,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 3090,
-                "y": 2979
+                "x": 988,
+                "y": 1446.5
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
