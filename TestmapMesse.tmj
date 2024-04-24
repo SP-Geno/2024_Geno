@@ -3545,19 +3545,6 @@
          "tilecount":16,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":4,
-         "firstgid":16658,
-         "image":"tilesets\/Custom\/K\u00fcnstliche Intelligenz.png",
-         "imageheight":38,
-         "imagewidth":152,
-         "margin":0,
-         "name":"K\u00fcnstliche Intelligenz",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
