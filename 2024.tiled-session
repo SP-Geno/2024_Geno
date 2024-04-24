@@ -356,10 +356,10 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 32,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 1465,
-                "y": 443.5
+                "x": 1464,
+                "y": 1324.5
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -871,8 +871,8 @@
             "scale": 0.6502520161290322,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 495.19262072707545,
-                "y": 336.0235640648012
+                "x": 750.4782574994189,
+                "y": 606.6878536547555
             }
         },
         "map.tmj#WA_Decoration": {
@@ -920,8 +920,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 481,
-                "y": 585.5
+                "x": 94,
+                "y": 666.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -1018,7 +1018,7 @@
         "Messehalle.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "Webinar.json",
         "office_tryout.tmj",
