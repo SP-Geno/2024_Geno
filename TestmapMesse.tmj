@@ -3154,6 +3154,40 @@
                  "width":171,
                  "x":2626,
                  "y":1783
+                }, 
+                {
+                 "height":153.333333333333,
+                 "id":32,
+                 "name":"Eingang",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":205.333333333333,
+                 "x":660,
+                 "y":1314.66666666667
+                }, 
+                {
+                 "height":58,
+                 "id":33,
+                 "name":"Ausgang Messehalle",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"Messehalle.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":61.3333333333333,
+                 "x":418,
+                 "y":1090.66666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3162,7 +3196,7 @@
          "y":0
         }],
  "nextlayerid":38,
- "nextobjectid":32,
+ "nextobjectid":34,
  "orientation":"orthogonal",
  "properties":[
         {

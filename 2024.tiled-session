@@ -231,11 +231,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 0.25,
-            "selectedLayer": 13,
+            "scale": 0.75,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1508,
-                "y": 2874
+                "x": 1149.3333333333335,
+                "y": 1688.6666666666665
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -612,10 +612,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 0,
+            "selectedLayer": 42,
             "viewCenter": {
-                "x": 1375,
-                "y": 1063.5
+                "x": 3061,
+                "y": 1727.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -688,8 +688,8 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 482,
-                "y": 356.5
+                "x": 478,
+                "y": 189.5
             }
         },
         "castle.tmj#Castle2": {
@@ -1055,7 +1055,7 @@
         "Messehalle.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Webinar.json",
         "office_tryout.tmj",

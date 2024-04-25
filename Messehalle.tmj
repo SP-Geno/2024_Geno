@@ -1836,6 +1836,23 @@
                  "width":170,
                  "x":1757,
                  "y":3069
+                }, 
+                {
+                 "height":98.6666666666667,
+                 "id":40,
+                 "name":"Zugang Messehalle Entwickeln",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"TestmapMesse.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":65.3333333333335,
+                 "x":1602.66666666667,
+                 "y":1146.66666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3176,7 +3193,7 @@
          "y":0
         }],
  "nextlayerid":40,
- "nextobjectid":40,
+ "nextobjectid":41,
  "orientation":"orthogonal",
  "properties":[
         {
