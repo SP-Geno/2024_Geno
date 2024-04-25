@@ -234,8 +234,8 @@
             "scale": 0.75,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 1149.3333333333335,
-                "y": 1688.6666666666665
+                "x": 1633.3333333333335,
+                "y": 1194
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -392,11 +392,11 @@
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.75,
-            "selectedLayer": 15,
+            "scale": 1.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1125.3333333333335,
-                "y": 635.3333333333333
+                "x": 732.6666666666667,
+                "y": 1473.6666666666665
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -688,7 +688,7 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 478,
+                "x": 477,
                 "y": 189.5
             }
         },
@@ -908,8 +908,8 @@
             "scale": 0.6502520161290322,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 750.4782574994189,
-                "y": 606.6878536547555
+                "x": 13.840787535849927,
+                "y": 543.6353771025504
             }
         },
         "map.tmj#WA_Decoration": {
@@ -1055,14 +1055,14 @@
         "Messehalle.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
+        "castle.tmj",
         "Webinar.json",
         "office_tryout.tmj",
         "Messehalle.tmj",
         "TestmapMesse.tmj",
         "map.tmj",
-        "castle.tmj",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "Testmap 360° Messe.tmj",
