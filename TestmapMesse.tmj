@@ -2816,6 +2816,40 @@
          "name":"floorLayer",
          "objects":[
                 {
+                 "height":58,
+                 "id":33,
+                 "name":"to-messehalle",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"Messehalle.tmj#from-testmapmesse"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":61.3333333333333,
+                 "x":418,
+                 "y":1090.66666666667
+                }, 
+                {
+                 "height":156,
+                 "id":34,
+                 "name":"from-messehalle",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":200,
+                 "x":870.666666666667,
+                 "y":1320.66666666667
+                }, 
+                {
                  "height":385.5,
                  "id":9,
                  "name":"silentZone1",
@@ -3154,40 +3188,6 @@
                  "width":171,
                  "x":2626,
                  "y":1783
-                }, 
-                {
-                 "height":58,
-                 "id":33,
-                 "name":"to-messehalle",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"Messehalle.tmj#from-testmapmesse"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":61.3333333333333,
-                 "x":418,
-                 "y":1090.66666666667
-                }, 
-                {
-                 "height":153.333333333333,
-                 "id":32,
-                 "name":"from-messehalle",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":205.333333333333,
-                 "x":718,
-                 "y":1320.00333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3196,7 +3196,7 @@
          "y":0
         }],
  "nextlayerid":38,
- "nextobjectid":34,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {

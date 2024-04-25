@@ -1838,21 +1838,21 @@
                  "y":3069
                 }, 
                 {
-                 "height":145.333333333333,
-                 "id":43,
+                 "height":113.333333333333,
+                 "id":48,
                  "name":"to-testmapmesse",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"testmapmesse.tmj#from-Messehalle"
+                         "value":"testmapmesse.tmj#from-messehalle"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":72,
-                 "x":1593.33333333333,
-                 "y":1152
+                 "x":1596,
+                 "y":1146.66666666667
                 }, 
                 {
                  "height":170.666666666667,
@@ -1870,6 +1870,40 @@
                  "width":153.333333333333,
                  "x":1086.66666666667,
                  "y":1597.33333333333
+                }, 
+                {
+                 "height":116,
+                 "id":45,
+                 "name":"to-office_tryout",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"office_tryout.tmj#from-messehalle"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":72,
+                 "x":1269.33333333333,
+                 "y":1152
+                }, 
+                {
+                 "height":196,
+                 "id":47,
+                 "name":"from-office_tryout",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":213.333333333333,
+                 "x":666.666666666667,
+                 "y":1604
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3210,7 +3244,7 @@
          "y":0
         }],
  "nextlayerid":41,
- "nextobjectid":45,
+ "nextobjectid":49,
  "orientation":"orthogonal",
  "properties":[
         {
