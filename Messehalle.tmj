@@ -1840,7 +1840,7 @@
                 {
                  "height":113.333333333333,
                  "id":48,
-                 "name":"to-testmapmesse",
+                 "name":"to-digitalmesse.360.grad",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -1857,7 +1857,7 @@
                 {
                  "height":170.666666666667,
                  "id":44,
-                 "name":"from-testmapmesse",
+                 "name":"from-digitalmesse.360.grad",
                  "properties":[
                         {
                          "name":"start",
