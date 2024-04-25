@@ -13033,42 +13033,6 @@
           "rotation": 0,
           "type": "area",
           "width": 127
-        },
-        {
-          "id": 11,
-          "name": "to-messehalle",
-          "visible": true,
-          "x": 1181,
-          "y": 444,
-          "height": 71,
-          "properties": [
-            {
-              "name": "exitUrl",
-              "type": "string",
-              "value": "messehalle.tmj#from-office_tryout"
-            }
-          ],
-          "rotation": 0,
-          "type": "area",
-          "width": 102
-        },
-        {
-          "id": 12,
-          "name": "from-messehalle",
-          "visible": true,
-          "x": 1050,
-          "y": 859,
-          "height": 132,
-          "properties": [
-            {
-              "name": "start",
-              "type": "bool",
-              "value": true
-            }
-          ],
-          "rotation": 0,
-          "type": "area",
-          "width": 94
         }
       ],
       "opacity": 1,
@@ -14389,7 +14353,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "office_tryout-chunk-1-45114bb7.png",
+      "image": "office_tryout-chunk-1-51cada8d.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
