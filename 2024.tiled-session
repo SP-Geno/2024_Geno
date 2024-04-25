@@ -232,10 +232,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 12,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1926,
-                "y": 1783.5
+                "x": 550,
+                "y": 3131.5
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -277,6 +277,33 @@
             "scaleInDock": 1
         },
         "Messehalle.tmj#custom_360° Grad Teppich(384 x 384 px) white": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_Trennungszeichen (128 x 128 px) v2": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_binden": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_blue 360° 256x256": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_blue 360° 64x64": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_entwickeln": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_gestalten": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_gewinnen": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_white 360° 256x256": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_white 360° 64x64": {
             "scaleInDock": 1
         },
         "Messehalle.tmj#gif_animated_elevator_door_entrance_1_32x32": {
@@ -363,10 +390,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 31,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 1133.3333333333333,
-                "y": 636.6666666666666
+                "x": 1125.3333333333335,
+                "y": 635.3333333333333
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -927,8 +954,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 639,
-                "y": 510.5
+                "x": 633,
+                "y": 509.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
