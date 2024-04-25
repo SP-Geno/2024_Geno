@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "TestmapMesse.tmj",
+    "activeFile": "Webinar.json",
     "expandedProjectPaths": [
-        ".",
+        "tilesets/Custom",
         "tilesets",
-        "tilesets/Custom"
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -91,11 +91,15 @@
             "scaleInDock": 1
         },
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj": {
+            "expandedObjectLayers": [
+                2,
+                61
+            ],
             "scale": 1.6229166666666666,
-            "selectedLayer": 0,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 383.5686777920411,
-                "y": 301.61745827984595
+                "x": 654.3774069319641,
+                "y": 143.87676508344032
             }
         },
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj#WA_Decoration": {
@@ -223,10 +227,10 @@
         },
         "Messehalle.tmj": {
             "expandedGroupLayers": [
-                10,
-                26,
                 14,
-                28
+                28,
+                26,
+                10
             ],
             "expandedObjectLayers": [
                 2
@@ -234,8 +238,8 @@
             "scale": 0.75,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 1633.3333333333335,
-                "y": 1194
+                "x": 1625.3333333333335,
+                "y": 1220.6666666666665
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -386,17 +390,17 @@
             "expandedGroupLayers": [
                 20,
                 11,
-                9,
-                8
+                8,
+                9
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 1.5,
-            "selectedLayer": 0,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 732.6666666666667,
-                "y": 1473.6666666666665
+                "x": 818.6666666666667,
+                "y": 1395
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -608,14 +612,14 @@
                 89
             ],
             "expandedObjectLayers": [
-                91,
-                2
+                2,
+                91
             ],
             "scale": 1,
             "selectedLayer": 42,
             "viewCenter": {
-                "x": 3061,
-                "y": 1727.5
+                "x": 3059,
+                "y": 1725.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -947,9 +951,9 @@
         "office_tryout.tmj": {
             "expandedGroupLayers": [
                 7,
-                9,
+                17,
                 14,
-                17
+                9
             ],
             "expandedObjectLayers": [
                 2
@@ -957,8 +961,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 633,
-                "y": 509.5
+                "x": 632,
+                "y": 508.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -1052,19 +1056,21 @@
         "Webinar.json",
         "office_tryout.tmj",
         "TestmapMesse.tmj",
-        "Messehalle.tmj"
+        "Messehalle.tmj",
+        "map.tmj",
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "castle.tmj",
-        "Webinar.json",
-        "office_tryout.tmj",
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
+        "map.tmj",
         "Messehalle.tmj",
         "TestmapMesse.tmj",
-        "map.tmj",
+        "office_tryout.tmj",
+        "Webinar.json",
+        "castle.tmj",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
-        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "Testmap 360° Messe.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
         "innenhof.tmj",

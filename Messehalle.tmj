@@ -1836,6 +1836,40 @@
                  "width":170,
                  "x":1757,
                  "y":3069
+                }, 
+                {
+                 "height":145.333333333333,
+                 "id":43,
+                 "name":"to-testmapmesse",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"testmapmesse.tmj#from-Messehalle"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":72,
+                 "x":1593.33333333333,
+                 "y":1152
+                }, 
+                {
+                 "height":170.666666666667,
+                 "id":44,
+                 "name":"from-testmapmesse",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":153.333333333333,
+                 "x":1086.66666666667,
+                 "y":1597.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3176,7 +3210,7 @@
          "y":0
         }],
  "nextlayerid":41,
- "nextobjectid":43,
+ "nextobjectid":45,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -3278,6 +3312,15 @@
          "tilecount":12,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
                 {
                  "id":2,
                  "properties":[
