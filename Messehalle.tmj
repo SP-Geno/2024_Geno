@@ -1845,7 +1845,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/genoakademie\/ga\/digitalmesse.360.grad#from-messehalle"
+                         "value":"\/digitalmesse.360.grad#from-messehalle"
                         }],
                  "rotation":0,
                  "type":"area",
