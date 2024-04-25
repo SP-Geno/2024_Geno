@@ -12997,7 +12997,7 @@
           "height": 97,
           "properties": [
             {
-              "name": "silence",
+              "name": "silent",
               "type": "bool",
               "value": true
             }
@@ -13023,11 +13023,52 @@
               "name": "jitsiTrigger",
               "type": "string",
               "value": "onaction"
+            },
+            {
+              "name": "meetingRoomLabel",
+              "type": "string",
+              "value": "Gespräch"
             }
           ],
           "rotation": 0,
           "type": "area",
           "width": 127
+        },
+        {
+          "id": 11,
+          "name": "to-messehalle",
+          "visible": true,
+          "x": 1181,
+          "y": 444,
+          "height": 71,
+          "properties": [
+            {
+              "name": "exitUrl",
+              "type": "string",
+              "value": "messehalle.tmj#from-office_tryout"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 102
+        },
+        {
+          "id": 12,
+          "name": "from-messehalle",
+          "visible": true,
+          "x": 1050,
+          "y": 859,
+          "height": 132,
+          "properties": [
+            {
+              "name": "start",
+              "type": "bool",
+              "value": true
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
         }
       ],
       "opacity": 1,
@@ -14348,7 +14389,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "office_tryout-chunk-1-f19197cb.png",
+      "image": "office_tryout-chunk-1-982b1b91.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -14426,8 +14467,8 @@
   "compressionlevel": -1,
   "height": 32,
   "infinite": false,
-  "nextlayerid": 19,
-  "nextobjectid": 11,
+  "nextlayerid": 20,
+  "nextobjectid": 13,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
