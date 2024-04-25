@@ -3163,7 +3163,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"@\/genoakademie\/messehalle#from-testmapmesse"
+                         "value":"\/@\/genoakademie\/messehalle#from-testmapmesse"
                         }],
                  "rotation":0,
                  "type":"area",

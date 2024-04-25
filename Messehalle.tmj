@@ -1845,7 +1845,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"@\/genoakademie\/ga\/digitalmesse.360.grad#from-messehalle"
+                         "value":"\/@\/genoakademie\/ga\/digitalmesse.360.grad#from-messehalle"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1870,40 +1870,6 @@
                  "width":153.333333333333,
                  "x":1086.66666666667,
                  "y":1597.33333333333
-                }, 
-                {
-                 "height":116,
-                 "id":45,
-                 "name":"to-office_tryout",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"office_tryout.tmj#from-messehalle"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":72,
-                 "x":1269.33333333333,
-                 "y":1152
-                }, 
-                {
-                 "height":196,
-                 "id":47,
-                 "name":"from-office_tryout",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":213.333333333333,
-                 "x":666.666666666667,
-                 "y":1604
                 }],
          "opacity":1,
          "type":"objectgroup",
