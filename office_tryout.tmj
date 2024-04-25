@@ -532,40 +532,6 @@
                  "width":127,
                  "x":31,
                  "y":600
-                }, 
-                {
-                 "height":71,
-                 "id":11,
-                 "name":"to-messehalle",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"messehalle.tmj#from-office_tryout"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":102,
-                 "x":1181,
-                 "y":444
-                }, 
-                {
-                 "height":132,
-                 "id":12,
-                 "name":"from-messehalle",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":94,
-                 "x":1050,
-                 "y":859
                 }],
          "opacity":1,
          "type":"objectgroup",
