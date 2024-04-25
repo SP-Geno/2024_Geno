@@ -1059,7 +1059,7 @@
         "TestmapMesse.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Webinar.json",
         "office_tryout.tmj",
