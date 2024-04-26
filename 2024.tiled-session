@@ -705,8 +705,8 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 477,
-                "y": 189.5
+                "x": 476,
+                "y": 188.5
             }
         },
         "castle.tmj#Castle2": {
@@ -1074,6 +1074,7 @@
     "project": "2024.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "castle.tmj",
         "seezugang.tmj",
         "Webinar.json",
         "office_tryout.tmj",
@@ -1081,7 +1082,6 @@
         "Messehalle.tmj",
         "map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
-        "castle.tmj",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
         "Testmap 360° Messe.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
