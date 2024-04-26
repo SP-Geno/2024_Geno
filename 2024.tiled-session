@@ -227,19 +227,19 @@
         },
         "Messehalle.tmj": {
             "expandedGroupLayers": [
-                14,
-                26,
                 10,
-                28
+                26,
+                28,
+                14
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 0.75,
-            "selectedLayer": 13,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1630.6666666666665,
-                "y": 1202
+                "x": 2532.6666666666665,
+                "y": 2180.6666666666665
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -340,6 +340,9 @@
         "Messehalle.tmj#outdoor_GuttyKreumNatureTiles": {
             "scaleInDock": 0.75
         },
+        "Messehalle.tmj#outdoor_WA_Exterior": {
+            "scaleInDock": 1
+        },
         "Messehalle.tmj#outdoor_Wood Garden Assets ": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -401,19 +404,19 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
-                9,
                 8,
                 11,
-                20
+                20,
+                9
             ],
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.25,
-            "selectedLayer": 0,
+            "scale": 0.5,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 968,
-                "y": 1398
+                "x": 964,
+                "y": 1389
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -423,7 +426,7 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#Account Management": {
-            "scaleInDock": 0.5
+            "scaleInDock": 1
         },
         "TestmapMesse.tmj#Deutschland 288x384": {
             "scaleInDock": 1
@@ -629,10 +632,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 38,
+            "selectedLayer": 44,
             "viewCenter": {
-                "x": 3482,
-                "y": 613.5
+                "x": 1903.5,
+                "y": 1119.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -705,8 +708,8 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 475,
-                "y": 187.5
+                "x": 477,
+                "y": 189.5
             }
         },
         "castle.tmj#Castle2": {
@@ -963,10 +966,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                14,
-                9,
                 7,
-                17
+                17,
+                14,
+                9
             ],
             "expandedObjectLayers": [
                 2
@@ -1010,11 +1013,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 0.125,
+            "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 624,
-                "y": 844
+                "x": 52.5,
+                "y": 857.5
             }
         },
         "seezugang.tmj#32x32_map_tile v3.1": {
@@ -1061,7 +1064,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/gif",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Exterior/Garten",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/WorkAdventure Tiles",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
@@ -1074,18 +1077,18 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "castle.tmj",
-        "seezugang.tmj",
+        "Messehalle.tmj",
+        "TestmapMesse.tmj",
         "Webinar.json",
         "office_tryout.tmj",
-        "TestmapMesse.tmj",
-        "Messehalle.tmj",
         "map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
+        "castle.tmj",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
         "Testmap 360° Messe.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
-        "innenhof.tmj"
+        "innenhof.tmj",
+        "gameroom.tmj"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
