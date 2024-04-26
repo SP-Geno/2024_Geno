@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "TestmapMesse.tmj",
+    "activeFile": "Messehalle.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
         ".",
-        "tilesets"
+        "tilesets",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -229,37 +229,37 @@
             "expandedGroupLayers": [
                 10,
                 26,
-                14,
-                28
+                28,
+                14
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 0.75,
-            "selectedLayer": 12,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1161.3333333333335,
-                "y": 1680.6666666666665
+                "x": 2532.6666666666665,
+                "y": 2180.6666666666665
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Messehalle.tmj#14_Basement_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Messehalle.tmj#16_Grocery_store_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Messehalle.tmj#1_Generic_Shadowless32x32": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "Messehalle.tmj#22_Museum_Shadowless_32x32": {
             "scaleInDock": 0.75
         },
         "Messehalle.tmj#26_Condominium_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Messehalle.tmj#4_Bedroom_Shadowless_32x32": {
             "scaleInDock": 1
@@ -268,7 +268,7 @@
             "scaleInDock": 1
         },
         "Messehalle.tmj#WA_Special_Zones": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "Messehalle.tmj#boden_Room_Builder_Floor_Paths_32x32": {
@@ -325,11 +325,24 @@
         "Messehalle.tmj#office_Modern_Office_Shadowless_32x32": {
             "scaleInDock": 1
         },
+        "Messehalle.tmj#outdoor_11_Camping_32x32": {
+            "scaleInDock": 0.75
+        },
+        "Messehalle.tmj#outdoor_14_Swimming_Pool_32x32": {
+            "scaleInDock": 1
+        },
         "Messehalle.tmj#outdoor_17_Garden_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
+        },
+        "Messehalle.tmj#outdoor_3_City_Props_32x32": {
+            "scaleInDock": 1
         },
         "Messehalle.tmj#outdoor_GuttyKreumNatureTiles": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
+        },
+        "Messehalle.tmj#outdoor_Wood Garden Assets ": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Messehalle.tmj#walls_Room_Builder_3d_walls_32x32": {
             "scaleInDock": 1
@@ -388,10 +401,10 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
-                20,
+                8,
                 11,
-                9,
-                8
+                20,
+                9
             ],
             "expandedObjectLayers": [
                 7
@@ -399,8 +412,8 @@
             "scale": 0.5,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 970,
-                "y": 1395
+                "x": 964,
+                "y": 1389
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -618,8 +631,8 @@
             "scale": 1,
             "selectedLayer": 44,
             "viewCenter": {
-                "x": 3060,
-                "y": 1726.5
+                "x": 1903.5,
+                "y": 1119.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -950,10 +963,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                17,
                 7,
-                9,
-                14
+                17,
+                14,
+                9
             ],
             "expandedObjectLayers": [
                 2
@@ -961,8 +974,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1230,
-                "y": 477.5
+                "x": 640,
+                "y": 511.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -1061,9 +1074,9 @@
     "project": "2024.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Messehalle.tmj",
         "Webinar.json",
         "office_tryout.tmj",
-        "Messehalle.tmj",
         "TestmapMesse.tmj",
         "map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
@@ -1078,5 +1091,9 @@
     "textEdit.monospace": true,
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
-    "tileset.lastUsedFormat": "tsx"
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
 }
