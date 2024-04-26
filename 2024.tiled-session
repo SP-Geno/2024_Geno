@@ -12,7 +12,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "#Castle2": {
@@ -227,19 +227,19 @@
         },
         "Messehalle.tmj": {
             "expandedGroupLayers": [
-                10,
+                14,
                 26,
-                28,
-                14
+                10,
+                28
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 0.75,
-            "selectedLayer": 7,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 2532.6666666666665,
-                "y": 2180.6666666666665
+                "x": 2893.333333333333,
+                "y": 2340.6666666666665
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -401,10 +401,10 @@
         },
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
+                9,
                 8,
                 11,
-                20,
-                9
+                20
             ],
             "expandedObjectLayers": [
                 7
@@ -412,8 +412,8 @@
             "scale": 0.5,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 964,
-                "y": 1389
+                "x": 960,
+                "y": 1385
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -629,10 +629,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 44,
+            "selectedLayer": 38,
             "viewCenter": {
-                "x": 1903.5,
-                "y": 1119.5
+                "x": 3482,
+                "y": 613.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -963,10 +963,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                7,
-                17,
                 14,
-                9
+                9,
+                7,
+                17
             ],
             "expandedObjectLayers": [
                 2
@@ -1074,10 +1074,10 @@
     "project": "2024.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "TestmapMesse.tmj",
         "Messehalle.tmj",
         "Webinar.json",
         "office_tryout.tmj",
-        "TestmapMesse.tmj",
         "map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "castle.tmj",
