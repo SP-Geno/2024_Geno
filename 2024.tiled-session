@@ -885,8 +885,8 @@
             "scale": 0.75,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 969.3333333333333,
-                "y": 1396.6666666666665
+                "x": 2832,
+                "y": 1343.3333333333335
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1046,8 +1046,8 @@
             "scale": 0.5,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 888,
-                "y": 1679
+                "x": 2544,
+                "y": 2191
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1301,9 +1301,9 @@
         "office_tryout.tmj": {
             "expandedGroupLayers": [
                 17,
-                14,
+                7,
                 9,
-                7
+                14
             ],
             "expandedObjectLayers": [
                 2
@@ -1311,8 +1311,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 638,
-                "y": 509.5
+                "x": 640,
+                "y": 511.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
