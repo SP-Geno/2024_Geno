@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Messehalle.tmj",
+    "activeFile": "TestmapMesse.tmj",
     "expandedProjectPaths": [
         ".",
         "tilesets",
@@ -227,19 +227,19 @@
         },
         "Messehalle.tmj": {
             "expandedGroupLayers": [
-                10,
-                26,
                 28,
-                14
+                14,
+                26,
+                10
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 0.75,
-            "selectedLayer": 7,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 2532.6666666666665,
-                "y": 2180.6666666666665
+                "x": 1246.6666666666665,
+                "y": 3520.6666666666665
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -271,6 +271,9 @@
             "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
+        "Messehalle.tmj#Zu den Messehallen 128x128": {
+            "scaleInDock": 1
+        },
         "Messehalle.tmj#boden_Room_Builder_Floor_Paths_32x32": {
             "scaleInDock": 1
         },
@@ -281,6 +284,24 @@
             "scaleInDock": 1
         },
         "Messehalle.tmj#custom_360° Grad Teppich(384 x 384 px) white": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_Check-in 1": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_Check-in 2": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_Check-in 3": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_Check-in 4": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_Check-in 5": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_Steuerung 128x128": {
             "scaleInDock": 1
         },
         "Messehalle.tmj#custom_Trennungszeichen (128 x 128 px) v2": {
@@ -405,18 +426,18 @@
         "TestmapMesse.tmj": {
             "expandedGroupLayers": [
                 8,
+                9,
                 11,
-                20,
-                9
+                20
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 0.5,
-            "selectedLayer": 31,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 964,
-                "y": 1389
+                "x": 1538,
+                "y": 1323
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -500,6 +521,9 @@
         },
         "TestmapMesse.tmj#custom_Lautstärke": {
             "scaleInDock": 0.75
+        },
+        "TestmapMesse.tmj#custom_QR Code Test(1)": {
+            "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Region": {
             "scaleInDock": 1
@@ -628,8 +652,8 @@
                 89
             ],
             "expandedObjectLayers": [
-                91,
-                2
+                2,
+                91
             ],
             "scale": 1,
             "selectedLayer": 44,
@@ -966,10 +990,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                7,
-                17,
                 14,
-                9
+                9,
+                7,
+                17
             ],
             "expandedObjectLayers": [
                 2
@@ -1064,7 +1088,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/gif",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/WorkAdventure Tiles",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
@@ -1077,8 +1101,8 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "Messehalle.tmj",
         "TestmapMesse.tmj",
+        "Messehalle.tmj",
         "Webinar.json",
         "office_tryout.tmj",
         "map.tmj",
