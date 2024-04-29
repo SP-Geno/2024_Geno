@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "digitalmesse.360.grad.tmj",
+    "activeFile": "digitalmesse.360.grad.entwickeln.tmj",
     "expandedProjectPaths": [
-        "tilesets",
         "tilesets/Custom",
+        "tilesets",
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -883,10 +883,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 25,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 4128,
-                "y": 1635.3333333333333
+                "x": 2392,
+                "y": 794
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1047,6 +1047,7 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
+                14,
                 26,
                 10
             ],
@@ -1054,14 +1055,14 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1372,
-                "y": 1326.5
+                "x": 741,
+                "y": 3845.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#14_Basement_Shadowless_32x32": {
             "scaleInDock": 1
@@ -1070,10 +1071,10 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#1_Generic_Shadowless32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#22_Museum_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#26_Condominium_Shadowless_32x32": {
             "scaleInDock": 1
@@ -1166,13 +1167,13 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#outdoor_11_Camping_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#outdoor_14_Swimming_Pool_32x32": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#outdoor_17_Garden_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#outdoor_GuttyKreumNatureTiles": {
             "scaleInDock": 1
@@ -1426,8 +1427,8 @@
     "recentFiles": [
         "Webinar.json",
         "office_tryout.tmj",
-        "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.tmj",
+        "digitalmesse.360.grad.entwickeln.tmj",
         "TestmapMesse.tmj",
         "Messehalle.tmj",
         "map.tmj",
