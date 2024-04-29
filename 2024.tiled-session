@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "TestmapMesse.tmj",
+    "activeFile": "Messehalle.tmj",
     "expandedProjectPaths": [
-        ".",
+        "tilesets/Custom",
         "tilesets",
-        "tilesets/Custom"
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -236,10 +236,10 @@
                 2
             ],
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 2416,
-                "y": 1839.3333333333333
+                "x": 1160,
+                "y": 1682
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -252,7 +252,7 @@
             "scaleInDock": 0.75
         },
         "Messehalle.tmj#1_Generic_Shadowless32x32": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Messehalle.tmj#22_Museum_Shadowless_32x32": {
@@ -268,14 +268,14 @@
             "scaleInDock": 1
         },
         "Messehalle.tmj#WA_Special_Zones": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Messehalle.tmj#Zu den Messehallen 128x128": {
             "scaleInDock": 1
         },
         "Messehalle.tmj#boden_Room_Builder_Floor_Paths_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Messehalle.tmj#boden_Room_Builder_Floors_32x32": {
             "scaleInDock": 1
@@ -302,7 +302,7 @@
             "scaleInDock": 1
         },
         "Messehalle.tmj#custom_QR Code 128x128": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Messehalle.tmj#custom_Steuerung 128x128": {
             "scaleInDock": 1
@@ -339,7 +339,7 @@
         },
         "Messehalle.tmj#gif_animated_elevator_door_entrance_1_32x32": {
             "dynamicWrapping": false,
-            "scaleInDock": 1,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Messehalle.tmj#gif_animated_museum_ticket_turnstile_32x32": {
@@ -350,19 +350,19 @@
             "scaleInDock": 1
         },
         "Messehalle.tmj#outdoor_11_Camping_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Messehalle.tmj#outdoor_14_Swimming_Pool_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Messehalle.tmj#outdoor_17_Garden_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Messehalle.tmj#outdoor_3_City_Props_32x32": {
             "scaleInDock": 1
         },
         "Messehalle.tmj#outdoor_GuttyKreumNatureTiles": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Messehalle.tmj#outdoor_WA_Exterior": {
             "scaleInDock": 1
@@ -372,13 +372,13 @@
             "scaleInEditor": 1
         },
         "Messehalle.tmj#walls_Room_Builder_3d_walls_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Messehalle.tmj#walls_Room_Builder_Walls_32x32": {
             "scaleInDock": 1
         },
         "Messehalle.tmj#walls_Room_Builder_borders_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Testmap 360° Messe.tmj": {
             "expandedGroupLayers": [
@@ -437,10 +437,10 @@
                 7
             ],
             "scale": 0.5,
-            "selectedLayer": 18,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 824,
-                "y": 1067
+                "x": 448,
+                "y": 1117
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -872,6 +872,140 @@
         "conference.tmj#WA_User_Interface": {
             "scaleInDock": 1
         },
+        "digitalmesse.360.grad.tmj": {
+            "scale": 0.1876596715328467,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2547.164215388355,
+                "y": 2192.7993193144525
+            }
+        },
+        "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#14_Basement_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#16_Grocery_store_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#1_Generic_Shadowless32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#22_Museum_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#26_Condominium_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#4_Bedroom_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#5_Classroom_and_library_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#Zu den Messehallen 128x128": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#boden_Room_Builder_Floor_Paths_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#boden_Room_Builder_Floors_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_360° DigitalMesse (384 x 384 px) blue": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_360° Grad Teppich(384 x 384 px) white": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_Check-in 1": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_Check-in 2": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_Check-in 3": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_Check-in 4": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_Check-in 5": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_QR Code 128x128": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_Steuerung 128x128": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_Trennungszeichen (128 x 128 px) v2": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_binden": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_blue 360° 256x256": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_blue 360° 64x64": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_entwickeln": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_footstep": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_gestalten": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_gewinnen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_white 360° 256x256": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_white 360° 64x64": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#gif_animated_elevator_door_entrance_1_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#gif_animated_museum_ticket_turnstile_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#office_Modern_Office_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#outdoor_11_Camping_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#outdoor_14_Swimming_Pool_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#outdoor_17_Garden_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#outdoor_GuttyKreumNatureTiles": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#outdoor_WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#walls_Room_Builder_3d_walls_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#walls_Room_Builder_Walls_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#walls_Room_Builder_borders_32x32": {
+            "scaleInDock": 1
+        },
         "gameroom.tmj": {
             "expandedGroupLayers": [
                 5,
@@ -996,10 +1130,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
+                17,
                 14,
                 9,
-                7,
-                17
+                7
             ],
             "expandedObjectLayers": [
                 2
@@ -1007,8 +1141,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 639,
-                "y": 510.5
+                "x": 638,
+                "y": 509.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -1107,10 +1241,10 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "TestmapMesse.tmj",
-        "Messehalle.tmj",
         "Webinar.json",
         "office_tryout.tmj",
+        "TestmapMesse.tmj",
+        "Messehalle.tmj",
         "map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "castle.tmj",

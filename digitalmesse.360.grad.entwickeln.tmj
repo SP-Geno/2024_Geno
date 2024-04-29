@@ -3158,12 +3158,12 @@
                 {
                  "height":58,
                  "id":33,
-                 "name":"to-messehalle",
+                 "name":"to-digitalmesse.360.grad",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/genoakademie\/ga\/messehalle#from-digitalmesse.360.grad"
+                         "value":"https:\/\/play.workadventu.re\/@\/genoakademie\/ga\/messehalle#from-digitalmesse.360.grad.entwickeln"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3175,7 +3175,7 @@
                 {
                  "height":156,
                  "id":34,
-                 "name":"from-messehalle",
+                 "name":"from-digitalmesse.360.grad",
                  "properties":[
                         {
                          "name":"start",
@@ -3826,21 +3826,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":2,
-         "firstgid":16658,
-         "image":"tilesets\/Custom\/QR Code Test(1).png",
-         "imageheight":64,
-         "imagewidth":64,
-         "margin":0,
-         "name":"custom_QR Code Test(1)",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":4,
-         "firstgid":16662,
+         "firstgid":16658,
          "image":"tilesets\/Custom\/K\u00fcnstliche Intelligenz.png",
          "imageheight":38,
          "imagewidth":152,

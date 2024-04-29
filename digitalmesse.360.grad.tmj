@@ -1988,7 +1988,7 @@
                 {
                  "height":113.333333333333,
                  "id":48,
-                 "name":"to-digitalmesse.360.grad",
+                 "name":"to-digitalmesse.360.grad.entwickeln",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -2003,9 +2003,60 @@
                  "y":1146.66666666667
                 }, 
                 {
+                 "height":113.333,
+                 "id":49,
+                 "name":"to-digitalmesse.360.grad.binden",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/play.workadventu.re\/@\/genoakademie\/ga\/digitalmesse.360.grad.binden#from-digitalmesse.360.grad"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":72,
+                 "x":1272,
+                 "y":1147.3335
+                }, 
+                {
+                 "height":113.333,
+                 "id":50,
+                 "name":"to-digitalmesse.360.grad.gestalten",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/play.workadventu.re\/@\/genoakademie\/ga\/digitalmesse.360.grad.gewinnen#from-digitalmesse.360.grad"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":72,
+                 "x":636,
+                 "y":1150.00016666667
+                }, 
+                {
+                 "height":113.333,
+                 "id":51,
+                 "name":"to-digitalmesse.360.grad.gewinnen",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/play.workadventu.re\/@\/genoakademie\/ga\/digitalmesse.360.grad.gewinnen#from-digitalmesse.360.grad"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":72,
+                 "x":956,
+                 "y":1143.3335
+                }, 
+                {
                  "height":170.666666666667,
                  "id":44,
-                 "name":"from-digitalmesse.360.grad",
+                 "name":"from-digitalmesse.360.grad.entwickeln",
                  "properties":[
                         {
                          "name":"start",
@@ -2018,6 +2069,57 @@
                  "width":153.333333333333,
                  "x":1086.66666666667,
                  "y":1597.33333333333
+                }, 
+                {
+                 "height":170.667,
+                 "id":52,
+                 "name":"from-digitalmesse.360.grad.binden",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":153.333,
+                 "x":1088.66683333333,
+                 "y":1594.6665
+                }, 
+                {
+                 "height":170.667,
+                 "id":53,
+                 "name":"from-digitalmesse.360.grad.gewinnen",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":153.333,
+                 "x":1087.3335,
+                 "y":1599.99983333333
+                }, 
+                {
+                 "height":170.667,
+                 "id":54,
+                 "name":"from-digitalmesse.360.grad.gestalten4",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":153.333,
+                 "x":1094.00016666667,
+                 "y":1598.6665
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3358,7 +3460,7 @@
          "y":0
         }],
  "nextlayerid":42,
- "nextobjectid":49,
+ "nextobjectid":55,
  "orientation":"orthogonal",
  "properties":[
         {
