@@ -6,8 +6,8 @@
     "activeFile": "digitalmesse.360.grad.tmj",
     "expandedProjectPaths": [
         "tilesets",
-        ".",
-        "tilesets/Custom"
+        "tilesets/Custom",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -874,19 +874,19 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                20,
-                11,
                 9,
-                8
+                8,
+                11,
+                20
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 31,
+            "selectedLayer": 25,
             "viewCenter": {
-                "x": 2832,
-                "y": 1343.3333333333335
+                "x": 4129.333333333333,
+                "y": 291.3333333333333
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1012,7 +1012,13 @@
         "digitalmesse.360.grad.entwickeln.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
             "scaleInDock": 0.75
         },
+        "digitalmesse.360.grad.entwickeln.tmj#roomnamePflichtunterweisung": {
+            "scaleInDock": 1
+        },
         "digitalmesse.360.grad.entwickeln.tmj#roomname_Account Management": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.entwickeln.tmj#roomname_Künstliche Intelligenz": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#roomname_New Leadership": {
@@ -1040,14 +1046,18 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj": {
+            "expandedGroupLayers": [
+                26,
+                10
+            ],
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 0.5,
-            "selectedLayer": 13,
+            "scale": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 2544,
-                "y": 2191
+                "x": 1372,
+                "y": 1326.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1105,6 +1115,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#custom_Check-in 5": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_Netzwerkgarten": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#custom_QR Code 128x128": {
@@ -1301,9 +1314,9 @@
         "office_tryout.tmj": {
             "expandedGroupLayers": [
                 17,
-                7,
+                14,
                 9,
-                14
+                7
             ],
             "expandedObjectLayers": [
                 2
