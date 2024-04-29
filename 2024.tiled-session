@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Messehalle.tmj",
+    "activeFile": "digitalmesse.360.grad.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
         "tilesets",
-        "."
+        ".",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1405,14 +1405,16 @@
     "openFiles": [
         "Webinar.json",
         "office_tryout.tmj",
-        "Messehalle.tmj",
-        "TestmapMesse.tmj"
+        "digitalmesse.360.grad.tmj",
+        "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "Webinar.json",
         "office_tryout.tmj",
+        "digitalmesse.360.grad.entwickeln.tmj",
+        "digitalmesse.360.grad.tmj",
         "TestmapMesse.tmj",
         "Messehalle.tmj",
         "map.tmj",
@@ -1420,9 +1422,7 @@
         "castle.tmj",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
         "Testmap 360° Messe.tmj",
-        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj",
-        "innenhof.tmj",
-        "gameroom.tmj"
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
