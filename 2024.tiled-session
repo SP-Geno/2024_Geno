@@ -873,11 +873,17 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
-            "scale": 0.1920462570621469,
-            "selectedLayer": 0,
+            "expandedGroupLayers": [
+                20,
+                11,
+                9,
+                8
+            ],
+            "scale": 0.75,
+            "selectedLayer": 26,
             "viewCenter": {
-                "x": 2056.7961388186627,
-                "y": 1346.029878188922
+                "x": 2484,
+                "y": 500.66666666666663
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -917,7 +923,7 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#carpets": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_360° DigitalMesse (384 x 384 px)": {
             "scaleInDock": 1
@@ -929,7 +935,7 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_Lautstärke": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_Region": {
             "scaleInDock": 1
@@ -953,7 +959,7 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_footstep": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_geno logo": {
             "scaleInDock": 1
@@ -962,55 +968,58 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#floor_Room_Builder_Floor_Paths_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#floor_Room_Builder_Floors_32x32": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_12_Kitchen_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_14_Basement_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_18_Jail_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_19_Hospital_Shadowless_32x32": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_1_Generic_Shadowless32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
+        },
+        "digitalmesse.360.grad.entwickeln.tmj#möbel_6_Music_and_sport_Shadowless_32x32": {
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_8_Gym_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#roomname_Account Management": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#roomname_New Leadership": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#roomname_Private Banking": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#roomname_Seiteneinsteiger": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#roomname_Skill Based Learning": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#roomname_Wertermittlungspass": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#walls_Room_Builder_3d_walls_32x32": {
             "scaleInDock": 1
@@ -1377,7 +1386,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/gif",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Exterior/Garten",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Möbel l Interior",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
