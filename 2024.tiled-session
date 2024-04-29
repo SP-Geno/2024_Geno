@@ -1040,11 +1040,14 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj": {
-            "scale": 0.1876596715328467,
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.5,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1630.6114014829222,
-                "y": 1201.6433693934607
+                "x": 1156,
+                "y": 1425
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
