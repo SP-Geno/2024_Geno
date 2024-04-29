@@ -238,8 +238,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1246.6666666666665,
-                "y": 3520.6666666666665
+                "x": 2416,
+                "y": 1839.3333333333333
             }
         },
         "Messehalle.tmj#12_Kitchen_Shadowless_32x32": {
@@ -299,6 +299,9 @@
             "scaleInDock": 1
         },
         "Messehalle.tmj#custom_Check-in 5": {
+            "scaleInDock": 1
+        },
+        "Messehalle.tmj#custom_QR Code 128x128": {
             "scaleInDock": 1
         },
         "Messehalle.tmj#custom_Steuerung 128x128": {
@@ -436,8 +439,8 @@
             "scale": 0.5,
             "selectedLayer": 18,
             "viewCenter": {
-                "x": 1538,
-                "y": 1323
+                "x": 824,
+                "y": 1067
             }
         },
         "TestmapMesse.tmj#360° Logo 32x32": {
@@ -517,6 +520,9 @@
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Doppelpfeil": {
+            "scaleInDock": 1
+        },
+        "TestmapMesse.tmj#custom_Künstliche Intelligenz": {
             "scaleInDock": 1
         },
         "TestmapMesse.tmj#custom_Lautstärke": {
@@ -1001,8 +1007,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 640,
-                "y": 511.5
+                "x": 639,
+                "y": 510.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
