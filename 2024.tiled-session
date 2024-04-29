@@ -880,10 +880,10 @@
                 8
             ],
             "scale": 0.75,
-            "selectedLayer": 26,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 2484,
-                "y": 500.66666666666663
+                "x": 969.3333333333333,
+                "y": 1396.6666666666665
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -976,6 +976,9 @@
         "digitalmesse.360.grad.entwickeln.tmj#möbel_12_Kitchen_Shadowless_32x32": {
             "scaleInDock": 0.75
         },
+        "digitalmesse.360.grad.entwickeln.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_14_Basement_Shadowless_32x32": {
             "scaleInDock": 0.75
         },
@@ -993,6 +996,9 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
             "scaleInDock": 0.75
+        },
+        "digitalmesse.360.grad.entwickeln.tmj#möbel_5_Classroom_and_library_Shadowless_32x32": {
+            "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#möbel_6_Music_and_sport_Shadowless_32x32": {
             "scaleInDock": 0.75
