@@ -883,10 +883,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 2,
+            "selectedLayer": 24,
             "viewCenter": {
-                "x": 2070.6666666666665,
-                "y": 275.3333333333333
+                "x": 2701.333333333333,
+                "y": 1387.3333333333335
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1057,8 +1057,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 565,
-                "y": 4332.5
+                "x": 564,
+                "y": 4331.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
