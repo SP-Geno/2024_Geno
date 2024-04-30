@@ -658,8 +658,8 @@
                 89
             ],
             "expandedObjectLayers": [
-                91,
-                2
+                2,
+                91
             ],
             "scale": 1,
             "selectedLayer": 44,
@@ -1314,9 +1314,9 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                17,
-                7,
                 9,
+                7,
+                17,
                 14
             ],
             "expandedObjectLayers": [
