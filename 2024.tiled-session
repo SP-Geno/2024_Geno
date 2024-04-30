@@ -5,8 +5,8 @@
     },
     "activeFile": "digitalmesse.360.grad.entwickeln.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
         "tilesets",
+        "tilesets/Custom",
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -874,10 +874,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
+                20,
                 9,
                 8,
-                11,
-                20
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -885,8 +885,8 @@
             "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 3202.6666666666665,
-                "y": 1696.6666666666665
+                "x": 3200,
+                "y": 2030
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1051,9 +1051,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                10,
+                14,
                 26,
-                14
+                10
             ],
             "expandedObjectLayers": [
                 2
@@ -1061,8 +1061,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 563,
-                "y": 4078.5
+                "x": 562,
+                "y": 4077.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1318,10 +1318,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                9,
-                7,
                 17,
-                14
+                14,
+                7,
+                9
             ],
             "expandedObjectLayers": [
                 2
