@@ -874,19 +874,19 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                11,
                 9,
                 8,
+                11,
                 20
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 25,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 769.3333333333333,
-                "y": 1958
+                "x": 2070.6666666666665,
+                "y": 275.3333333333333
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
