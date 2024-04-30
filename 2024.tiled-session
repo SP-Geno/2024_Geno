@@ -658,8 +658,8 @@
                 89
             ],
             "expandedObjectLayers": [
-                2,
-                91
+                91,
+                2
             ],
             "scale": 1,
             "selectedLayer": 44,
@@ -1057,8 +1057,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 741,
-                "y": 3845.5
+                "x": 2544,
+                "y": 2191.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1314,10 +1314,10 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
-                17,
                 14,
                 9,
-                7
+                7,
+                17
             ],
             "expandedObjectLayers": [
                 2
