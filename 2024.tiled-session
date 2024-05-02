@@ -875,9 +875,9 @@
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
                 20,
-                9,
+                11,
                 8,
-                11
+                9
             ],
             "expandedObjectLayers": [
                 7
@@ -885,8 +885,8 @@
             "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 3198.6666666666665,
-                "y": 2028.6666666666665
+                "x": 3196,
+                "y": 1522
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1061,8 +1061,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 2544,
-                "y": 2191.5
+                "x": 561,
+                "y": 3950.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
