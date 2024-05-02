@@ -5,9 +5,9 @@
     },
     "activeFile": "digitalmesse.360.grad.entwickeln.tmj",
     "expandedProjectPaths": [
-        "tilesets",
         "tilesets/Custom",
-        "."
+        ".",
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -658,8 +658,8 @@
                 89
             ],
             "expandedObjectLayers": [
-                2,
-                91
+                91,
+                2
             ],
             "scale": 1,
             "selectedLayer": 44,
@@ -885,8 +885,8 @@
             "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 3200,
-                "y": 2030
+                "x": 3198.6666666666665,
+                "y": 2028.6666666666665
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1061,8 +1061,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 562,
-                "y": 4077.5
+                "x": 2544,
+                "y": 2191.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1318,9 +1318,9 @@
         },
         "office_tryout.tmj": {
             "expandedGroupLayers": [
+                7,
                 17,
                 14,
-                7,
                 9
             ],
             "expandedObjectLayers": [
