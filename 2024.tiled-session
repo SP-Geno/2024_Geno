@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "digitalmesse.360.grad.entwickeln.tmj",
+    "activeFile": "digitalmesse.360.grad.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
         ".",
-        "tilesets"
+        "tilesets",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1059,10 +1059,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 561,
-                "y": 3950.5
+                "x": 305,
+                "y": 2941.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1431,8 +1431,8 @@
     "recentFiles": [
         "Webinar.json",
         "office_tryout.tmj",
-        "digitalmesse.360.grad.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
+        "digitalmesse.360.grad.tmj",
         "TestmapMesse.tmj",
         "Messehalle.tmj",
         "map.tmj",
