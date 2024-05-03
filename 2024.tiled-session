@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "digitalmesse.360.grad.entwickeln.tmj",
+    "activeFile": "digitalmesse.360.grad.tmj",
     "expandedProjectPaths": [
         "tilesets",
-        "tilesets/Custom",
-        "."
+        ".",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1250,8 +1250,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 959.5,
-                "y": 3112.5
+                "x": 958.5,
+                "y": 3111.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1619,23 +1619,24 @@
         "Webinar.json",
         "office_tryout.tmj",
         "digitalmesse.360.grad.tmj",
-        "digitalmesse.360.grad.entwickeln.tmj"
+        "digitalmesse.360.grad.entwickeln.tmj",
+        "digitalmesse.360.grad.binden.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "Webinar.json",
         "office_tryout.tmj",
-        "digitalmesse.360.grad.tmj",
+        "digitalmesse.360.grad.binden.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
+        "digitalmesse.360.grad.tmj",
         "TestmapMesse.tmj",
         "Messehalle.tmj",
         "map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
         "castle.tmj",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
-        "Testmap 360° Messe.tmj",
-        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/map.tmj"
+        "Testmap 360° Messe.tmj"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
