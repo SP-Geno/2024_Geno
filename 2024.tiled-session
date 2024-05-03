@@ -883,10 +883,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 13,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 2832,
-                "y": 1343.3333333333335
+                "x": 882.6666666666666,
+                "y": 346
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -932,6 +932,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_Doppelpfeil": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.entwickeln.tmj#custom_Information": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_Künstliche Intelligenz": {
