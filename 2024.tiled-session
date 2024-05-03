@@ -1248,10 +1248,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 13,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1025.5,
-                "y": 3113.5
+                "x": 959.5,
+                "y": 3112.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1279,6 +1279,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#WA_User_Interface": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#Zu den Messehallen 128x128": {
@@ -1309,6 +1312,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#custom_Check-in 5": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_Meeting sign": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#custom_Netzwerkgarten": {
