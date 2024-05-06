@@ -1057,11 +1057,11 @@
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.33,
+            "scale": 1,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 1293.939393939394,
-                "y": 943.9393939393941
+                "x": 512,
+                "y": 1111.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1421,10 +1421,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 4,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 3293.333333333333,
-                "y": 1598
+                "x": 349.3333333333333,
+                "y": 756.6666666666666
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
@@ -1596,10 +1596,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 13,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1443,
-                "y": 2330.5
+                "x": 552,
+                "y": 4036.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1627,7 +1627,7 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#WA_Special_Zones": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#WA_User_Interface": {
             "scaleInDock": 1
@@ -1666,7 +1666,7 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#custom_Netzwerkgarten": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#custom_QR Code 128x128": {
             "scaleInDock": 1
@@ -1711,13 +1711,13 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#office_Modern_Office_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#outdoor_11_Camping_32x32": {
             "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#outdoor_14_Swimming_Pool_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#outdoor_17_Garden_32x32": {
             "scaleInDock": 0.5
@@ -1971,7 +1971,7 @@
         "digitalmesse.360.grad.binden.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "castle.tmj",
         "office_tryout.tmj",

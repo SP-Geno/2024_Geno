@@ -1674,6 +1674,23 @@
                  "y":1312.33333333333
                 }, 
                 {
+                 "height":229.333333333333,
+                 "id":55,
+                 "name":"silentZone19",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":298.666666666667,
+                 "x":121.333333333333,
+                 "y":842.666666666667
+                }, 
+                {
                  "height":36.6666666666662,
                  "id":33,
                  "name":"to-digitalmesse.360.grad",
@@ -2258,7 +2275,7 @@
          "y":0
         }],
  "nextlayerid":44,
- "nextobjectid":55,
+ "nextobjectid":56,
  "orientation":"orthogonal",
  "properties":[
         {
