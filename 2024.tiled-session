@@ -1240,16 +1240,18 @@
         },
         "digitalmesse.360.grad.gestalten.tmj": {
             "expandedGroupLayers": [
-                8
+                11,
+                8,
+                9
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 17,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 716,
-                "y": 894
+                "x": 2038.6666666666665,
+                "y": 964.6666666666666
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1421,10 +1423,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 17,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 347.9999999999999,
-                "y": 755.3333333333333
+                "x": 2710.6666666666665,
+                "y": 751.3333333333333
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
@@ -1973,9 +1975,9 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "digitalmesse.360.grad.gewinnen.tmj",
         "digitalmesse.360.grad.tmj",
         "digitalmesse.360.grad.gestalten.tmj",
-        "digitalmesse.360.grad.gewinnen.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.binden.tmj",
         "castle.tmj",
@@ -1986,7 +1988,7 @@
         "map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj"
     ],
-    "resizeMap.removeObjects": false,
+    "resizeMap.removeObjects": true,
     "textEdit.monospace": true,
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Alle Dateien (*)",
