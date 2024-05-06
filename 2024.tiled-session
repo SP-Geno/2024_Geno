@@ -884,8 +884,8 @@
             "scale": 0.75,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 838.6666666666666,
-                "y": 1062
+                "x": 837.3333333333333,
+                "y": 1060.6666666666665
             }
         },
         "digitalmesse.360.grad.binden.tmj#Interface_UI_32x32": {
@@ -1060,8 +1060,8 @@
             "scale": 0.33,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 1768.1818181818185,
-                "y": 1328.7878787878788
+                "x": 1293.939393939394,
+                "y": 1325.7575757575758
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1238,6 +1238,343 @@
         "digitalmesse.360.grad.entwickeln.tmj#walls_Room_Builder_borders_32x32": {
             "scaleInDock": 1
         },
+        "digitalmesse.360.grad.gestalten.tmj": {
+            "expandedObjectLayers": [
+                7
+            ],
+            "scale": 0.1920462570621469,
+            "selectedLayer": 17,
+            "viewCenter": {
+                "x": 187.4548379682833,
+                "y": 908.6352562629281
+            }
+        },
+        "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#Interface_UI_thinking_emotes_animation_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#carpets": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_360° DigitalMesse (384 x 384 px)": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_Doppelpfeil": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_Information": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_Lautstärke": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_Region zahlen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_Regionen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_Trennungszeichen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_Trennungszeichen (128 x 128 px)": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_Trennungszeichen quer": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_Trennungszeichen quer 64": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_Wörter (192 x 640 px)": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_footstep": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_geno logo": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_pfeile mittig": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#door_animated_door_glass_double_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#door_animated_door_glass_right_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#floor_Room_Builder_Floor_Paths_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#floor_Room_Builder_Floors_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_12_Kitchen_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_14_Basement_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_18_Jail_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_19_Hospital_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_1_Generic_Shadowless32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_5_Classroom_and_library_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_6_Music_and_sport_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_8_Gym_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#roomnamePflichtunterweisung": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#roomname_Account Management": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#roomname_Künstliche Intelligenz": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#roomname_New Leadership": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#roomname_Private Banking": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#roomname_Seiteneinsteiger": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#roomname_Skill Based Learning": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#roomname_Wertermittlungspass": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#walls_Room_Builder_3d_walls_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#walls_Room_Builder_Walls_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#walls_Room_Builder_borders_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj": {
+            "scale": 0.1920462570621469,
+            "selectedLayer": 17,
+            "viewCenter": {
+                "x": 192.66191680073553,
+                "y": 908.6352562629281
+            }
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_thinking_emotes_animation_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#carpets": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_360° DigitalMesse (384 x 384 px)": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Doppelpfeil": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Information": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Lautstärke": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Region zahlen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Regionen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Trennungszeichen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Trennungszeichen (128 x 128 px)": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Trennungszeichen quer": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Trennungszeichen quer 64": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Wörter (192 x 640 px)": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_footstep": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_geno logo": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_pfeile mittig": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#door_animated_door_glass_double_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#door_animated_door_glass_right_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#floor_Room_Builder_Floor_Paths_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#floor_Room_Builder_Floors_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_12_Kitchen_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_14_Basement_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_18_Jail_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_19_Hospital_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_1_Generic_Shadowless32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_5_Classroom_and_library_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_6_Music_and_sport_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_8_Gym_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#roomnamePflichtunterweisung": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#roomname_Account Management": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#roomname_Künstliche Intelligenz": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#roomname_New Leadership": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#roomname_Private Banking": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#roomname_Seiteneinsteiger": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#roomname_Skill Based Learning": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#roomname_Wertermittlungspass": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#walls_Room_Builder_3d_walls_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#walls_Room_Builder_Walls_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#walls_Room_Builder_borders_32x32": {
+            "scaleInDock": 1
+        },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
                 10,
@@ -1250,8 +1587,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1308,
-                "y": 1327.5
+                "x": 969,
+                "y": 1451.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1623,7 +1960,7 @@
         "digitalmesse.360.grad.binden.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "castle.tmj",
         "office_tryout.tmj",
