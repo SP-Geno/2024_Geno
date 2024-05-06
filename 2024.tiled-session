@@ -884,8 +884,8 @@
             "scale": 0.75,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 837.3333333333333,
-                "y": 1060.6666666666665
+                "x": 2781.333333333333,
+                "y": 1730
             }
         },
         "digitalmesse.360.grad.binden.tmj#Interface_UI_32x32": {
@@ -1061,7 +1061,7 @@
             "selectedLayer": 17,
             "viewCenter": {
                 "x": 1293.939393939394,
-                "y": 1325.7575757575758
+                "y": 943.9393939393941
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1239,14 +1239,17 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gestalten.tmj": {
+            "expandedGroupLayers": [
+                8
+            ],
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.1920462570621469,
-            "selectedLayer": 17,
+            "scale": 0.75,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 187.4548379682833,
-                "y": 908.6352562629281
+                "x": 3386.6666666666665,
+                "y": 1564.6666666666665
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1409,11 +1412,19 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gewinnen.tmj": {
-            "scale": 0.1920462570621469,
-            "selectedLayer": 17,
+            "expandedGroupLayers": [
+                11,
+                8,
+                9
+            ],
+            "expandedObjectLayers": [
+                7
+            ],
+            "scale": 0.75,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 192.66191680073553,
-                "y": 908.6352562629281
+                "x": 3293.333333333333,
+                "y": 1598
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
@@ -1587,8 +1598,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 969,
-                "y": 1451.5
+                "x": 1444,
+                "y": 1575.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
