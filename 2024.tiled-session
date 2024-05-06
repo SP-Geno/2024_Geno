@@ -658,14 +658,14 @@
                 89
             ],
             "expandedObjectLayers": [
-                2,
-                91
+                91,
+                2
             ],
             "scale": 1,
             "selectedLayer": 44,
             "viewCenter": {
-                "x": 1903.5,
-                "y": 1119.5
+                "x": 1902,
+                "y": 1118.5
             }
         },
         "Webinar.json#12_Kitchen_32x32": {
@@ -738,8 +738,8 @@
             "scale": 1,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 477,
-                "y": 189.5
+                "x": 482,
+                "y": 356.5
             }
         },
         "castle.tmj#Castle2": {
@@ -874,9 +874,9 @@
         },
         "digitalmesse.360.grad.binden.tmj": {
             "expandedGroupLayers": [
+                11,
                 8,
-                9,
-                11
+                9
             ],
             "expandedObjectLayers": [
                 7
@@ -884,8 +884,8 @@
             "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 3502,
-                "y": 1766
+                "x": 3289.333333333333,
+                "y": 420.66666666666663
             }
         },
         "digitalmesse.360.grad.binden.tmj#Interface_UI_32x32": {
@@ -1049,10 +1049,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
+                11,
                 8,
                 9,
-                20,
-                11
+                20
             ],
             "expandedObjectLayers": [
                 7
@@ -1061,7 +1061,7 @@
             "selectedLayer": 17,
             "viewCenter": {
                 "x": 1768.1818181818185,
-                "y": 1331.8181818181818
+                "y": 1328.7878787878788
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1240,18 +1240,18 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                14,
+                10,
                 26,
-                10
+                14
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 958.5,
-                "y": 3111.5
+                "x": 1308,
+                "y": 1327.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1524,8 +1524,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 640,
-                "y": 511.5
+                "x": 638,
+                "y": 509.5
             }
         },
         "office_tryout.tmj#WA_Decoration": {
@@ -1623,10 +1623,11 @@
         "digitalmesse.360.grad.binden.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
-        "Webinar.json",
+        "castle.tmj",
         "office_tryout.tmj",
+        "Webinar.json",
         "digitalmesse.360.grad.binden.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.tmj",
@@ -1634,7 +1635,6 @@
         "Messehalle.tmj",
         "map.tmj",
         "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
-        "castle.tmj",
         "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
         "Testmap 360° Messe.tmj"
     ],
