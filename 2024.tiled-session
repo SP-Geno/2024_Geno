@@ -884,8 +884,8 @@
             "scale": 0.75,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 339.9999999999999,
-                "y": 1055.3333333333335
+                "x": 337.3333333333333,
+                "y": 1052.6666666666665
             }
         },
         "digitalmesse.360.grad.binden.tmj#Interface_UI_32x32": {
@@ -1060,8 +1060,8 @@
             "scale": 1,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 512,
-                "y": 1111.5
+                "x": 510,
+                "y": 1109.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1248,8 +1248,8 @@
             "scale": 0.75,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 2768,
-                "y": 1567.3333333333335
+                "x": 716,
+                "y": 894
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1423,8 +1423,8 @@
             "scale": 0.75,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 349.3333333333333,
-                "y": 756.6666666666666
+                "x": 347.9999999999999,
+                "y": 755.3333333333333
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
@@ -1598,8 +1598,8 @@
             "scale": 1,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 3872,
-                "y": 3354.5
+                "x": 2543.5,
+                "y": 2191.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
