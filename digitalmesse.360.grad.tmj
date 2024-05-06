@@ -2120,6 +2120,23 @@
                  "width":157,
                  "x":595,
                  "y":1589
+                }, 
+                {
+                 "height":97,
+                 "id":62,
+                 "name":"tutorial",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/ims-files-cdn.net\/27675\/360Messe\/MessehalleEntwickeln\/Standortplan_Entwickeln.pdf"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1002,
+                 "x":665,
+                 "y":3360
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3460,7 +3477,7 @@
          "y":0
         }],
  "nextlayerid":42,
- "nextobjectid":62,
+ "nextobjectid":64,
  "orientation":"orthogonal",
  "properties":[
         {
