@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "digitalmesse.360.grad.tmj",
+    "activeFile": "digitalmesse.360.grad.binden.tmj",
     "expandedProjectPaths": [
+        "tilesets/Custom",
         "tilesets",
-        ".",
-        "tilesets/Custom"
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1596,10 +1596,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 552,
-                "y": 4036.5
+                "x": 3872,
+                "y": 3354.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1964,27 +1964,27 @@
     "map.lastUsedFormat": "json",
     "map.width": 92,
     "openFiles": [
-        "Webinar.json",
-        "office_tryout.tmj",
         "digitalmesse.360.grad.tmj",
-        "digitalmesse.360.grad.entwickeln.tmj",
-        "digitalmesse.360.grad.binden.tmj"
+        "digitalmesse.360.grad.gestalten.tmj",
+        "digitalmesse.360.grad.gewinnen.tmj",
+        "digitalmesse.360.grad.binden.tmj",
+        "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "digitalmesse.360.grad.tmj",
+        "digitalmesse.360.grad.gestalten.tmj",
+        "digitalmesse.360.grad.gewinnen.tmj",
+        "digitalmesse.360.grad.entwickeln.tmj",
+        "digitalmesse.360.grad.binden.tmj",
         "castle.tmj",
         "office_tryout.tmj",
         "Webinar.json",
-        "digitalmesse.360.grad.binden.tmj",
-        "digitalmesse.360.grad.entwickeln.tmj",
-        "digitalmesse.360.grad.tmj",
         "TestmapMesse.tmj",
         "Messehalle.tmj",
         "map.tmj",
-        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj",
-        "tilesets/Custom/360° DigitalMesse (384 x 384 px).tsx",
-        "Testmap 360° Messe.tmj"
+        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj"
     ],
     "resizeMap.removeObjects": false,
     "textEdit.monospace": true,
