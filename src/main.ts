@@ -21,6 +21,6 @@ WA.onInit().then(() => {
 }).catch(e => console.error(e));
 
 
-	WA.controls.disableRightClick();
+	 WA.controls.disablePlayerControls();
 
 export {};
