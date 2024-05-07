@@ -1426,6 +1426,23 @@
                  "y":799
                 }, 
                 {
+                 "height":330.666666666667,
+                 "id":57,
+                 "name":"silentZone10",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":582.666666666667,
+                 "x":1690.66666666667,
+                 "y":693.333333333333
+                }, 
+                {
                  "height":233.333333333333,
                  "id":55,
                  "name":"silentZone19",
@@ -1860,7 +1877,7 @@
          "y":0
         }],
  "nextlayerid":46,
- "nextobjectid":57,
+ "nextobjectid":58,
  "orientation":"orthogonal",
  "properties":[
         {
