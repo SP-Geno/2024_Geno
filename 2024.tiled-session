@@ -5,9 +5,9 @@
     },
     "activeFile": "digitalmesse.360.grad.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
         "tilesets",
-        "."
+        ".",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1603,8 +1603,8 @@
             "scale": 1,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 291,
-                "y": 3884.5
+                "x": 290,
+                "y": 3883.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
