@@ -1250,8 +1250,8 @@
             "scale": 0.75,
             "selectedLayer": 16,
             "viewCenter": {
-                "x": 608,
-                "y": 992.6666666666666
+                "x": 1980,
+                "y": 856.6666666666666
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1976,7 +1976,7 @@
         "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "digitalmesse.360.grad.tmj",
         "digitalmesse.360.grad.gestalten.tmj",
