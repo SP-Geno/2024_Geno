@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "digitalmesse.360.grad.tmj",
+    "activeFile": "digitalmesse.360.grad.entwickeln.tmj",
     "expandedProjectPaths": [
-        "tilesets",
         ".",
-        "tilesets/Custom"
+        "tilesets/Custom",
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -874,8 +874,8 @@
         },
         "digitalmesse.360.grad.binden.tmj": {
             "expandedGroupLayers": [
-                11,
                 8,
+                11,
                 9
             ],
             "expandedObjectLayers": [
@@ -884,8 +884,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 335.9999999999999,
-                "y": 1050
+                "x": 5128,
+                "y": 707.3333333333333
             }
         },
         "digitalmesse.360.grad.binden.tmj#Interface_UI_32x32": {
@@ -1049,10 +1049,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                11,
                 8,
-                9,
-                20
+                11,
+                20,
+                9
             ],
             "expandedObjectLayers": [
                 7
@@ -1060,8 +1060,8 @@
             "scale": 1,
             "selectedLayer": 19,
             "viewCenter": {
-                "x": 509,
-                "y": 1108.5
+                "x": 506,
+                "y": 1105.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1240,18 +1240,18 @@
         },
         "digitalmesse.360.grad.gestalten.tmj": {
             "expandedGroupLayers": [
-                11,
                 8,
+                11,
                 9
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 4,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 912,
-                "y": 1296.6666666666665
+                "x": 1985.3333333333333,
+                "y": 994
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1327,6 +1327,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gestalten.tmj#custom_geno logo": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gestalten.tmj#custom_modernes": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gestalten.tmj#custom_pfeile mittig": {
@@ -1415,18 +1418,18 @@
         },
         "digitalmesse.360.grad.gewinnen.tmj": {
             "expandedGroupLayers": [
-                11,
                 8,
+                11,
                 9
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": -1,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 2709.333333333333,
-                "y": 750
+                "x": 4181.333333333333,
+                "y": 1568.6666666666665
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
@@ -1600,8 +1603,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 811,
-                "y": 3351.5
+                "x": 525,
+                "y": 3350.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1973,13 +1976,13 @@
         "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
-        "digitalmesse.360.grad.entwickeln.tmj",
-        "digitalmesse.360.grad.binden.tmj",
-        "digitalmesse.360.grad.gewinnen.tmj",
-        "digitalmesse.360.grad.gestalten.tmj",
         "digitalmesse.360.grad.tmj",
+        "digitalmesse.360.grad.gestalten.tmj",
+        "digitalmesse.360.grad.gewinnen.tmj",
+        "digitalmesse.360.grad.binden.tmj",
+        "digitalmesse.360.grad.entwickeln.tmj",
         "castle.tmj",
         "office_tryout.tmj",
         "Webinar.json",
