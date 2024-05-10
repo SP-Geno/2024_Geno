@@ -3,16 +3,16 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "digitalmesse.360.grad.tmj",
+    "activeFile": "digitalmesse.360.grad.gewinnen.tmj",
     "expandedProjectPaths": [
-        "tilesets",
+        "tilesets/Custom",
         ".",
-        "tilesets/Custom"
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "#Castle2": {
@@ -874,19 +874,23 @@
         },
         "digitalmesse.360.grad.binden.tmj": {
             "expandedGroupLayers": [
-                9,
+                11,
                 8,
-                11
+                9
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 2832,
-                "y": 1343.3333333333335
+                "x": 2282.6666666666665,
+                "y": 1046
             }
+        },
+        "digitalmesse.360.grad.binden.tmj#17_Garden_32x32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "digitalmesse.360.grad.binden.tmj#Interface_UI_32x32": {
             "scaleInDock": 1
@@ -955,6 +959,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.binden.tmj#custom_Wörter (192 x 640 px)": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.binden.tmj#custom_bindung durch einbindung": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.binden.tmj#custom_footstep": {
@@ -1049,10 +1056,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
+                11,
                 20,
-                9,
                 8,
-                11
+                9
             ],
             "expandedObjectLayers": [
                 7
@@ -1060,8 +1067,8 @@
             "scale": 1,
             "selectedLayer": 19,
             "viewCenter": {
-                "x": 4003,
-                "y": 1341.5
+                "x": 2831,
+                "y": 1342.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1240,9 +1247,9 @@
         },
         "digitalmesse.360.grad.gestalten.tmj": {
             "expandedGroupLayers": [
-                9,
+                11,
                 8,
-                11
+                9
             ],
             "expandedObjectLayers": [
                 7
@@ -1250,8 +1257,8 @@
             "scale": 0.75,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1725.3333333333335,
-                "y": 736.6666666666666
+                "x": 1716,
+                "y": 1006
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1421,18 +1428,18 @@
         },
         "digitalmesse.360.grad.gewinnen.tmj": {
             "expandedGroupLayers": [
-                9,
+                11,
                 8,
-                11
+                9
             ],
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.75,
-            "selectedLayer": 11,
+            "scale": 1,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2854.6666666666665,
-                "y": 1058
+                "x": 1966,
+                "y": 533.5
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
@@ -1474,10 +1481,16 @@
         "digitalmesse.360.grad.gewinnen.tmj#custom_360° DigitalMesse (384 x 384 px)": {
             "scaleInDock": 1
         },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_Awado": {
+            "scaleInDock": 1
+        },
         "digitalmesse.360.grad.gewinnen.tmj#custom_Doppelpfeil": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gewinnen.tmj#custom_Doppelpfeil nordsüd ": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_GPC": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gewinnen.tmj#custom_Information": {
@@ -1507,10 +1520,19 @@
         "digitalmesse.360.grad.gewinnen.tmj#custom_Wörter (192 x 640 px)": {
             "scaleInDock": 1
         },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_candidate journey": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_corperate Influence": {
+            "scaleInDock": 1
+        },
         "digitalmesse.360.grad.gewinnen.tmj#custom_footstep": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gewinnen.tmj#custom_geno logo": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_management recruiting": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gewinnen.tmj#custom_pfeile mittig": {
@@ -1599,9 +1621,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                10,
                 26,
-                14
+                14,
+                10
             ],
             "expandedObjectLayers": [
                 2
@@ -1609,8 +1631,8 @@
             "scale": 1,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 288,
-                "y": 3881.5
+                "x": 2543.5,
+                "y": 2191.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1970,7 +1992,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Exterior/Garten",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
@@ -1984,11 +2006,11 @@
     "project": "2024.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "digitalmesse.360.grad.tmj",
+        "digitalmesse.360.grad.gestalten.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.binden.tmj",
         "digitalmesse.360.grad.gewinnen.tmj",
-        "digitalmesse.360.grad.gestalten.tmj",
-        "digitalmesse.360.grad.tmj",
         "castle.tmj",
         "office_tryout.tmj",
         "Webinar.json",
