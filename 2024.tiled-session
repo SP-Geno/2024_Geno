@@ -884,8 +884,8 @@
             "scale": 0.75,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 2076,
-                "y": 707.3333333333333
+                "x": 2074.6666666666665,
+                "y": 538
             }
         },
         "digitalmesse.360.grad.binden.tmj#17_Garden_32x32": {
@@ -1257,8 +1257,8 @@
             "scale": 0.75,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1714.6666666666665,
-                "y": 1004.6666666666666
+                "x": 1713.3333333333335,
+                "y": 1171.3333333333335
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1438,8 +1438,8 @@
             "scale": 1,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 1963,
-                "y": 1286.5
+                "x": 2918,
+                "y": 655.5
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
