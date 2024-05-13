@@ -1986,7 +1986,7 @@
                  "y":3069
                 }, 
                 {
-                 "height":113.333333333333,
+                 "height":72.333333333333,
                  "id":48,
                  "name":"to-digitalmesse.360.grad.entwickeln",
                  "properties":[
@@ -2003,7 +2003,7 @@
                  "y":1146.66666666667
                 }, 
                 {
-                 "height":106,
+                 "height":63,
                  "id":57,
                  "name":"to-digitalmesse.360.grad.binden",
                  "properties":[
@@ -2020,7 +2020,7 @@
                  "y":1152
                 }, 
                 {
-                 "height":98,
+                 "height":64,
                  "id":59,
                  "name":"to-digitalmesse.360.grad.gewinnen",
                  "properties":[
@@ -2037,7 +2037,7 @@
                  "y":1153
                 }, 
                 {
-                 "height":102,
+                 "height":70,
                  "id":60,
                  "name":"to-digitalmesse.360.grad.gestalten",
                  "properties":[
