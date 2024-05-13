@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "digitalmesse.360.grad.gewinnen.tmj",
+    "activeFile": "digitalmesse.360.grad.binden.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
         ".",
-        "tilesets"
+        "tilesets",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -882,10 +882,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 8,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 2294.6666666666665,
-                "y": 1208.6666666666665
+                "x": 1110.6666666666665,
+                "y": 1299.3333333333335
             }
         },
         "digitalmesse.360.grad.binden.tmj#17_Garden_32x32": {
@@ -1059,8 +1059,8 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                11,
                 20,
+                11,
                 8,
                 9
             ],
@@ -1070,8 +1070,8 @@
             "scale": 1,
             "selectedLayer": 19,
             "viewCenter": {
-                "x": 2830,
-                "y": 1341.5
+                "x": 2832,
+                "y": 1343.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1258,10 +1258,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 7,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1712,
-                "y": 1170
+                "x": 1972,
+                "y": 1192.6666666666665
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1439,10 +1439,10 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 2532,
-                "y": 653.5
+                "x": 719,
+                "y": 2197.5
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
@@ -1625,8 +1625,8 @@
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
                 26,
-                14,
-                10
+                10,
+                14
             ],
             "expandedObjectLayers": [
                 2
@@ -1634,8 +1634,8 @@
             "scale": 1,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 2542,
-                "y": 2190.5
+                "x": 2541,
+                "y": 2189.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -2007,13 +2007,13 @@
         "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "digitalmesse.360.grad.tmj",
         "digitalmesse.360.grad.gestalten.tmj",
+        "digitalmesse.360.grad.gewinnen.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.binden.tmj",
-        "digitalmesse.360.grad.gewinnen.tmj",
         "castle.tmj",
         "office_tryout.tmj",
         "Webinar.json",

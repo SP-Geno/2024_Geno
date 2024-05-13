@@ -1445,7 +1445,7 @@
                 {
                  "height":233.333333333333,
                  "id":55,
-                 "name":"silentZone19",
+                 "name":"silentZone11",
                  "properties":[
                         {
                          "name":"silent",
@@ -1458,6 +1458,28 @@
                  "width":313.333333333333,
                  "x":113.333333333333,
                  "y":836
+                }, 
+                {
+                 "height":606.666666666667,
+                 "id":56,
+                 "name":"jitsiModernesPersonalBetriebsmodell",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"ModernesPersonalBetriebsmodell"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"ModernesPersonalBetriebsmodell"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":589.333333333333,
+                 "x":1681.33333333333,
+                 "y":1025.33333333333
                 }, 
                 {
                  "height":36.6666666666662,
@@ -1562,28 +1584,6 @@
                  "width":66.6666666666667,
                  "x":160,
                  "y":934.666666666667
-                }, 
-                {
-                 "height":606.666666666667,
-                 "id":56,
-                 "name":"jitsiModernesPersonalBetriebsmodell",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ModernesPersonalBetriebsmodell"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"ModernesPersonalBetriebsmodell"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":589.333333333333,
-                 "x":1681.33333333333,
-                 "y":1025.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
