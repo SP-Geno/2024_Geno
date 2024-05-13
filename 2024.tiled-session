@@ -884,7 +884,7 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 868,
+                "x": 866.6666666666666,
                 "y": 551.3333333333333
             }
         },
@@ -1068,10 +1068,10 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 5227,
-                "y": 832.5
+                "x": 2462,
+                "y": 1587.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1441,8 +1441,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 2354,
-                "y": 932.5
+                "x": 2353,
+                "y": 931.5
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
