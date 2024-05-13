@@ -882,10 +882,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 7,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 2484,
-                "y": 888.6666666666666
+                "x": 868,
+                "y": 551.3333333333333
             }
         },
         "digitalmesse.360.grad.binden.tmj#17_Garden_32x32": {
@@ -1258,10 +1258,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 17,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 1966.6666666666665,
-                "y": 180.66666666666663
+                "x": 1173.3333333333335,
+                "y": 1019.3333333333334
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1439,10 +1439,10 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 7,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 2355,
-                "y": 933.5
+                "x": 2354,
+                "y": 932.5
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
