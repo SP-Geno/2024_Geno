@@ -1995,10 +1995,32 @@
                  "width":66.6666666666667,
                  "x":160,
                  "y":934.666666666667
+                }, 
+                {
+                 "height":209,
+                 "id":56,
+                 "name":"bbb",
+                 "properties":[
+                        {
+                         "name":"bbbMeeting",
+                         "type":"string",
+                         "value":"fish 2"
+                        }, 
+                        {
+                         "name":"meetingName",
+                         "type":"string",
+                         "value":"fish 2"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":177,
+                 "x":465,
+                 "y":2061
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -2288,7 +2310,7 @@
          "y":0
         }],
  "nextlayerid":44,
- "nextobjectid":56,
+ "nextobjectid":57,
  "orientation":"orthogonal",
  "properties":[
         {

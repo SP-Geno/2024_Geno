@@ -1634,8 +1634,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1165,
-                "y": 3407.5
+                "x": 1164,
+                "y": 3406.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -2007,7 +2007,7 @@
         "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "digitalmesse.360.grad.tmj",
         "digitalmesse.360.grad.gestalten.tmj",
