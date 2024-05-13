@@ -2004,12 +2004,12 @@
                         {
                          "name":"bbbMeeting",
                          "type":"string",
-                         "value":"fish 2"
+                         "value":"03959dc0-51a1-431c-934e-675c3e1f7833"
                         }, 
                         {
                          "name":"meetingName",
                          "type":"string",
-                         "value":"fish 2"
+                         "value":"03959dc0-51a1-431c-934e-675c3e1f7833"
                         }],
                  "rotation":0,
                  "type":"area",
