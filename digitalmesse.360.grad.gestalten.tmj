@@ -1460,28 +1460,6 @@
                  "y":836
                 }, 
                 {
-                 "height":606.666666666667,
-                 "id":56,
-                 "name":"jitsiModernesPersonalBetriebsmodell",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ModernesPersonalBetriebsmodell"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"ModernesPersonalBetriebsmodell"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":589.333333333333,
-                 "x":1681.33333333333,
-                 "y":1025.33333333333
-                }, 
-                {
                  "height":36.6666666666662,
                  "id":33,
                  "name":"to-digitalmesse.360.grad",
