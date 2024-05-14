@@ -2012,6 +2012,23 @@
                  "width":252,
                  "x":461,
                  "y":2060
+                }, 
+                {
+                 "height":401,
+                 "id":58,
+                 "name":"silent",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":236,
+                 "x":1402,
+                 "y":1966
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2305,7 +2322,7 @@
          "y":0
         }],
  "nextlayerid":44,
- "nextobjectid":58,
+ "nextobjectid":59,
  "orientation":"orthogonal",
  "properties":[
         {
