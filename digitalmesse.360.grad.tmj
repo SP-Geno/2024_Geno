@@ -1810,7 +1810,7 @@
                  "y":1301
                 }, 
                 {
-                 "height":1694,
+                 "height":1942,
                  "id":32,
                  "name":"silentZone",
                  "properties":[
@@ -1824,7 +1824,7 @@
                  "visible":true,
                  "width":1547,
                  "x":380,
-                 "y":1375
+                 "y":1127
                 }, 
                 {
                  "height":704.333333333333,
