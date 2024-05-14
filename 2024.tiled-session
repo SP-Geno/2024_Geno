@@ -2007,7 +2007,7 @@
         "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "digitalmesse.360.grad.tmj",
         "digitalmesse.360.grad.gestalten.tmj",

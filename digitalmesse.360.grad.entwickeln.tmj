@@ -2014,23 +2014,6 @@
                  "y":2060
                 }, 
                 {
-                 "height":401,
-                 "id":58,
-                 "name":"silent",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":236,
-                 "x":1402,
-                 "y":1966
-                }, 
-                {
                  "height":135,
                  "id":59,
                  "name":"kick",
@@ -2046,6 +2029,23 @@
                  "width":204,
                  "x":1048,
                  "y":2167
+                }, 
+                {
+                 "height":190,
+                 "id":60,
+                 "name":"silentzone21",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":259,
+                 "x":1031,
+                 "y":2139
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2339,7 +2339,7 @@
          "y":0
         }],
  "nextlayerid":44,
- "nextobjectid":60,
+ "nextobjectid":61,
  "orientation":"orthogonal",
  "properties":[
         {
