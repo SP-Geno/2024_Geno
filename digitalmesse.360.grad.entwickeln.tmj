@@ -1997,31 +1997,21 @@
                  "y":934.666666666667
                 }, 
                 {
-                 "height":209,
-                 "id":56,
-                 "name":"bbb",
+                 "height":255,
+                 "id":57,
+                 "name":"bigBlueButton",
                  "properties":[
                         {
                          "name":"bbbMeeting",
                          "type":"string",
-                         "value":"03959dc0-51a1-431c-934e-675c3e1f7833"
-                        }, 
-                        {
-                         "name":"meetingName",
-                         "type":"string",
-                         "value":"03959dc0-51a1-431c-934e-675c3e1f7833"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"fish2"
+                         "value":"8fc6a091-07f5-45b6-84ab-76cc7ab38b0c"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":177,
-                 "x":465,
-                 "y":2061
+                 "width":252,
+                 "x":461,
+                 "y":2060
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2315,7 +2305,7 @@
          "y":0
         }],
  "nextlayerid":44,
- "nextobjectid":57,
+ "nextobjectid":58,
  "orientation":"orthogonal",
  "properties":[
         {
