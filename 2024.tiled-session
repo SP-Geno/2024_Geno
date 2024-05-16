@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "digitalmesse.360.grad.entwickeln.tmj",
+    "activeFile": "digitalmesse.360.grad.tmj",
     "expandedProjectPaths": [
-        ".",
+        "tilesets/Custom",
         "tilesets",
-        "tilesets/Custom"
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1647,20 +1647,20 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 13,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 812,
-                "y": 2124.5
+                "x": 683,
+                "y": 1745.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
             "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#14_Basement_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#16_Grocery_store_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#1_Generic_Shadowless32x32": {
             "scaleInDock": 0.5
@@ -1739,6 +1739,9 @@
         },
         "digitalmesse.360.grad.tmj#custom_entwickeln": {
             "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.tmj#custom_experdoo": {
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#custom_footstep": {
             "scaleInDock": 1
@@ -2024,11 +2027,11 @@
     "project": "2024.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "digitalmesse.360.grad.tmj",
-        "digitalmesse.360.grad.gestalten.tmj",
-        "digitalmesse.360.grad.gewinnen.tmj",
-        "digitalmesse.360.grad.binden.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
+        "digitalmesse.360.grad.binden.tmj",
+        "digitalmesse.360.grad.gewinnen.tmj",
+        "digitalmesse.360.grad.gestalten.tmj",
+        "digitalmesse.360.grad.tmj",
         "castle.tmj",
         "office_tryout.tmj",
         "Webinar.json",
