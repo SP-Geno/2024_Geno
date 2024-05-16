@@ -1269,8 +1269,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1026.6666666666665,
-                "y": 1340.6666666666665
+                "x": 960,
+                "y": 1171.3333333333335
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1647,10 +1647,10 @@
                 2
             ],
             "scale": 1,
-            "selectedLayer": 13,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 2543.5,
-                "y": 2191.5
+                "x": 858,
+                "y": 1308.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {

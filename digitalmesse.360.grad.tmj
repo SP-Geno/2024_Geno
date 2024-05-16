@@ -1964,7 +1964,7 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":277,
+                 "width":52,
                  "x":394,
                  "y":3066
                 }, 
@@ -2120,6 +2120,33 @@
                  "width":157,
                  "x":595,
                  "y":1589
+                }, 
+                {
+                 "height":134,
+                 "id":64,
+                 "name":"infoSchalter 1",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Info Schalter 1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"support"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Info Schalter 1"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":223,
+                 "x":447,
+                 "y":3067
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3460,7 +3487,7 @@
          "y":0
         }],
  "nextlayerid":42,
- "nextobjectid":64,
+ "nextobjectid":65,
  "orientation":"orthogonal",
  "properties":[
         {
