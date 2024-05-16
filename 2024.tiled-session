@@ -885,7 +885,7 @@
             "selectedLayer": 8,
             "viewCenter": {
                 "x": 2096,
-                "y": 668.6666666666666
+                "y": 1004.6666666666666
             }
         },
         "digitalmesse.360.grad.binden.tmj#17_Garden_32x32": {
@@ -1267,10 +1267,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 16,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1280,
-                "y": 1343.3333333333335
+                "x": 1026.6666666666665,
+                "y": 1340.6666666666665
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
