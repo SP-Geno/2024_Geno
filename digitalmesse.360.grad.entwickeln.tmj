@@ -1995,57 +1995,6 @@
                  "width":66.6666666666667,
                  "x":160,
                  "y":934.666666666667
-                }, 
-                {
-                 "height":255,
-                 "id":57,
-                 "name":"bigBlueButton",
-                 "properties":[
-                        {
-                         "name":"bbbMeeting",
-                         "type":"string",
-                         "value":"8fc6a091-07f5-45b6-84ab-76cc7ab38b0c"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":252,
-                 "x":461,
-                 "y":2060
-                }, 
-                {
-                 "height":135,
-                 "id":59,
-                 "name":"kick",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/gakbbb003.reflact.info\/apps\/sidekick-app\/#\/gak_64ba29f8bf9e321007514197?roomname=Pullems%20Lounge"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":204,
-                 "x":1048,
-                 "y":2167
-                }, 
-                {
-                 "height":190,
-                 "id":60,
-                 "name":"silentzone21",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":259,
-                 "x":1031,
-                 "y":2139
                 }],
          "opacity":1,
          "type":"objectgroup",
