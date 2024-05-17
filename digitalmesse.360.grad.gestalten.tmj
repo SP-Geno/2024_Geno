@@ -1426,7 +1426,7 @@
                  "y":799
                 }, 
                 {
-                 "height":941.333333333334,
+                 "height":669.333333333334,
                  "id":57,
                  "name":"silentZone10",
                  "properties":[
@@ -1438,9 +1438,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":598.666666666667,
-                 "x":1674.66666666667,
-                 "y":693.333333333333
+                 "width":408,
+                 "x":1654.66666666667,
+                 "y":1033.33333333333
                 }, 
                 {
                  "height":233.333333333333,
@@ -1562,10 +1562,49 @@
                  "width":66.6666666666667,
                  "x":160,
                  "y":934.666666666667
+                }, 
+                {
+                 "height":154.666666666667,
+                 "id":58,
+                 "name":"silentZone12",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1060,
+                 "x":1632,
+                 "y":873.333333333333
+                }, 
+                {
+                 "height":665.333333333333,
+                 "id":59,
+                 "name":"jitsi Modernes Personalbetriebsmodell",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Modernes Personalbetriebsmodell"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Modernes Personalbetriebsmodell"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":646.666666666667,
+                 "x":2058.66666666667,
+                 "y":1033.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1855,7 +1894,7 @@
          "y":0
         }],
  "nextlayerid":46,
- "nextobjectid":58,
+ "nextobjectid":60,
  "orientation":"orthogonal",
  "properties":[
         {
