@@ -882,7 +882,7 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 1574,
                 "y": 804.6666666666666
@@ -1079,8 +1079,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1272.5,
-                "y": 715.5
+                "x": 1270.5,
+                "y": 713.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1166,6 +1166,9 @@
             "scaleInDock": 0.75
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_geno logo": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.entwickeln.tmj#custom_kontakt feedback": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_pfeile mittig": {
@@ -1451,7 +1454,7 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 14,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 977.9999999999999,
                 "y": 643.3333333333333
