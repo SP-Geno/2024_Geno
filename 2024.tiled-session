@@ -882,7 +882,7 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 1574,
                 "y": 804.6666666666666
@@ -926,6 +926,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.binden.tmj#carpets": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.binden.tmj#custom:kontakt feedback": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.binden.tmj#custom_360° DigitalMesse (384 x 384 px)": {
@@ -1357,6 +1360,9 @@
         "digitalmesse.360.grad.gestalten.tmj#custom_geno logo": {
             "scaleInDock": 1
         },
+        "digitalmesse.360.grad.gestalten.tmj#custom_kontakt feedback": {
+            "scaleInDock": 1
+        },
         "digitalmesse.360.grad.gestalten.tmj#custom_modernes": {
             "scaleInDock": 1
         },
@@ -1454,7 +1460,7 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 977.9999999999999,
                 "y": 643.3333333333333
@@ -1551,6 +1557,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gewinnen.tmj#custom_geno logo": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.gewinnen.tmj#custom_kontakt feedback": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gewinnen.tmj#custom_linkedIn": {
@@ -1655,8 +1664,8 @@
             "scale": 1,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 681,
-                "y": 1743.5
+                "x": 836.5,
+                "y": 1868.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
