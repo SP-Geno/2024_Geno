@@ -882,10 +882,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 1572.6666666666665,
-                "y": 1307.3333333333335
+                "x": 1361.3333333333335,
+                "y": 634
             }
         },
         "digitalmesse.360.grad.binden.tmj#17_Garden_32x32": {
@@ -935,6 +935,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.binden.tmj#custom_Doppelpfeil": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.binden.tmj#custom_Feedback Icon": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.binden.tmj#custom_GPC": {
@@ -1080,10 +1083,10 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 1269.5,
-                "y": 1468.5
+                "x": 1112,
+                "y": 711.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1129,6 +1132,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_Doppelpfeil": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.entwickeln.tmj#custom_Feedback Icon": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.entwickeln.tmj#custom_Information": {
@@ -1460,10 +1466,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 975.3333333333333,
-                "y": 976.6666666666666
+                "x": 765.3333333333333,
+                "y": 639.3333333333333
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
@@ -1650,6 +1656,164 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.gewinnen.tmj#walls_Room_Builder_borders_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj": {
+            "expandedGroupLayers": [
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 1135.5,
+                "y": 402.25
+            }
+        },
+        "digitalmesse.360.grad.keynote.tmj#Interface_UI_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#Interface_UI_thinking_emotes_animation_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#carpets": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_360° DigitalMesse (384 x 384 px)": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Doppelpfeil": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Doppelpfeil nordsüd ": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Feedback Icon": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Information": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Lautstärke": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Region zahlen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Regionen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Trennungszeichen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Trennungszeichen (128 x 128 px)": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Trennungszeichen quer": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Trennungszeichen quer 64": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_Wörter (192 x 640 px)": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_footstep": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_geno logo": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_keynote": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_kontakt feedback": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#custom_pfeile mittig": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#door_animated_door_glass_double_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#door_animated_door_glass_right_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#floor_Room_Builder_Floor_Paths_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#floor_Room_Builder_Floors_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_12_Kitchen_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_14_Basement_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_18_Jail_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_19_Hospital_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_1_Generic_Shadowless32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_5_Classroom_and_library_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_6_Music_and_sport_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_8_Gym_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#walls_Room_Builder_3d_walls_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#walls_Room_Builder_Walls_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.keynote.tmj#walls_Room_Builder_borders_32x32": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj": {
