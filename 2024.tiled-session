@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "digitalmesse.360.grad.tmj",
+    "activeFile": "digitalmesse.360.grad.gestalten.tmj",
     "expandedProjectPaths": [
         "tilesets/Custom",
         "tilesets",
@@ -1284,7 +1284,7 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1572.6666666666665,
+                "x": 1361.3333333333335,
                 "y": 483.3333333333333
             }
         },
@@ -1661,6 +1661,9 @@
         "digitalmesse.360.grad.keynote.tmj": {
             "expandedGroupLayers": [
                 9
+            ],
+            "expandedObjectLayers": [
+                7
             ],
             "scale": 2,
             "selectedLayer": 16,
@@ -2201,23 +2204,24 @@
         "digitalmesse.360.grad.gestalten.tmj",
         "digitalmesse.360.grad.gewinnen.tmj",
         "digitalmesse.360.grad.binden.tmj",
-        "digitalmesse.360.grad.entwickeln.tmj"
+        "digitalmesse.360.grad.entwickeln.tmj",
+        "digitalmesse.360.grad.keynote.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "digitalmesse.360.grad.tmj",
+        "digitalmesse.360.grad.keynote.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.binden.tmj",
         "digitalmesse.360.grad.gewinnen.tmj",
         "digitalmesse.360.grad.gestalten.tmj",
-        "digitalmesse.360.grad.tmj",
         "castle.tmj",
         "office_tryout.tmj",
         "Webinar.json",
         "TestmapMesse.tmj",
         "Messehalle.tmj",
-        "map.tmj",
-        "C:/Users/GenoAkademie/Documents/GitHub/2023_Geno/conference.tmj"
+        "map.tmj"
     ],
     "resizeMap.removeObjects": true,
     "textEdit.monospace": true,
