@@ -874,9 +874,9 @@
         },
         "digitalmesse.360.grad.binden.tmj": {
             "expandedGroupLayers": [
-                11,
                 9,
-                8
+                8,
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -884,8 +884,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1574,
-                "y": 804.6666666666666
+                "x": 1572.6666666666665,
+                "y": 1307.3333333333335
             }
         },
         "digitalmesse.360.grad.binden.tmj#17_Garden_32x32": {
@@ -1072,9 +1072,9 @@
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
                 20,
-                11,
                 9,
-                8
+                8,
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -1082,8 +1082,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1270.5,
-                "y": 713.5
+                "x": 1269.5,
+                "y": 1468.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -1268,9 +1268,9 @@
         },
         "digitalmesse.360.grad.gestalten.tmj": {
             "expandedGroupLayers": [
-                11,
                 9,
-                8
+                8,
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -1278,8 +1278,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 831.3333333333333,
-                "y": 655.3333333333333
+                "x": 1575.3333333333333,
+                "y": 1156.6666666666665
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1452,9 +1452,9 @@
         },
         "digitalmesse.360.grad.gewinnen.tmj": {
             "expandedGroupLayers": [
-                11,
                 9,
-                8
+                8,
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -1462,8 +1462,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 977.9999999999999,
-                "y": 643.3333333333333
+                "x": 975.3333333333333,
+                "y": 976.6666666666666
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
@@ -1655,8 +1655,8 @@
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
                 14,
-                10,
-                26
+                26,
+                10
             ],
             "expandedObjectLayers": [
                 2
@@ -1664,8 +1664,8 @@
             "scale": 1,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 836.5,
-                "y": 1868.5
+                "x": 664.5,
+                "y": 1362.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
