@@ -882,10 +882,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 2924,
-                "y": 795.3333333333333
+                "x": 2020,
+                "y": 962
             }
         },
         "digitalmesse.360.grad.binden.tmj#17_Garden_32x32": {
@@ -926,6 +926,9 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.binden.tmj#carpets": {
+            "scaleInDock": 1
+        },
+        "digitalmesse.360.grad.binden.tmj#custom-genoverband": {
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.binden.tmj#custom:kontakt feedback": {
@@ -1082,11 +1085,11 @@
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 1,
+            "scale": 0.25,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 3974,
-                "y": 580.5
+                "x": 2564,
+                "y": 1322
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
