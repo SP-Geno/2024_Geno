@@ -1469,10 +1469,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 3113.333333333333,
-                "y": 556.6666666666666
+                "x": 3112,
+                "y": 1732.6666666666665
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
