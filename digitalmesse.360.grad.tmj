@@ -1530,7 +1530,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":75,
+                 "height":87,
                  "id":25,
                  "name":"doorstep1",
                  "properties":[
@@ -1562,7 +1562,7 @@
                  "y":1318
                 }, 
                 {
-                 "height":77,
+                 "height":92,
                  "id":26,
                  "name":"doorstep2",
                  "properties":[
@@ -1594,7 +1594,7 @@
                  "y":1313
                 }, 
                 {
-                 "height":77,
+                 "height":91,
                  "id":27,
                  "name":"doorstep3",
                  "properties":[
@@ -1626,7 +1626,7 @@
                  "y":1312
                 }, 
                 {
-                 "height":75,
+                 "height":91,
                  "id":28,
                  "name":"doorstep4",
                  "properties":[
@@ -1658,7 +1658,7 @@
                  "y":1315
                 }, 
                 {
-                 "height":72,
+                 "height":89,
                  "id":67,
                  "name":"doorstep5",
                  "properties":[
