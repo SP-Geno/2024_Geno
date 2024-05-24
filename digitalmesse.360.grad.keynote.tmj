@@ -1588,23 +1588,23 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Key Note"
+                         "value":"Integrierte Strategieentwicklung"
                         }, 
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Key Note"
+                         "value":"Integrierte Strategieentwicklung"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":646.666666666667,
-                 "x":2058.66666666667,
+                 "width":639.666666666667,
+                 "x":2065.66666666667,
                  "y":1033.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 

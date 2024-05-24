@@ -881,11 +881,11 @@
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 2,
-            "selectedLayer": 16,
+            "scale": 1,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1883.5,
-                "y": 1246.25
+                "x": 2815,
+                "y": 947.5
             }
         },
         "digitalmesse.360.grad.binden.tmj#17_Garden_32x32": {
@@ -1285,10 +1285,10 @@
                 7
             ],
             "scale": 3,
-            "selectedLayer": 7,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1932,
-                "y": 1019.4999999999999
+                "x": 2381.6666666666665,
+                "y": 1365.5
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -1472,10 +1472,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 17,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 2548,
-                "y": 468.66666666666663
+                "x": 3222.6666666666665,
+                "y": 480.66666666666663
             }
         },
         "digitalmesse.360.grad.gewinnen.tmj#Interface_UI_32x32": {
@@ -1677,10 +1677,10 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1071,
-                "y": 527.5
+                "x": 269,
+                "y": 951.5
             }
         },
         "digitalmesse.360.grad.keynote.tmj#Interface_UI_32x32": {
@@ -1845,8 +1845,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1438,
-                "y": 1686.5
+                "x": 1899,
+                "y": 1357.5
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -1859,10 +1859,10 @@
             "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#1_Generic_Shadowless32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#22_Museum_Shadowless_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#26_Condominium_Shadowless_32x32": {
             "scaleInDock": 1

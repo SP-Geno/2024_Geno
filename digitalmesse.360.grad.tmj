@@ -1924,11 +1924,6 @@
                          "value":"Info Schalter 2"
                         }, 
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"support"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Info Schalter 2"
@@ -1949,11 +1944,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Info Schalter 3"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"support"
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -1978,11 +1968,6 @@
                          "value":"Info Schalter 4"
                         }, 
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"support"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Info Schalter 4"
@@ -2003,11 +1988,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Info Schalter 5"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"support"
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -2217,11 +2197,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Info Schalter 1"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"support"
                         }, 
                         {
                          "name":"meetingRoomLabel",
