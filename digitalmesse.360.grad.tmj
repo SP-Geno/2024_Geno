@@ -1915,6 +1915,28 @@
                 }, 
                 {
                  "height":134,
+                 "id":64,
+                 "name":"infoSchalter 1",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Info Schalter 1"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"Info Schalter 1"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":245,
+                 "x":447,
+                 "y":3067
+                }, 
+                {
+                 "height":134,
                  "id":34,
                  "name":"infoSchalter 2",
                  "properties":[
@@ -2187,28 +2209,6 @@
                  "width":157,
                  "x":563.5,
                  "y":1523.5
-                }, 
-                {
-                 "height":134,
-                 "id":64,
-                 "name":"infoSchalter 1",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"Info Schalter 1"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Info Schalter 1"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":245,
-                 "x":447,
-                 "y":3067
                 }, 
                 {
                  "height":64,
