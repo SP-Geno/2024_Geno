@@ -1640,11 +1640,6 @@
                          "value":"New Leadership"
                         }, 
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"New Leadership"
@@ -1665,11 +1660,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Skill Based Learning"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -1694,11 +1684,6 @@
                          "value":"Seiteneinsteiger"
                         }, 
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Seiteneinsteiger"
@@ -1719,11 +1704,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Pflichtunterweisung"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -1748,11 +1728,6 @@
                          "value":"K\u00fcnstliche Intelligenz"
                         }, 
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"K\u00fcnstliche Intelligenz"
@@ -1773,11 +1748,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Wertermittlungspass"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -1802,11 +1772,6 @@
                          "value":"Private Banking"
                         }, 
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Private Banking"
@@ -1827,11 +1792,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Region 1"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -1856,11 +1816,6 @@
                          "value":"Region 2"
                         }, 
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Region 2"
@@ -1883,11 +1838,6 @@
                          "value":"Region 3"
                         }, 
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Region 3"
@@ -1908,11 +1858,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Region 4"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
                         }, 
                         {
                          "name":"meetingRoomLabel",
