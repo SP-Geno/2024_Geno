@@ -1637,12 +1637,12 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"New Leadership"
+                         "value":"Personal und F\u00fchrung"
                         }, 
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"New Leadership"
+                         "value":"Personal und F\u00fchrung"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1747,12 +1747,12 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Wertermittlungspass"
+                         "value":"VR - WertermittlungsPass"
                         }, 
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Wertermittlungspass"
+                         "value":"VR - WertermittlungsPass"
                         }],
                  "rotation":0,
                  "type":"area",
