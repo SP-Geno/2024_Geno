@@ -5,9 +5,9 @@
     },
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
         ".",
-        "tilesets"
+        "tilesets",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -232,8 +232,8 @@
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1100,
-                "y": 1231
+                "x": 734,
+                "y": 1713
             }
         },
         "Mehrwertforum.tmj#Interface_UI_32x32": {
@@ -338,14 +338,17 @@
         "Mehrwertforum.tmj#floor_Room_Builder_Floors_32x32": {
             "scaleInDock": 1
         },
+        "Mehrwertforum.tmj#garten_17_Garden_32x32": {
+            "scaleInDock": 0.5
+        },
         "Mehrwertforum.tmj#möbel_12_Kitchen_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_14_Basement_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
             "scaleInDock": 0.5
@@ -357,13 +360,13 @@
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_1_Generic_Shadowless32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_5_Classroom_and_library_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_6_Music_and_sport_Shadowless_32x32": {
             "scaleInDock": 1
@@ -372,22 +375,22 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_assets": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_cobblestone_tiles_brown": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_tiles": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_wooden_fence": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_wooden_path_tiles": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#walls_Room_Builder_3d_walls_32x32": {
             "scaleInDock": 0.75
