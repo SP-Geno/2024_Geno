@@ -222,17 +222,18 @@
                 51,
                 9,
                 8,
+                57,
                 48,
                 11
             ],
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 1,
-            "selectedLayer": 8,
+            "scale": 0.5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 199,
-                "y": 1993.5
+                "x": 1100,
+                "y": 1231
             }
         },
         "Mehrwertforum.tmj#Interface_UI_32x32": {
@@ -269,7 +270,7 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#carpets": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#custom_360° DigitalMesse (384 x 384 px)": {
             "scaleInDock": 1
@@ -332,7 +333,7 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#floor_Room_Builder_Floor_Paths_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#floor_Room_Builder_Floors_32x32": {
             "scaleInDock": 1
@@ -347,19 +348,19 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_18_Jail_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_19_Hospital_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_1_Generic_Shadowless32x32": {
             "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_5_Classroom_and_library_Shadowless_32x32": {
             "scaleInDock": 1
@@ -373,8 +374,23 @@
         "Mehrwertforum.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
             "scaleInDock": 1
         },
-        "Mehrwertforum.tmj#walls_Room_Builder_3d_walls_32x32": {
+        "Mehrwertforum.tmj#summerplains_assets": {
+            "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#summerplains_cobblestone_tiles_brown": {
             "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#summerplains_tiles": {
+            "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#summerplains_wooden_fence": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#summerplains_wooden_path_tiles": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#walls_Room_Builder_3d_walls_32x32": {
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#walls_Room_Builder_Walls_32x32": {
             "scaleInDock": 1
@@ -2011,7 +2027,7 @@
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 2266.6666666666665,
-                "y": 2313.636363636364
+                "y": 2695.454545454545
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -2383,7 +2399,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Exterior/Garten",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
