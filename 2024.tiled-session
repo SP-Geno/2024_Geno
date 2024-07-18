@@ -5,9 +5,9 @@
     },
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
-        ".",
         "tilesets",
-        "tilesets/Custom"
+        "tilesets/Custom",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -229,12 +229,15 @@
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.5,
-            "selectedLayer": 3,
+            "scale": 1,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 1000,
-                "y": 983
+                "x": 402,
+                "y": 1109.5
             }
+        },
+        "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#Interface_UI_32x32": {
             "scaleInDock": 1
@@ -339,7 +342,7 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#garten_17_Garden_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#möbel_12_Kitchen_Shadowless_32x32": {
             "scaleInDock": 0.5
