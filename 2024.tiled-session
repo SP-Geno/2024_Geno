@@ -12,7 +12,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "#Castle2": {
@@ -221,8 +221,8 @@
             "expandedGroupLayers": [
                 51,
                 9,
-                8,
                 57,
+                8,
                 48,
                 11
             ],
@@ -232,8 +232,8 @@
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 734,
-                "y": 1713
+                "x": 1000,
+                "y": 983
             }
         },
         "Mehrwertforum.tmj#Interface_UI_32x32": {
@@ -270,7 +270,7 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#carpets": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#custom_360° DigitalMesse (384 x 384 px)": {
             "scaleInDock": 1
@@ -378,19 +378,22 @@
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_assets": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_cobblestone_tiles_brown": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_tiles": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#summerplains_waterfall_spritesheet_version2": {
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_wooden_fence": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_wooden_path_tiles": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#walls_Room_Builder_3d_walls_32x32": {
             "scaleInDock": 0.75
@@ -2019,9 +2022,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
+                26,
                 14,
-                10,
-                26
+                10
             ],
             "expandedObjectLayers": [
                 2
@@ -2402,7 +2405,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Exterior/Garten",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Mehrwertforum - Summerplains",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
