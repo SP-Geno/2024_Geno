@@ -230,14 +230,14 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 1033,
-                "y": 1199
+                "x": 984,
+                "y": 731.5
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#Interface_UI_32x32": {
             "scaleInDock": 1
@@ -342,10 +342,16 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#garten11_Camping_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#garten_17_Garden_32x32": {
             "scaleInDock": 0.5
+        },
+        "Mehrwertforum.tmj#garten_GuttyKreumNatureTiles": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#geno logo": {
+            "scaleInDock": 1
         },
         "Mehrwertforum.tmj#möbel_12_Kitchen_Shadowless_32x32": {
             "scaleInDock": 0.5
@@ -1281,8 +1287,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 2831,
-                "y": 1342.5
+                "x": 1096,
+                "y": 838.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -2035,11 +2041,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 0.33,
-            "selectedLayer": 1,
+            "scale": 0.75,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 2545.4545454545455,
-                "y": 2190.909090909091
+                "x": 1258.6666666666665,
+                "y": 2879.333333333333
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -2052,7 +2058,7 @@
             "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#1_Generic_Shadowless32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#22_Museum_Shadowless_32x32": {
             "scaleInDock": 1
@@ -2064,7 +2070,7 @@
             "scaleInDock": 1
         },
         "digitalmesse.360.grad.tmj#5_Classroom_and_library_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse.360.grad.tmj#WA_Special_Zones": {
             "scaleInDock": 0.5
