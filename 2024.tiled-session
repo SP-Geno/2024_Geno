@@ -6,8 +6,8 @@
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
         "tilesets",
-        ".",
-        "tilesets/Custom"
+        "tilesets/Custom",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -230,10 +230,10 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 14,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1389,
-                "y": 1361.5
+                "x": 371,
+                "y": 353.5
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -2423,15 +2423,16 @@
     "map.width": 92,
     "openFiles": [
         "Mehrwertforum.tmj",
-        "digitalmesse.360.grad.tmj"
+        "digitalmesse.360.grad.tmj",
+        "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.tmj",
         "Mehrwertforum.tmj",
         "digitalmesse.360.grad.keynote.tmj",
-        "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.binden.tmj",
         "digitalmesse.360.grad.gewinnen.tmj",
         "digitalmesse.360.grad.gestalten.tmj",
