@@ -6,8 +6,8 @@
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
         "tilesets",
-        "tilesets/Custom",
-        "."
+        ".",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -219,25 +219,25 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
+                48,
                 51,
                 9,
                 57,
                 8,
-                48,
                 11
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 1,
-            "selectedLayer": 11,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 402,
-                "y": 1109.5
+                "x": 1033,
+                "y": 1199
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#Interface_UI_32x32": {
             "scaleInDock": 1
@@ -341,8 +341,11 @@
         "Mehrwertforum.tmj#floor_Room_Builder_Floors_32x32": {
             "scaleInDock": 1
         },
+        "Mehrwertforum.tmj#garten11_Camping_32x32": {
+            "scaleInDock": 0.5
+        },
         "Mehrwertforum.tmj#garten_17_Garden_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_12_Kitchen_Shadowless_32x32": {
             "scaleInDock": 0.5
@@ -372,31 +375,31 @@
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_6_Music_and_sport_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_8_Gym_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_assets": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_cobblestone_tiles_brown": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_tiles": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_waterfall_spritesheet_version2": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_wooden_fence": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_wooden_path_tiles": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#walls_Room_Builder_3d_walls_32x32": {
             "scaleInDock": 0.75
@@ -2025,9 +2028,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                26,
+                10,
                 14,
-                10
+                26
             ],
             "expandedObjectLayers": [
                 2
@@ -2035,8 +2038,8 @@
             "scale": 0.33,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 2266.6666666666665,
-                "y": 2695.454545454545
+                "x": 2545.4545454545455,
+                "y": 2190.909090909091
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -2408,7 +2411,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Mehrwertforum - Summerplains",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Exterior/Garten",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
