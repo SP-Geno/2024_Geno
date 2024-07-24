@@ -12,7 +12,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "#Castle2": {
@@ -230,9 +230,9 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 281,
+                "x": 758,
                 "y": 857.5
             }
         },
@@ -246,7 +246,7 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#Raumname_immobilie": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#WA_Decoration": {
             "scaleInDock": 1
@@ -267,7 +267,7 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#WA_Special_Zones": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#WA_Tables": {
             "scaleInDock": 1
@@ -348,7 +348,7 @@
             "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#garten_17_Garden_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#garten_GuttyKreumNatureTiles": {
             "scaleInDock": 1
@@ -363,10 +363,10 @@
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#möbel_14_Basement_Shadowless_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
             "scaleInDock": 0.5
@@ -378,7 +378,8 @@
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_1_Generic_Shadowless32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
             "scaleInDock": 0.5
@@ -393,29 +394,47 @@
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#raumname_ausbildung": {
+            "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#raumname_firmenkunden": {
+            "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#raumname_führung": {
+            "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#raumname_privatkunden": {
+            "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#raumname_seiteneinsteiger": {
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#raumname_steuerung": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#summerplains_assets": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_cobblestone_tiles_brown": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#summerplains_rock_grey_spritesheet": {
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_tiles": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_waterfall_spritesheet_version2": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_wooden_fence": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_wooden_path_tiles": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#walls_Room_Builder_3d_walls_32x32": {
             "scaleInDock": 0.75
@@ -2426,8 +2445,8 @@
         }
     },
     "frame.defaultDuration": 100,
-    "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Mehrwertforum - Summerplains/summer_plains_v1.0_plus/summer_plains_v1.0_plus/animated_assets",
+    "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
