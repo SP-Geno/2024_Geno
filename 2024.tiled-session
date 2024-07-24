@@ -219,12 +219,12 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
-                48,
                 51,
-                9,
-                57,
+                48,
                 8,
-                11
+                11,
+                9,
+                57
             ],
             "expandedObjectLayers": [
                 7
@@ -232,8 +232,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 371,
-                "y": 353.5
+                "x": 1033,
+                "y": 1199
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -1276,10 +1276,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                20,
-                9,
                 8,
-                11
+                11,
+                9,
+                20
             ],
             "expandedObjectLayers": [
                 7
@@ -1287,8 +1287,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1377,
-                "y": 838.5
+                "x": 2832,
+                "y": 1344
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -2034,9 +2034,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                10,
+                26,
                 14,
-                26
+                10
             ],
             "expandedObjectLayers": [
                 2
@@ -2044,8 +2044,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1258.6666666666665,
-                "y": 2879.333333333333
+                "x": 2544,
+                "y": 2192
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
