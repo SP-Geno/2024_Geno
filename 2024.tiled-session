@@ -12,7 +12,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.5,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "#Castle2": {
@@ -230,10 +230,10 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 9,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1063,
-                "y": 227.5
+                "x": 281,
+                "y": 857.5
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -243,6 +243,9 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#Interface_UI_thinking_emotes_animation_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#Raumname_immobilie": {
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#WA_Decoration": {
@@ -353,6 +356,9 @@
         "Mehrwertforum.tmj#geno logo": {
             "scaleInDock": 1
         },
+        "Mehrwertforum.tmj#immobilie": {
+            "scaleInDock": 1
+        },
         "Mehrwertforum.tmj#möbel_12_Kitchen_Shadowless_32x32": {
             "scaleInDock": 0.5
         },
@@ -388,6 +394,10 @@
         },
         "Mehrwertforum.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
             "scaleInDock": 0.5
+        },
+        "Mehrwertforum.tmj#raumname_steuerung": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#summerplains_assets": {
             "scaleInDock": 0.5
@@ -2417,7 +2427,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
