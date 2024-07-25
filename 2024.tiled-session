@@ -5,9 +5,9 @@
     },
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
-        "tilesets",
         "tilesets/Custom",
-        "."
+        ".",
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -219,12 +219,12 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
-                51,
+                57,
                 48,
-                8,
-                11,
                 9,
-                57
+                51,
+                8,
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -232,8 +232,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 758,
-                "y": 857.5
+                "x": 1033,
+                "y": 1199
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -404,6 +404,9 @@
         },
         "Mehrwertforum.tmj#raumname_führung": {
             "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#raumname_immobilie": {
+            "scaleInDock": 1
         },
         "Mehrwertforum.tmj#raumname_privatkunden": {
             "scaleInDock": 0.75
@@ -1305,10 +1308,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                8,
-                11,
                 9,
-                20
+                20,
+                8,
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -1316,8 +1319,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1103,
-                "y": 838.5
+                "x": 2832,
+                "y": 1344
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -2063,8 +2066,8 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                26,
                 14,
+                26,
                 10
             ],
             "expandedObjectLayers": [
@@ -2073,8 +2076,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1258.6666666666665,
-                "y": 1703.333333333333
+                "x": 2544,
+                "y": 2192
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
