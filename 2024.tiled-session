@@ -5,9 +5,9 @@
     },
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
+        "tilesets",
         ".",
-        "tilesets"
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -219,25 +219,25 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
-                57,
-                48,
-                9,
                 51,
-                8,
-                11
+                9,
+                11,
+                48,
+                57,
+                8
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1033,
-                "y": 1199
+                "x": 582,
+                "y": 1235.5
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#Interface_UI_32x32": {
             "scaleInDock": 1
@@ -247,6 +247,9 @@
         },
         "Mehrwertforum.tmj#Raumname_immobilie": {
             "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#Steuerung 128x128": {
+            "scaleInDock": 1
         },
         "Mehrwertforum.tmj#WA_Decoration": {
             "scaleInDock": 1
@@ -267,7 +270,7 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#WA_Special_Zones": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#WA_Tables": {
             "scaleInDock": 1
@@ -345,16 +348,16 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#garten11_Camping_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#garten_17_Garden_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#garten_GuttyKreumNatureTiles": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#geno logo": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#immobilie": {
             "scaleInDock": 1
@@ -363,7 +366,7 @@
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_14_Basement_Shadowless_32x32": {
             "scaleInDock": 0.75
@@ -378,7 +381,7 @@
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_1_Generic_Shadowless32x32": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
@@ -428,7 +431,7 @@
             "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_tiles": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#summerplains_waterfall_spritesheet_version2": {
             "scaleInDock": 0.75
@@ -1308,10 +1311,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                9,
                 20,
-                8,
-                11
+                9,
+                11,
+                8
             ],
             "expandedObjectLayers": [
                 7
@@ -2066,9 +2069,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
+                10,
                 14,
-                26,
-                10
+                26
             ],
             "expandedObjectLayers": [
                 2
@@ -2076,8 +2079,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 2544,
-                "y": 2192
+                "x": 2333.333333333333,
+                "y": 2528.6666666666665
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -2449,7 +2452,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Exterior/Garten",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
