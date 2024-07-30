@@ -374,12 +374,12 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
+                57,
                 11,
-                48,
                 8,
+                48,
                 9,
-                51,
-                57
+                51
             ],
             "expandedObjectLayers": [
                 7
@@ -2233,9 +2233,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                10,
+                26,
                 14,
-                26
+                10
             ],
             "expandedObjectLayers": [
                 2
@@ -2243,8 +2243,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 2333.333333333333,
-                "y": 2024.6666666666665
+                "x": 2544,
+                "y": 2192
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -2616,7 +2616,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Möbel l Interior",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
