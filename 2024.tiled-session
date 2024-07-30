@@ -6,8 +6,8 @@
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
         "tilesets/Custom",
-        "tilesets",
-        "."
+        ".",
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -385,10 +385,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 2,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1330.6666666666665,
-                "y": 1302
+                "x": 950.6666666666665,
+                "y": 630
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -2622,6 +2622,7 @@
     "map.width": 92,
     "openFiles": [
         "Mehrwertforum.tmj",
+        "Mehrwertforum version 30.07.tmj",
         "digitalmesse.360.grad.tmj",
         "digitalmesse.360.grad.entwickeln.tmj"
     ],
@@ -2630,6 +2631,7 @@
     "recentFiles": [
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.tmj",
+        "Mehrwertforum version 30.07.tmj",
         "Mehrwertforum.tmj",
         "digitalmesse.360.grad.keynote.tmj",
         "digitalmesse.360.grad.binden.tmj",
@@ -2638,8 +2640,7 @@
         "castle.tmj",
         "office_tryout.tmj",
         "Webinar.json",
-        "TestmapMesse.tmj",
-        "Messehalle.tmj"
+        "TestmapMesse.tmj"
     ],
     "resizeMap.removeObjects": true,
     "textEdit.monospace": true,
