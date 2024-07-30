@@ -12,7 +12,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "#Castle2": {
@@ -217,6 +217,161 @@
         "C:/Users/GenoAkademie/Documents/GitHub/Test_World_1_Geno/gameroom.tmj#tileset_town_multi_v002": {
             "scaleInDock": 1
         },
+        "Mehrwertforum version 30.07.tmj": {
+            "scale": 0.5222576530612245,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1039.7166931249237,
+                "y": 784.0957381853706
+            }
+        },
+        "Mehrwertforum version 30.07.tmj#Baumhaus_7_Villas_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#Steuerung 128x128": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#carpets": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#custom_footstep": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#floor_Room_Builder_Floor_Paths_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#floor_Room_Builder_Floors_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#garten11_Camping_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#garten_17_Garden_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#garten_GuttyKreumNatureTiles": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#garten_Swimming_Pool_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#geno logo": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_14_Basement_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_18_Jail_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_19_Hospital_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_1_Generic_Shadowless32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_5_Classroom_and_library_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_6_Music_and_sport_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_8_Gym_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#raumname_ausbildung": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#raumname_firmenkunden": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#raumname_führung": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#raumname_immobilie": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#raumname_privatkunden": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#raumname_regionale Ansprechpartner": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#raumname_seiteneinsteiger": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#raumname_steuerung": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#summerplains_assets": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#summerplains_cobblestone_tiles_brown": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#summerplains_rock_grey_spritesheet": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#summerplains_tiles": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#summerplains_waterfall_spritesheet_version2": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#summerplains_wooden_fence": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#summerplains_wooden_path_tiles": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#walls_Room_Builder_3d_walls_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#walls_Room_Builder_Walls_32x32": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum version 30.07.tmj#walls_Room_Builder_borders_32x32": {
+            "scaleInDock": 1
+        },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
                 11,
@@ -229,11 +384,11 @@
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 1,
-            "selectedLayer": 15,
+            "scale": 1.5,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 1033,
-                "y": 1199
+                "x": 1029.3333333333333,
+                "y": 713.6666666666666
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -247,6 +402,9 @@
         },
         "Mehrwertforum.tmj#Raumname_immobilie": {
             "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#Startbereich": {
+            "scaleInDock": 1
         },
         "Mehrwertforum.tmj#Steuerung 128x128": {
             "scaleInDock": 1
@@ -416,6 +574,9 @@
         },
         "Mehrwertforum.tmj#raumname_privatkunden": {
             "scaleInDock": 0.75
+        },
+        "Mehrwertforum.tmj#raumname_regionale Ansprechpartner": {
+            "scaleInDock": 1
         },
         "Mehrwertforum.tmj#raumname_seiteneinsteiger": {
             "scaleInDock": 0.75
@@ -2082,8 +2243,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 2544,
-                "y": 2192
+                "x": 2333.333333333333,
+                "y": 2024.6666666666665
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -2455,7 +2616,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/ModernInterior/Möbel l Interior",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
