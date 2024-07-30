@@ -385,10 +385,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 950.6666666666665,
-                "y": 630
+                "x": 868,
+                "y": 294
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -479,6 +479,9 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#custom_footstep": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#custom_footstep_mehrwert": {
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#custom_geno logo": {
