@@ -5,9 +5,9 @@
     },
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
+        "tilesets/Custom",
         "tilesets",
-        ".",
-        "tilesets/Custom"
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -219,25 +219,25 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
-                51,
-                9,
                 11,
                 48,
-                57,
-                8
+                8,
+                9,
+                51,
+                57
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 1,
-            "selectedLayer": 16,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 582,
-                "y": 1235.5
+                "x": 1033,
+                "y": 1199
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#Interface_UI_32x32": {
             "scaleInDock": 1
@@ -270,10 +270,10 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#WA_Special_Zones": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#WA_Tables": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#WA_User_Interface": {
             "scaleInDock": 1
@@ -356,6 +356,9 @@
         "Mehrwertforum.tmj#garten_GuttyKreumNatureTiles": {
             "scaleInDock": 0.5
         },
+        "Mehrwertforum.tmj#garten_Swimming_Pool_32x32": {
+            "scaleInDock": 0.75
+        },
         "Mehrwertforum.tmj#geno logo": {
             "scaleInDock": 0.5
         },
@@ -431,7 +434,7 @@
             "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_tiles": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#summerplains_waterfall_spritesheet_version2": {
             "scaleInDock": 0.75
@@ -1311,10 +1314,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                20,
-                9,
                 11,
-                8
+                8,
+                9,
+                20
             ],
             "expandedObjectLayers": [
                 7
@@ -2079,8 +2082,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 2333.333333333333,
-                "y": 2528.6666666666665
+                "x": 2544,
+                "y": 2192
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -2452,7 +2455,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Exterior/Garten",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
