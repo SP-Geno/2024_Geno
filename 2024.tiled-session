@@ -550,11 +550,11 @@
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.75,
+            "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 868,
-                "y": 664.6666666666665
+                "x": 1051,
+                "y": 890.5
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -570,7 +570,8 @@
             "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#Startbereich": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#Steuerung 128x128": {
             "scaleInDock": 1
@@ -629,6 +630,9 @@
         "Mehrwertforum.tmj#custom_Regionen": {
             "scaleInDock": 1
         },
+        "Mehrwertforum.tmj#custom_Startbereich": {
+            "scaleInDock": 1
+        },
         "Mehrwertforum.tmj#custom_Trennungszeichen": {
             "scaleInDock": 1
         },
@@ -643,6 +647,10 @@
         },
         "Mehrwertforum.tmj#custom_Wörter (192 x 640 px)": {
             "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#custom_feedback standort gekrümmt": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#custom_footstep": {
             "scaleInDock": 1
@@ -675,13 +683,13 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#garten11_Camping_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#garten_17_Garden_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#garten_GuttyKreumNatureTiles": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#garten_Swimming_Pool_32x32": {
             "scaleInDock": 0.75
@@ -2946,7 +2954,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
