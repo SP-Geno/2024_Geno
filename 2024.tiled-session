@@ -12,7 +12,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "#Castle2": {
@@ -540,25 +540,25 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
-                9,
-                57,
-                11,
-                8,
+                51,
                 48,
-                51
+                11,
+                57,
+                8,
+                9
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 1,
-            "selectedLayer": 7,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1727,
-                "y": 864.5
+                "x": 1033,
+                "y": 1199
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#Interface_UI_32x32": {
             "scaleInDock": 1
@@ -574,7 +574,7 @@
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#Steuerung 128x128": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#WA_Decoration": {
             "scaleInDock": 1
@@ -707,7 +707,7 @@
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_14_Basement_Shadowless_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
             "scaleInDock": 0.5
@@ -738,34 +738,34 @@
             "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#raumname_ausbildung": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#raumname_firmenkunden": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#raumname_führung": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#raumname_immobilie": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#raumname_privatkunden": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#raumname_regionale Ansprechpartner": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#raumname_seiteneinsteiger": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#raumname_steuerung": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#summerplains_assets": {
@@ -1819,10 +1819,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                9,
-                20,
                 11,
-                8
+                8,
+                20,
+                9
             ],
             "expandedObjectLayers": [
                 7
@@ -1831,7 +1831,7 @@
             "selectedLayer": 1,
             "viewCenter": {
                 "x": 2832,
-                "y": 1344.5
+                "y": 1344
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -2577,8 +2577,8 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                26,
                 10,
+                26,
                 14
             ],
             "expandedObjectLayers": [
