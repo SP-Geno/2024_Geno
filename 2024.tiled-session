@@ -691,11 +691,11 @@
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.43,
-            "selectedLayer": 17,
+            "scale": 0.75,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 944.186046511628,
-                "y": 689.5348837209303
+                "x": 444,
+                "y": 1178
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -1969,7 +1969,7 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 10,
             "viewCenter": {
                 "x": 2832,
                 "y": 1415.5
@@ -3102,7 +3102,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
