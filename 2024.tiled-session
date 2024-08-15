@@ -384,11 +384,11 @@
             "scaleInDock": 1
         },
         "Mehrwertforum v2.tmj": {
-            "scale": 4,
-            "selectedLayer": 16,
+            "scale": 1.5,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 1027,
-                "y": 826.875
+                "x": 1637.3333333333333,
+                "y": 480.3333333333333
             }
         },
         "Mehrwertforum v2.tmj#Baumhaus_7_Villas_32x32": {
@@ -2730,7 +2730,7 @@
             "selectedLayer": 13,
             "viewCenter": {
                 "x": 2544,
-                "y": 2192
+                "y": 2287.333333333333
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
