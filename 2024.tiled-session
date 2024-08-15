@@ -3114,6 +3114,7 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Mehrwertforum v2.tmj",
         "Mehrwertforum.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.tmj",
@@ -3124,8 +3125,7 @@
         "digitalmesse.360.grad.binden.tmj",
         "digitalmesse.360.grad.gewinnen.tmj",
         "digitalmesse.360.grad.gestalten.tmj",
-        "castle.tmj",
-        "office_tryout.tmj"
+        "castle.tmj"
     ],
     "resizeMap.removeObjects": true,
     "textEdit.monospace": true,
