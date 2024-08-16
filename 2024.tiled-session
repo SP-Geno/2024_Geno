@@ -682,11 +682,11 @@
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
                 9,
-                51,
-                48,
                 57,
+                48,
                 8,
-                11
+                11,
+                51
             ],
             "expandedObjectLayers": [
                 7
@@ -694,8 +694,8 @@
             "scale": 0.75,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 189.33333333333337,
-                "y": 842
+                "x": 1030.6666666666665,
+                "y": 1337.3333333333333
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -787,6 +787,9 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#custom_Wörter (192 x 640 px)": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#custom_austausch": {
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#custom_feedback standort gekrümmt": {
@@ -882,8 +885,17 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Mehrwertforum.tmj#raumname_Seiteneinsteiger": {
+            "scaleInDock": 1
+        },
         "Mehrwertforum.tmj#raumname_ausbildung": {
             "scaleInDock": 0.5
+        },
+        "Mehrwertforum.tmj#raumname_ausbildung und karrierestart": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#raumname_baufinanzierungs- und immobiliengeschäft": {
+            "scaleInDock": 1
         },
         "Mehrwertforum.tmj#raumname_erfolgsfaktoren": {
             "scaleInDock": 1
@@ -907,6 +919,9 @@
             "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
+        "Mehrwertforum.tmj#raumname_privatkundenbank": {
+            "scaleInDock": 1
+        },
         "Mehrwertforum.tmj#raumname_regionale Ansprechpartner": {
             "scaleInDock": 0.5,
             "scaleInEditor": 1
@@ -918,6 +933,9 @@
         "Mehrwertforum.tmj#raumname_steuerung": {
             "scaleInDock": 0.5,
             "scaleInEditor": 1
+        },
+        "Mehrwertforum.tmj#raumname_steuerungsbank": {
+            "scaleInDock": 1
         },
         "Mehrwertforum.tmj#summerplains_assets": {
             "scaleInDock": 0.75
@@ -1982,7 +2000,7 @@
             "selectedLayer": 10,
             "viewCenter": {
                 "x": 2832,
-                "y": 407.5
+                "y": 1344
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -2729,8 +2747,8 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                14,
                 10,
+                14,
                 26
             ],
             "expandedObjectLayers": [
@@ -2740,7 +2758,7 @@
             "selectedLayer": 13,
             "viewCenter": {
                 "x": 2544,
-                "y": 2287.333333333333
+                "y": 2192
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
