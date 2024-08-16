@@ -692,10 +692,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 7,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 1030.6666666666665,
-                "y": 1337.3333333333333
+                "x": 1376,
+                "y": 111.33333333333337
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -2757,8 +2757,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 2544,
-                "y": 2192
+                "x": 569.3333333333334,
+                "y": 3134
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -3140,7 +3140,7 @@
         "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Mehrwertforum_grass.tmj",
         "Mehrwertforum v2.tmj",
