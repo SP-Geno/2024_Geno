@@ -5,9 +5,9 @@
     },
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
+        ".",
         "tilesets",
-        "."
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -681,25 +681,28 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
-                9,
-                57,
                 48,
                 8,
+                9,
+                57,
                 11,
                 51
             ],
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.75,
-            "selectedLayer": 15,
+            "scale": 2,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 1376,
-                "y": 111.33333333333337
+                "x": 412.5,
+                "y": 357.75
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
             "scaleInDock": 0.5
+        },
+        "Mehrwertforum.tmj#Informieren - Tile": {
+            "scaleInDock": 1
         },
         "Mehrwertforum.tmj#Interface_UI_32x32": {
             "scaleInDock": 1
@@ -803,6 +806,9 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#custom_geno logo": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#custom_informieren": {
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#custom_kontakt feedback": {
@@ -1988,9 +1994,9 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
+                8,
                 9,
                 20,
-                8,
                 11
             ],
             "expandedObjectLayers": [
@@ -2747,8 +2753,8 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                10,
                 14,
+                10,
                 26
             ],
             "expandedObjectLayers": [
@@ -2757,8 +2763,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 569.3333333333334,
-                "y": 3134
+                "x": 2544,
+                "y": 2192.6666666666665
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -3142,11 +3148,11 @@
     "project": "2024.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Mehrwertforum_grass.tmj",
-        "Mehrwertforum v2.tmj",
-        "Mehrwertforum.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.tmj",
+        "Mehrwertforum.tmj",
+        "Mehrwertforum_grass.tmj",
+        "Mehrwertforum v2.tmj",
         "Mehrwertforum version 30.07.tmj",
         "Mehrwertforum new grass.tmj",
         "digitalmesse.360.grad.keynote.tmj",
