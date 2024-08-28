@@ -6,8 +6,8 @@
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
         ".",
-        "tilesets",
-        "tilesets/Custom"
+        "tilesets/Custom",
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -681,21 +681,21 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
-                48,
                 8,
                 9,
                 57,
+                51,
                 11,
-                51
+                48
             ],
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 2,
-            "selectedLayer": 11,
+            "scale": 1,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 412.5,
-                "y": 357.75
+                "x": 1033,
+                "y": 1199
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -920,6 +920,9 @@
         "Mehrwertforum.tmj#raumname_immobilie": {
             "scaleInDock": 0.5,
             "scaleInEditor": 1
+        },
+        "Mehrwertforum.tmj#raumname_management": {
+            "scaleInDock": 1
         },
         "Mehrwertforum.tmj#raumname_privatkunden": {
             "scaleInDock": 0.5,
@@ -1996,8 +1999,8 @@
             "expandedGroupLayers": [
                 8,
                 9,
-                20,
-                11
+                11,
+                20
             ],
             "expandedObjectLayers": [
                 7
@@ -2764,7 +2767,7 @@
             "selectedLayer": 13,
             "viewCenter": {
                 "x": 2544,
-                "y": 2192.6666666666665
+                "y": 2192
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
