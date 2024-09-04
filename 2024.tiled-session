@@ -12,7 +12,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "#Castle2": {
@@ -681,12 +681,12 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
-                8,
-                9,
-                57,
                 51,
+                9,
                 11,
-                48
+                8,
+                48,
+                57
             ],
             "expandedObjectLayers": [
                 7
@@ -1997,10 +1997,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                8,
+                20,
                 9,
                 11,
-                20
+                8
             ],
             "expandedObjectLayers": [
                 7
@@ -2756,8 +2756,8 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                14,
                 10,
+                14,
                 26
             ],
             "expandedObjectLayers": [
@@ -3139,7 +3139,7 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Namen Mehrwertforum Räume",
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum",
     "map.height": 50,
     "map.lastUsedFormat": "json",
     "map.width": 92,
