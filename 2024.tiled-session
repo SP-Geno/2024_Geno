@@ -6,8 +6,8 @@
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
         "tilesets/Custom",
-        "tilesets",
-        "."
+        ".",
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -681,25 +681,25 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
-                48,
                 51,
                 57,
+                48,
                 9,
-                11,
-                8
+                8,
+                11
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1314,
-                "y": 821.5
+                "x": 1033,
+                "y": 1199
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#Informieren - Tile": {
             "scaleInDock": 1
@@ -752,6 +752,9 @@
             "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#custom_360° DigitalMesse (384 x 384 px)": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#custom_Austausch_angepasst": {
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#custom_Doppelpfeil": {
@@ -858,26 +861,26 @@
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#möbel_14_Basement_Shadowless_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#möbel_18_Jail_Shadowless_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#möbel_19_Hospital_Shadowless_32x32": {
             "scaleInDock": 0.5
         },
         "Mehrwertforum.tmj#möbel_1_Generic_Shadowless32x32": {
-            "scaleInDock": 0.5,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "Mehrwertforum.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
-            "scaleInDock": 0.5
+            "scaleInDock": 0.75
         },
         "Mehrwertforum.tmj#möbel_5_Classroom_and_library_Shadowless_32x32": {
             "scaleInDock": 0.5
@@ -2003,8 +2006,8 @@
             "expandedGroupLayers": [
                 9,
                 20,
-                11,
-                8
+                8,
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -2013,7 +2016,7 @@
             "selectedLayer": 10,
             "viewCenter": {
                 "x": 2832,
-                "y": 1344.5
+                "y": 1344
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
