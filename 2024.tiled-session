@@ -6,8 +6,8 @@
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
         ".",
-        "tilesets/Custom",
-        "tilesets"
+        "tilesets",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -681,11 +681,11 @@
         },
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
+                48,
+                8,
+                51,
                 9,
                 11,
-                51,
-                8,
-                48,
                 57
             ],
             "expandedObjectLayers": [
@@ -694,8 +694,8 @@
             "scale": 1,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 597,
-                "y": 1199.5
+                "x": 1033,
+                "y": 1199
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -800,6 +800,9 @@
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#custom_austausch": {
+            "scaleInDock": 1
+        },
+        "Mehrwertforum.tmj#custom_curved inform": {
             "scaleInDock": 1
         },
         "Mehrwertforum.tmj#custom_feedback standort gekrümmt": {
@@ -2005,10 +2008,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
+                8,
                 9,
-                20,
                 11,
-                8
+                20
             ],
             "expandedObjectLayers": [
                 7
@@ -2017,7 +2020,7 @@
             "selectedLayer": 10,
             "viewCenter": {
                 "x": 2832,
-                "y": 1344.5
+                "y": 1344
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -2764,9 +2767,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                10,
+                14,
                 26,
-                14
+                10
             ],
             "expandedObjectLayers": [
                 2
