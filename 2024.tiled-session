@@ -1325,9 +1325,9 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 16,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 92,
+                "x": 502.6666666666666,
                 "y": 218
             }
         },
@@ -2370,18 +2370,18 @@
         },
         "digitalmesse.360.grad.gestalten.tmj": {
             "expandedGroupLayers": [
-                9,
+                11,
                 8,
-                11
+                9
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 1439,
-                "y": 1342.5
+                "y": 712.5
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
