@@ -5,18 +5,22 @@
     },
     "activeFile": "Mehrwertforum.tmj",
     "expandedProjectPaths": [
-        ".",
         "tilesets",
+        ".",
         "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "#Castle2": {
             "scaleInDock": 1
+        },
+        "#Room_Builder_Floors_32x32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "#WA_Decoration": {
             "scaleInDock": 1
@@ -682,20 +686,20 @@
         "Mehrwertforum.tmj": {
             "expandedGroupLayers": [
                 48,
+                11,
+                57,
                 8,
                 51,
-                9,
-                11,
-                57
+                9
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1033,
-                "y": 1199
+                "x": 1002,
+                "y": 492.5
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -1310,6 +1314,163 @@
         },
         "Messehalle.tmj#walls_Room_Builder_borders_32x32": {
             "scaleInDock": 0.5
+        },
+        "Projekt KSC.tmj": {
+            "expandedGroupLayers": [
+                11,
+                8,
+                9
+            ],
+            "expandedObjectLayers": [
+                7
+            ],
+            "scale": 0.75,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 530.6666666666665,
+                "y": 406
+            }
+        },
+        "Projekt KSC.tmj#Interface_UI_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#Interface_UI_thinking_emotes_animation_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#carpets": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Doppelpfeil": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Feedback Icon": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Information": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Lautstärke": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Region zahlen": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Regionen": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Trennungszeichen": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Trennungszeichen (128 x 128 px)": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Trennungszeichen quer": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Trennungszeichen quer 64": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Wörter (192 x 640 px)": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_footstep": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_geno logo": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_kontakt feedback": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_modernes": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_pfeile mittig": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#door_animated_door_glass_double_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#door_animated_door_glass_right_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#floor_Room_Builder_Floor_Paths_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#floor_Room_Builder_Floors_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_12_Kitchen_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_14_Basement_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_18_Jail_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_19_Hospital_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_1_Generic_Shadowless32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_5_Classroom_and_library_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_6_Music_and_sport_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_8_Gym_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#walls_Room_Builder_3d_walls_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#walls_Room_Builder_Walls_32x32": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#walls_Room_Builder_borders_32x32": {
+            "scaleInDock": 1
         },
         "Testmap 360° Messe.tmj": {
             "expandedGroupLayers": [
@@ -2008,10 +2169,10 @@
         },
         "digitalmesse.360.grad.entwickeln.tmj": {
             "expandedGroupLayers": [
-                8,
-                9,
                 11,
-                20
+                8,
+                20,
+                9
             ],
             "expandedObjectLayers": [
                 7
@@ -2020,7 +2181,7 @@
             "selectedLayer": 10,
             "viewCenter": {
                 "x": 2832,
-                "y": 1344
+                "y": 1218.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -2767,9 +2928,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
+                10,
                 14,
-                26,
-                10
+                26
             ],
             "expandedObjectLayers": [
                 2
@@ -2778,7 +2939,7 @@
             "selectedLayer": 13,
             "viewCenter": {
                 "x": 2544,
-                "y": 2192
+                "y": 2192.6666666666665
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -3150,17 +3311,17 @@
     },
     "frame.defaultDuration": 100,
     "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
-    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum",
-    "map.height": 50,
+    "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/WorkAdventure Tiles",
+    "map.height": 45,
     "map.lastUsedFormat": "json",
-    "map.width": 92,
+    "map.width": 45,
     "openFiles": [
         "Mehrwertforum.tmj",
         "digitalmesse.360.grad.tmj",
         "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.tmj",
