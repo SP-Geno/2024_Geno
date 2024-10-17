@@ -1325,10 +1325,10 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 7,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 530.6666666666665,
-                "y": 406
+                "x": 92,
+                "y": 218
             }
         },
         "Projekt KSC.tmj#Interface_UI_32x32": {
@@ -2178,10 +2178,10 @@
                 7
             ],
             "scale": 1,
-            "selectedLayer": 10,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 2832,
-                "y": 1218.5
+                "x": 2266,
+                "y": 1568.5
             }
         },
         "digitalmesse.360.grad.entwickeln.tmj#Account Management": {
@@ -3321,7 +3321,7 @@
         "digitalmesse.360.grad.entwickeln.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.tmj",
