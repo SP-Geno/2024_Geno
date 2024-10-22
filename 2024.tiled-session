@@ -5,9 +5,9 @@
     },
     "activeFile": "Projekt KSC.tmj",
     "expandedProjectPaths": [
-        "tilesets",
+        ".",
         "tilesets/Custom",
-        "."
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1317,9 +1317,9 @@
         },
         "Projekt KSC.tmj": {
             "expandedGroupLayers": [
-                8,
+                9,
                 11,
-                9
+                8
             ],
             "expandedObjectLayers": [
                 7
@@ -1330,6 +1330,12 @@
                 "x": 502.6666666666666,
                 "y": 218
             }
+        },
+        "Projekt KSC.tmj#11_Camping_32x32": {
+            "scaleInDock": 0.75
+        },
+        "Projekt KSC.tmj#17_Garden_32x32": {
+            "scaleInDock": 1
         },
         "Projekt KSC.tmj#Interface_UI_32x32": {
             "scaleInDock": 1
@@ -1365,7 +1371,7 @@
             "scaleInDock": 1
         },
         "Projekt KSC.tmj#carpets": {
-            "scaleInDock": 0.75
+            "scaleInDock": 1
         },
         "Projekt KSC.tmj#custom_Doppelpfeil": {
             "scaleInDock": 1
@@ -1374,6 +1380,18 @@
             "scaleInDock": 1
         },
         "Projekt KSC.tmj#custom_Information": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_KSC Zielgruppe 1": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_KSC Zielgruppe 2": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_KSC Zielgruppe 3": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_KSC Zielgruppe 4": {
             "scaleInDock": 1
         },
         "Projekt KSC.tmj#custom_Lautstärke": {
@@ -1427,11 +1445,17 @@
         "Projekt KSC.tmj#door_animated_door_glass_right_32x32": {
             "scaleInDock": 1
         },
+        "Projekt KSC.tmj#floor_Grauton mit Fliese": {
+            "scaleInDock": 1
+        },
         "Projekt KSC.tmj#floor_Room_Builder_Floor_Paths_32x32": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "Projekt KSC.tmj#floor_Room_Builder_Floors_32x32": {
+            "scaleInDock": 0.75
+        },
+        "Projekt KSC.tmj#floorgrauton 2": {
             "scaleInDock": 1
         },
         "Projekt KSC.tmj#möbel_12_Kitchen_Shadowless_32x32": {
@@ -2377,9 +2401,9 @@
         },
         "digitalmesse.360.grad.gestalten.tmj": {
             "expandedGroupLayers": [
-                8,
+                9,
                 11,
-                9
+                8
             ],
             "expandedObjectLayers": [
                 7
@@ -2387,8 +2411,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 2016,
-                "y": 1216.5
+                "x": 1440,
+                "y": 1344
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -2935,9 +2959,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                26,
                 10,
-                14
+                14,
+                26
             ],
             "expandedObjectLayers": [
                 2
@@ -2945,7 +2969,7 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 3324,
+                "x": 1258.6666666666665,
                 "y": 2360.6666666666665
             }
         },
@@ -3324,15 +3348,16 @@
     "map.width": 45,
     "openFiles": [
         "Projekt KSC.tmj",
-        "digitalmesse.360.grad.gestalten.tmj"
+        "digitalmesse.360.grad.gestalten.tmj",
+        "digitalmesse.360.grad.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "digitalmesse.360.grad.tmj",
         "digitalmesse.360.grad.gestalten.tmj",
         "Projekt KSC.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
-        "digitalmesse.360.grad.tmj",
         "Mehrwertforum.tmj",
         "Mehrwertforum_grass.tmj",
         "Mehrwertforum v2.tmj",
