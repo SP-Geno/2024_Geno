@@ -5,9 +5,9 @@
     },
     "activeFile": "Projekt KSC.tmj",
     "expandedProjectPaths": [
-        ".",
+        "tilesets",
         "tilesets/Custom",
-        "tilesets"
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1325,7 +1325,7 @@
                 7
             ],
             "scale": 0.75,
-            "selectedLayer": 11,
+            "selectedLayer": 13,
             "viewCenter": {
                 "x": 502.6666666666666,
                 "y": 218
