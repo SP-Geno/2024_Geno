@@ -1317,9 +1317,9 @@
         },
         "Projekt KSC.tmj": {
             "expandedGroupLayers": [
+                8,
                 9,
-                11,
-                8
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -1327,8 +1327,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 502.6666666666666,
-                "y": 218
+                "x": 390.66666666666663,
+                "y": 777.3333333333333
             }
         },
         "Projekt KSC.tmj#11_Camping_32x32": {
@@ -2401,9 +2401,9 @@
         },
         "digitalmesse.360.grad.gestalten.tmj": {
             "expandedGroupLayers": [
+                8,
                 9,
-                11,
-                8
+                11
             ],
             "expandedObjectLayers": [
                 7
@@ -2959,9 +2959,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
+                26,
                 10,
-                14,
-                26
+                14
             ],
             "expandedObjectLayers": [
                 2
@@ -2969,8 +2969,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1258.6666666666665,
-                "y": 2360.6666666666665
+                "x": 2544,
+                "y": 2192
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
