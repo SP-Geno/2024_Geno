@@ -365,7 +365,7 @@
                 {
                  "height":133.333333333333,
                  "id":63,
-                 "name":"",
+                 "name":"Austausch",
                  "properties":[
                         {
                          "name":"jitsiRoom",
@@ -378,7 +378,7 @@
                          "value":"Austausch"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":224,
                  "x":512,

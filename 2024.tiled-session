@@ -1325,10 +1325,10 @@
                 7
             ],
             "scale": 1.5,
-            "selectedLayer": 13,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 640,
-                "y": 195.66666666666669
+                "x": 624,
+                "y": 350.33333333333326
             }
         },
         "Projekt KSC.tmj#11_Camping_32x32": {
@@ -1438,6 +1438,12 @@
         },
         "Projekt KSC.tmj#custom_footstep KSC": {
             "scaleInDock": 0.75
+        },
+        "Projekt KSC.tmj#custom_footstep calender": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_footstep mail": {
+            "scaleInDock": 1
         },
         "Projekt KSC.tmj#custom_geno logo": {
             "scaleInDock": 0.75
@@ -2981,8 +2987,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 2544,
-                "y": 1688.6666666666665
+                "x": 1085.3333333333333,
+                "y": 3134
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
