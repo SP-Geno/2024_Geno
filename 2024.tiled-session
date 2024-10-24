@@ -5,9 +5,9 @@
     },
     "activeFile": "Projekt KSC.tmj",
     "expandedProjectPaths": [
-        "tilesets",
+        ".",
         "tilesets/Custom",
-        "."
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1324,11 +1324,11 @@
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.75,
+            "scale": 1.5,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 390.66666666666663,
-                "y": 777.3333333333333
+                "x": 640,
+                "y": 195.66666666666669
             }
         },
         "Projekt KSC.tmj#11_Camping_32x32": {
@@ -1362,7 +1362,7 @@
             "scaleInDock": 1
         },
         "Projekt KSC.tmj#WA_Special_Zones": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Projekt KSC.tmj#WA_Tables": {
             "scaleInDock": 1
@@ -1421,6 +1421,18 @@
         "Projekt KSC.tmj#custom_Wörter (192 x 640 px)": {
             "scaleInDock": 1
         },
+        "Projekt KSC.tmj#custom_Z1": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Z2": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Z3": {
+            "scaleInDock": 1
+        },
+        "Projekt KSC.tmj#custom_Z4": {
+            "scaleInDock": 1
+        },
         "Projekt KSC.tmj#custom_footstep": {
             "scaleInDock": 1
         },
@@ -1468,10 +1480,10 @@
             "scaleInDock": 0.75
         },
         "Projekt KSC.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Projekt KSC.tmj#möbel_18_Jail_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Projekt KSC.tmj#möbel_19_Hospital_Shadowless_32x32": {
             "scaleInDock": 1
@@ -1492,10 +1504,10 @@
             "scaleInDock": 1
         },
         "Projekt KSC.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Projekt KSC.tmj#walls_Room_Builder_3d_walls_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Projekt KSC.tmj#walls_Room_Builder_Walls_32x32": {
             "scaleInDock": 1
@@ -2411,8 +2423,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1440,
-                "y": 1344
+                "x": 2191,
+                "y": 1344.5
             }
         },
         "digitalmesse.360.grad.gestalten.tmj#Interface_UI_32x32": {
@@ -2959,9 +2971,9 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                26,
+                14,
                 10,
-                14
+                26
             ],
             "expandedObjectLayers": [
                 2
@@ -2970,7 +2982,7 @@
             "selectedLayer": 13,
             "viewCenter": {
                 "x": 2544,
-                "y": 2192
+                "y": 1688.6666666666665
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
