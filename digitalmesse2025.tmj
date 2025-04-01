@@ -1470,6 +1470,15 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }, 

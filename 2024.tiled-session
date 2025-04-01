@@ -698,8 +698,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1040,
-                "y": 784
+                "x": 1002,
+                "y": 114.5
             }
         },
         "Mehrwertforum.tmj#Baumhaus_7_Villas_32x32": {
@@ -3139,11 +3139,15 @@
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj": {
-            "scale": 0.2837630208333333,
-            "selectedLayer": 0,
+            "expandedGroupLayers": [
+                57,
+                51
+            ],
+            "scale": 1,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 1920.616711788189,
-                "y": 836.9659982563209
+                "x": 1795,
+                "y": 2015.5
             }
         },
         "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
@@ -3171,7 +3175,8 @@
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#WA_Special_Zones": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "digitalmesse2025.tmj#WA_Tables": {
             "scaleInDock": 1
@@ -3660,10 +3665,10 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "digitalmesse.360.grad.tmj",
+        "Mehrwertforum.tmj",
         "digitalmesse2025.tmj",
         "virtuelle Messehalle.tmj",
-        "Mehrwertforum.tmj",
-        "digitalmesse.360.grad.tmj",
         "Projekt KSC.tmj",
         "digitalmesse.360.grad.gestalten.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
