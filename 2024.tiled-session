@@ -3138,6 +3138,146 @@
         "digitalmesse.360.grad.tmj#walls_Room_Builder_borders_32x32": {
             "scaleInDock": 1
         },
+        "digitalmesse2025.tmj": {
+            "scale": 0.2837630208333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1920.616711788189,
+                "y": 836.9659982563209
+            }
+        },
+        "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#Steuerung 128x128": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#carpets": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_Pfeiltasten": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_Startbereich": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_feedback standort gekrümmt": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_footstep_mehrwert": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#floor_Room_Builder_Floor_Paths_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#floor_Room_Builder_Floors_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#garten11_Camping_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#garten_17_Garden_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#garten_GuttyKreumNatureTiles": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#garten_Swimming_Pool_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#geno logo": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_13_Conference_Hall_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_14_Basement_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_16_Grocery_store_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_18_Jail_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_19_Hospital_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_1_Generic_Shadowless32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_2_LivingRoom_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_5_Classroom_and_library_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_6_Music_and_sport_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_8_Gym_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#möbel_office_Modern_Office_Shadowless_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#summerplains_assets": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#summerplains_cobblestone_tiles_brown": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#summerplains_rock_grey_spritesheet": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#summerplains_tiles": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#summerplains_waterfall_spritesheet_version2": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#summerplains_wooden_fence": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#summerplains_wooden_path_tiles": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#walls_Room_Builder_3d_walls_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#walls_Room_Builder_Walls_32x32": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#walls_Room_Builder_borders_32x32": {
+            "scaleInDock": 1
+        },
         "gameroom.tmj": {
             "expandedGroupLayers": [
                 5,
@@ -3520,6 +3660,7 @@
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "digitalmesse2025.tmj",
         "virtuelle Messehalle.tmj",
         "Mehrwertforum.tmj",
         "digitalmesse.360.grad.tmj",
@@ -3530,8 +3671,7 @@
         "Mehrwertforum v2.tmj",
         "Mehrwertforum version 30.07.tmj",
         "Mehrwertforum new grass.tmj",
-        "digitalmesse.360.grad.keynote.tmj",
-        "digitalmesse.360.grad.binden.tmj"
+        "digitalmesse.360.grad.keynote.tmj"
     ],
     "resizeMap.removeObjects": true,
     "textEdit.monospace": true,
