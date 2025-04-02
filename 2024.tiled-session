@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "virtuelle Messehalle.tmj",
+    "activeFile": "digitalmesse2025.tmj",
     "expandedProjectPaths": [
         "tilesets",
-        ".",
-        "tilesets/Custom"
+        "tilesets/Custom",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -3140,14 +3140,15 @@
         },
         "digitalmesse2025.tmj": {
             "expandedGroupLayers": [
+                48,
                 57,
                 51
             ],
             "scale": 1,
-            "selectedLayer": 10,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1795,
-                "y": 2015.5
+                "x": 1442.5,
+                "y": 1888
             }
         },
         "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
@@ -3187,16 +3188,58 @@
         "digitalmesse2025.tmj#carpets": {
             "scaleInDock": 1
         },
+        "digitalmesse2025.tmj#custom_Ankommen": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_Automatisierung": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_BSP": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_CRR": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_Effizienz": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_Engpass": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_Info Point": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_MaRisk": {
+            "scaleInDock": 1
+        },
         "digitalmesse2025.tmj#custom_Pfeiltasten": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_Potentiale": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_Problem": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_RK-Allokation": {
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_Startbereich": {
             "scaleInDock": 1
         },
+        "digitalmesse2025.tmj#custom_Steuern": {
+            "scaleInDock": 1
+        },
         "digitalmesse2025.tmj#custom_feedback standort gekrümmt": {
             "scaleInDock": 1
         },
+        "digitalmesse2025.tmj#custom_floor_digitalmesse2025": {
+            "scaleInDock": 1
+        },
         "digitalmesse2025.tmj#custom_footstep_mehrwert": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_pricing": {
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#floor_Room_Builder_Floor_Paths_32x32": {
@@ -3658,16 +3701,14 @@
     "map.lastUsedFormat": "json",
     "map.width": 45,
     "openFiles": [
-        "virtuelle Messehalle.tmj",
-        "digitalmesse.360.grad.tmj",
-        "Mehrwertforum.tmj"
+        "digitalmesse2025.tmj"
     ],
     "project": "2024.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "digitalmesse2025.tmj",
         "digitalmesse.360.grad.tmj",
         "Mehrwertforum.tmj",
-        "digitalmesse2025.tmj",
         "virtuelle Messehalle.tmj",
         "Projekt KSC.tmj",
         "digitalmesse.360.grad.gestalten.tmj",
