@@ -2977,8 +2977,8 @@
         },
         "digitalmesse.360.grad.tmj": {
             "expandedGroupLayers": [
-                26,
                 14,
+                26,
                 10
             ],
             "expandedObjectLayers": [
@@ -2987,8 +2987,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1153.3333333333333,
-                "y": 1594
+                "x": 1085.3333333333333,
+                "y": 3134
             }
         },
         "digitalmesse.360.grad.tmj#12_Kitchen_Shadowless_32x32": {
@@ -3140,15 +3140,15 @@
         },
         "digitalmesse2025.tmj": {
             "expandedGroupLayers": [
-                51,
                 57,
+                51,
                 48
             ],
             "scale": 1,
-            "selectedLayer": 4,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 1861,
-                "y": 1007.5
+                "x": 3186,
+                "y": 2045.5
             }
         },
         "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
@@ -3228,6 +3228,15 @@
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_Steuern": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_bodenOptionBlau": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_bodenOptionLila": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_bodenOptionTürkis": {
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_feedback standort gekrümmt": {
@@ -3704,7 +3713,7 @@
         "digitalmesse2025.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "digitalmesse2025.tmj",
         "digitalmesse.360.grad.tmj",

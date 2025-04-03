@@ -1252,6 +1252,28 @@
                  "width":454,
                  "x":3098,
                  "y":1794
+                }, 
+                {
+                 "height":507,
+                 "id":82,
+                 "name":"jitsi-RK-Allokation",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"RK-Allokation"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"RK-Allokation"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":577,
+                 "x":3041,
+                 "y":1924
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1442,7 +1464,7 @@
          "y":0
         }],
  "nextlayerid":64,
- "nextobjectid":82,
+ "nextobjectid":83,
  "orientation":"orthogonal",
  "properties":[
         {
