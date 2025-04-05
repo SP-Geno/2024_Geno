@@ -5,8 +5,8 @@
     },
     "activeFile": "digitalmesse2025.tmj",
     "expandedProjectPaths": [
-        "tilesets",
         "tilesets/Custom",
+        "tilesets",
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -3144,11 +3144,14 @@
                 51,
                 48
             ],
+            "expandedObjectLayers": [
+                7
+            ],
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
                 "x": 3186,
-                "y": 2045.5
+                "y": 1667.5
             }
         },
         "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
