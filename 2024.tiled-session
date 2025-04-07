@@ -5,9 +5,9 @@
     },
     "activeFile": "digitalmesse2025.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
+        "tilesets",
         ".",
-        "tilesets"
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -3140,9 +3140,9 @@
         },
         "digitalmesse2025.tmj": {
             "expandedGroupLayers": [
-                51,
+                57,
                 48,
-                57
+                51
             ],
             "expandedObjectLayers": [
                 7
@@ -3150,8 +3150,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 356,
-                "y": 1430
+                "x": 888,
+                "y": 1166.6666666666665
             }
         },
         "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
@@ -3255,7 +3255,8 @@
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_bodenTürkis 1": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "digitalmesse2025.tmj#custom_feedback standort gekrümmt": {
             "scaleInDock": 1

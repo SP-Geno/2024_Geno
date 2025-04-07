@@ -2296,19 +2296,6 @@
          "tilecount":20,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":1,
-         "firstgid":32400,
-         "image":"tilesets\/Custom\/digitalmesse 2025\/bodenT\u00fcrkis 1.png",
-         "imageheight":32,
-         "imagewidth":32,
-         "margin":0,
-         "name":"custom_bodenT\u00fcrkis 1",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
