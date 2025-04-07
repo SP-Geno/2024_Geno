@@ -6,8 +6,8 @@
     "activeFile": "digitalmesse2025.tmj",
     "expandedProjectPaths": [
         "tilesets/Custom",
-        "tilesets",
-        "."
+        ".",
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -3140,18 +3140,18 @@
         },
         "digitalmesse2025.tmj": {
             "expandedGroupLayers": [
-                57,
                 51,
-                48
+                48,
+                57
             ],
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 1,
-            "selectedLayer": 13,
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 3186,
-                "y": 1667.5
+                "x": 356,
+                "y": 1430
             }
         },
         "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
@@ -3200,7 +3200,13 @@
         "digitalmesse2025.tmj#custom_BSP": {
             "scaleInDock": 1
         },
+        "digitalmesse2025.tmj#custom_BodenLilaOption 1 lila lila": {
+            "scaleInDock": 1
+        },
         "digitalmesse2025.tmj#custom_CRR": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_CRR III": {
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_Effizienz": {
@@ -3209,7 +3215,13 @@
         "digitalmesse2025.tmj#custom_Engpass": {
             "scaleInDock": 1
         },
+        "digitalmesse2025.tmj#custom_Engpass Personal": {
+            "scaleInDock": 1
+        },
         "digitalmesse2025.tmj#custom_Info Point": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_Info-Point": {
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_MaRisk": {
@@ -3240,6 +3252,9 @@
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_bodenOptionTürkis": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_bodenTürkis 1": {
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_feedback standort gekrümmt": {
