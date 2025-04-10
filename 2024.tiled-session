@@ -3141,21 +3141,21 @@
         "digitalmesse2025.tmj": {
             "expandedGroupLayers": [
                 48,
-                57,
-                51
+                51,
+                57
             ],
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.75,
-            "selectedLayer": 10,
+            "scale": 0.5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 445.33333333333337,
-                "y": 1899.333333333333
+                "x": 410,
+                "y": 881
             }
         },
         "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.33
         },
         "digitalmesse2025.tmj#Steuerung 128x128": {
             "scaleInDock": 1
@@ -3228,7 +3228,11 @@
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_Option Lila 2": {
+            "scaleInDock": 0.33,
             "scaleInEditor": 1
+        },
+        "digitalmesse2025.tmj#custom_Option Lila 3": {
+            "scaleInDock": 0.33
         },
         "digitalmesse2025.tmj#custom_Option Türkis 1": {
             "scaleInDock": 1
@@ -3277,25 +3281,25 @@
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_pricing": {
-            "scaleInDock": 1
+            "scaleInDock": 0.33
         },
         "digitalmesse2025.tmj#floor_Room_Builder_Floor_Paths_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.33
         },
         "digitalmesse2025.tmj#floor_Room_Builder_Floors_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.33
         },
         "digitalmesse2025.tmj#garten11_Camping_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "digitalmesse2025.tmj#garten_17_Garden_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "digitalmesse2025.tmj#garten_GuttyKreumNatureTiles": {
-            "scaleInDock": 1
+            "scaleInDock": 0.33
         },
         "digitalmesse2025.tmj#garten_Swimming_Pool_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.33
         },
         "digitalmesse2025.tmj#geno logo": {
             "scaleInDock": 1
@@ -3343,7 +3347,7 @@
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#summerplains_tiles": {
-            "scaleInDock": 1
+            "scaleInDock": 0.33
         },
         "digitalmesse2025.tmj#summerplains_waterfall_spritesheet_version2": {
             "scaleInDock": 1
