@@ -5,9 +5,9 @@
     },
     "activeFile": "digitalmesse2025.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
         ".",
-        "tilesets"
+        "tilesets",
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -3140,8 +3140,8 @@
         },
         "digitalmesse2025.tmj": {
             "expandedGroupLayers": [
-                57,
                 48,
+                57,
                 51
             ],
             "expandedObjectLayers": [
