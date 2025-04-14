@@ -3140,18 +3140,18 @@
         },
         "digitalmesse2025.tmj": {
             "expandedGroupLayers": [
-                48,
+                51,
                 57,
-                51
+                48
             ],
             "expandedObjectLayers": [
                 7
             ],
             "scale": 1,
-            "selectedLayer": 0,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 2031,
-                "y": 2581.5
+                "x": 3327,
+                "y": 565.5
             }
         },
         "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
