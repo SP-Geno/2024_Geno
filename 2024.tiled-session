@@ -5,8 +5,8 @@
     },
     "activeFile": "digitalmesse2025.tmj",
     "expandedProjectPaths": [
-        "tilesets/Custom",
         ".",
+        "tilesets/Custom",
         "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
