@@ -5,9 +5,9 @@
     },
     "activeFile": "digitalmesse2025.tmj",
     "expandedProjectPaths": [
+        ".",
         "tilesets",
-        "tilesets/Custom",
-        "."
+        "tilesets/Custom"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -388,11 +388,11 @@
             "scaleInDock": 1
         },
         "Mehrwertforum v2.tmj": {
-            "scale": 1.5,
-            "selectedLayer": 15,
+            "scale": 2,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 1637.3333333333333,
-                "y": 480.3333333333333
+                "x": 819.25,
+                "y": 1217.5
             }
         },
         "Mehrwertforum v2.tmj#Baumhaus_7_Villas_32x32": {
@@ -3140,18 +3140,18 @@
         },
         "digitalmesse2025.tmj": {
             "expandedGroupLayers": [
-                48,
                 57,
+                48,
                 51
             ],
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 1,
+            "scale": 1.5,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 3360,
-                "y": 650.5
+                "x": 1185,
+                "y": 1847.9999999999998
             }
         },
         "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
@@ -3287,6 +3287,9 @@
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_footstep_mehrwert": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_footstep_neongelb": {
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_pricing": {
@@ -3751,13 +3754,15 @@
     "map.lastUsedFormat": "json",
     "map.width": 45,
     "openFiles": [
-        "digitalmesse2025.tmj"
+        "digitalmesse2025.tmj",
+        "Mehrwertforum v2.tmj"
     ],
     "project": "2024.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
-        "digitalmesse.360.grad.binden.tmj",
+        "Mehrwertforum v2.tmj",
         "digitalmesse2025.tmj",
+        "digitalmesse.360.grad.binden.tmj",
         "digitalmesse.360.grad.tmj",
         "Mehrwertforum.tmj",
         "virtuelle Messehalle.tmj",
@@ -3765,7 +3770,6 @@
         "digitalmesse.360.grad.gestalten.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
         "Mehrwertforum_grass.tmj",
-        "Mehrwertforum v2.tmj",
         "Mehrwertforum version 30.07.tmj",
         "Mehrwertforum new grass.tmj"
     ],
