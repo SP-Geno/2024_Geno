@@ -5,9 +5,9 @@
     },
     "activeFile": "digitalmesse2025.tmj",
     "expandedProjectPaths": [
+        "tilesets/Custom",
         ".",
-        "tilesets",
-        "tilesets/Custom"
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -391,8 +391,8 @@
             "scale": 2,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 819.25,
-                "y": 1217.5
+                "x": 819.5,
+                "y": 1217.75
             }
         },
         "Mehrwertforum v2.tmj#Baumhaus_7_Villas_32x32": {
@@ -3140,18 +3140,18 @@
         },
         "digitalmesse2025.tmj": {
             "expandedGroupLayers": [
-                57,
                 48,
+                57,
                 51
             ],
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 1.5,
-            "selectedLayer": 11,
+            "scale": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1185,
-                "y": 1847.9999999999998
+                "x": 3350,
+                "y": 901.5
             }
         },
         "digitalmesse2025.tmj#Baumhaus_7_Villas_32x32": {
@@ -3207,6 +3207,16 @@
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_CRR III": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_DownloadBöden": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "digitalmesse2025.tmj#custom_Downloadböden": {
+            "scaleInDock": 1
+        },
+        "digitalmesse2025.tmj#custom_Downloadfläche": {
             "scaleInDock": 1
         },
         "digitalmesse2025.tmj#custom_Effizienz": {
@@ -3748,7 +3758,7 @@
         }
     },
     "frame.defaultDuration": 100,
-    "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/Mehrwertforum/Mehrwertforum Räume (128 x 64 px)",
+    "last.externalTilesetPath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/digitalmesse 2025",
     "last.imagePath": "C:/Users/GenoAkademie/Documents/GitHub/2024_Geno/tilesets/Custom/digitalmesse 2025",
     "map.height": 45,
     "map.lastUsedFormat": "json",
