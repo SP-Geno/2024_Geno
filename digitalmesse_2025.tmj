@@ -1000,9 +1000,9 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":2374.42569300281,
-                 "id":60,
-                 "name":"silentZone1",
+                 "height":1974,
+                 "id":66,
+                 "name":"silentZone4",
                  "properties":[
                         {
                          "name":"silent",
@@ -1012,12 +1012,29 @@
                  "rotation":0,
                  "type":"area",
                  "visible":false,
-                 "width":197.087815510089,
-                 "x":96.55098302601,
-                 "y":181.783856392722
+                 "width":1268,
+                 "x":84,
+                 "y":40
                 }, 
                 {
-                 "height":143.515151515152,
+                 "height":938,
+                 "id":81,
+                 "name":"silentZone3",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":false,
+                 "width":1942,
+                 "x":898,
+                 "y":1086
+                }, 
+                {
+                 "height":583.515151515152,
                  "id":63,
                  "name":"silentZone2",
                  "properties":[
@@ -1029,184 +1046,14 @@
                  "rotation":0,
                  "type":"area",
                  "visible":false,
-                 "width":3788,
-                 "x":96,
+                 "width":1660,
+                 "x":1000,
                  "y":52
                 }, 
                 {
-                 "height":1726,
-                 "id":66,
-                 "name":"silentZone5",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":736,
-                 "x":864,
-                 "y":708
-                }, 
-                {
-                 "height":1720,
-                 "id":67,
-                 "name":"silentZone6",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":740,
-                 "x":2370,
-                 "y":710
-                }, 
-                {
-                 "height":452,
-                 "id":68,
-                 "name":"silentZone7",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":768,
-                 "x":1600,
-                 "y":700
-                }, 
-                {
-                 "height":706,
-                 "id":81,
-                 "name":"silentZone8",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":762,
-                 "x":1606,
-                 "y":1734
-                }, 
-                {
-                 "height":72,
-                 "id":70,
-                 "name":"silentZone9",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":574,
-                 "x":290,
-                 "y":1854
-                }, 
-                {
-                 "height":68,
-                 "id":71,
-                 "name":"silentZone10",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":574,
-                 "x":290,
-                 "y":1276
-                }, 
-                {
-                 "height":80,
-                 "id":72,
-                 "name":"silentZone11",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":582,
-                 "x":284,
-                 "y":696
-                }, 
-                {
-                 "height":512,
-                 "id":73,
-                 "name":"silentZone12",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":116,
-                 "x":870,
-                 "y":196
-                }, 
-                {
-                 "height":506,
-                 "id":74,
-                 "name":"silentZone13",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":136,
-                 "x":1564,
-                 "y":198
-                }, 
-                {
-                 "height":514,
-                 "id":75,
-                 "name":"silentZone14",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":126,
-                 "x":2272,
-                 "y":192
-                }, 
-                {
-                 "height":504,
+                 "height":1973.69696969697,
                  "id":76,
-                 "name":"silentZone15",
+                 "name":"silentZone1",
                  "properties":[
                         {
                          "name":"silent",
@@ -1216,60 +1063,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":false,
-                 "width":132,
-                 "x":2978,
-                 "y":196
-                }, 
-                {
-                 "height":72,
-                 "id":77,
-                 "name":"silentZone16",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":572,
-                 "x":3106,
-                 "y":700
-                }, 
-                {
-                 "height":60,
-                 "id":78,
-                 "name":"silentZone17",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":572,
-                 "x":3108,
-                 "y":1280
-                }, 
-                {
-                 "height":72,
-                 "id":79,
-                 "name":"silentZone18",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":570,
-                 "x":3108,
-                 "y":1856
+                 "width":1271.39393939394,
+                 "x":2235.57575757576,
+                 "y":41.4545454545455
                 }],
          "opacity":1,
          "type":"objectgroup",
