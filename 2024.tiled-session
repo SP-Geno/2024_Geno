@@ -12,7 +12,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "#Castle2": {
@@ -388,11 +388,11 @@
             "scaleInDock": 1
         },
         "Mehrwertforum v2.tmj": {
-            "scale": 2,
+            "scale": 0.75,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 819.5,
-                "y": 1218.25
+                "x": 762.6666666666665,
+                "y": 438
             }
         },
         "Mehrwertforum v2.tmj#Baumhaus_7_Villas_32x32": {
@@ -3402,10 +3402,10 @@
                 57
             ],
             "scale": 0.5,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 2810,
-                "y": 629
+                "x": 1868,
+                "y": 897
             }
         },
         "digitalmesse_2025.tmj#Baumhaus_7_Villas_32x32": {
@@ -3565,6 +3565,9 @@
         "digitalmesse_2025.tmj#custom_bodenschriftUnternehmenssanierung": {
             "scaleInDock": 0.75
         },
+        "digitalmesse_2025.tmj#custom_digitalmesse2025 logo": {
+            "scaleInDock": 1
+        },
         "digitalmesse_2025.tmj#custom_feedback standort gekrümmt": {
             "scaleInDock": 1
         },
@@ -3575,7 +3578,8 @@
             "scaleInDock": 0.75
         },
         "digitalmesse_2025.tmj#custom_logo_digitalmesse2025": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
         },
         "digitalmesse_2025.tmj#custom_pricing": {
             "scaleInDock": 1
