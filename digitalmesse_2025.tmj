@@ -1017,7 +1017,7 @@
                  "y":40
                 }, 
                 {
-                 "height":923.333333333333,
+                 "height":916,
                  "id":81,
                  "name":"silentZone3",
                  "properties":[
@@ -1051,7 +1051,7 @@
                  "y":52
                 }, 
                 {
-                 "height":1973.69696969697,
+                 "height":1967.19696969697,
                  "id":76,
                  "name":"silentZone1",
                  "properties":[
