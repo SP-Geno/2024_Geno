@@ -145,7 +145,7 @@
          "name":"collides",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -999,74 +999,6 @@
          "id":7,
          "name":"floorLayer",
          "objects":[
-                {
-                 "height":123,
-                 "id":87,
-                 "name":"silentZone8",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":890,
-                 "x":1350,
-                 "y":641
-                }, 
-                {
-                 "height":123,
-                 "id":66,
-                 "name":"silentZone7",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":299,
-                 "x":1941,
-                 "y":964
-                }, 
-                {
-                 "height":123,
-                 "id":86,
-                 "name":"silentZone6",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":299,
-                 "x":1342,
-                 "y":961
-                }, 
-                {
-                 "height":136,
-                 "id":85,
-                 "name":"silentZone5",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":false,
-                 "width":473,
-                 "x":1552,
-                 "y":766
-                }, 
                 {
                  "height":1974,
                  "id":84,
