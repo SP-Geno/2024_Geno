@@ -1000,7 +1000,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":1970.66666666667,
+                 "height":1976.66666666667,
                  "id":84,
                  "name":"silentZone4",
                  "properties":[
@@ -1017,7 +1017,7 @@
                  "y":40
                 }, 
                 {
-                 "height":916,
+                 "height":930,
                  "id":81,
                  "name":"silentZone3",
                  "properties":[
@@ -1051,7 +1051,7 @@
                  "y":52
                 }, 
                 {
-                 "height":1967.19696969697,
+                 "height":1975.19696969697,
                  "id":76,
                  "name":"silentZone1",
                  "properties":[
