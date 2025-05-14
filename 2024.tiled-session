@@ -5,8 +5,8 @@
     },
     "activeFile": "digitalmesse_2025.tmj",
     "expandedProjectPaths": [
-        "tilesets",
         "tilesets/Custom",
+        "tilesets",
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -3404,11 +3404,11 @@
             "expandedObjectLayers": [
                 7
             ],
-            "scale": 0.25,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1424,
-                "y": 758
+                "x": 718,
+                "y": 2033
             }
         },
         "digitalmesse_2025.tmj#Baumhaus_7_Villas_32x32": {
@@ -3592,6 +3592,15 @@
         },
         "digitalmesse_2025.tmj#custom_sign_Pfeil": {
             "scaleInDock": 0.75
+        },
+        "digitalmesse_2025.tmj#custom_wegweiserProduktion": {
+            "scaleInDock": 1
+        },
+        "digitalmesse_2025.tmj#custom_wegweiserSteuerung": {
+            "scaleInDock": 1
+        },
+        "digitalmesse_2025.tmj#custom_wegweiserVertrieb": {
+            "scaleInDock": 1
         },
         "digitalmesse_2025.tmj#floor_Room_Builder_Floor_Paths_32x32": {
             "scaleInDock": 0.75
@@ -4069,8 +4078,8 @@
     "project": "2024.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "digitalmesse2025.tmj",
         "digitalmesse_2025.tmj",
+        "digitalmesse2025.tmj",
         "Mehrwertforum v2.tmj",
         "digitalmesse.360.grad.entwickeln.tmj",
         "digitalmesse.360.grad.binden.tmj",
